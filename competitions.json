@@ -1,6 +1,6 @@
 {
  "version": 2,
- "count": 143,
+ "count": 142,
  "competitions": [
   {
    "officialName": "제22회 사천 수궁가 전국 판소리·고법 경연대회",
@@ -11248,79 +11248,6 @@
     "confidence": "high",
     "sourceType": "aggregator-wevity",
     "notes": "표지 그림 공모전(경연 아님)"
-   },
-   "noticeText": "",
-   "noticeImages": []
-  },
-  {
-   "officialName": "2026년 국립부산국악원 영남춤축제 서포터즈 모집",
-   "region": "부산",
-   "city": "부산",
-   "genres": [
-    "대외활동/서포터즈"
-   ],
-   "levels": [
-    "일반부"
-   ],
-   "instrumental": false,
-   "vocal": false,
-   "dance": false,
-   "percussion": false,
-   "elementary": false,
-   "middle": false,
-   "high": false,
-   "general": true,
-   "applyPeriod": "2026-07-06 ~ 2026-07-20",
-   "host": "국립부산국악원",
-   "month": "",
-   "round": "",
-   "contact": "https://busan.gugak.go.kr/BG/contents/BG0402010000.do?schM=view&id=20260703102250717987",
-   "registrationOrder": "",
-   "verified": true,
-   "sourceUrl": "https://www.wevity.com/index.php?c=find&s=1&sw=%EA%B5%AD%EC%95%85&gbn=view&gp=1&ix=109136",
-   "seedName": "2026년 국립부산국악원 영남춤축제 서포터즈 모집",
-   "seedUrl": "https://www.wevity.com/index.php?c=find&s=1&sw=%EA%B5%AD%EC%95%85&gbn=view&gp=1&ix=109136",
-   "source": "wevity",
-   "details": {
-    "competitionDate": "",
-    "dateEnd": "",
-    "dateText": "",
-    "venue": "",
-    "applyStart": "2026-07-06",
-    "applyEnd": "2026-07-20",
-    "applyText": "2026.7.6~7.20",
-    "applyMethod": [],
-    "recipientEmail": [],
-    "mailingAddress": "",
-    "submitDocs": "",
-    "eligibility": {
-     "byLevel": "일반인, 대학생",
-     "restrictions": ""
-    },
-    "entryFee": {
-     "text": "무료",
-     "amount": 0
-    },
-    "feeAmount": {
-     "text": "",
-     "amount": null
-    },
-    "playMinutes": {
-     "text": "",
-     "min": null,
-     "max": null
-    },
-    "preliminary": {
-     "hasPreliminary": false,
-     "method": "",
-     "videoSubmission": "",
-     "notes": ""
-    },
-    "registrationOrder": "",
-    "contact": "국립부산국악원",
-    "confidence": "partial",
-    "sourceType": "aggregator-wevity",
-    "notes": "서포터즈 모집(경연 아님)"
    },
    "noticeText": "",
    "noticeImages": []
