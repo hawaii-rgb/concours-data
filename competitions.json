@@ -7923,18 +7923,18 @@
    "contact": "031-678-5414",
    "registrationOrder": "",
    "verified": true,
-   "sourceUrl": "https://contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607080006",
+   "sourceUrl": "https://www.anseong.go.kr/festival/",
    "seedName": "제2회 THE NEXT 바우덕이 경연대회",
    "seedUrl": "https://contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607080006",
-   "source": "contestkorea",
+   "source": "공홈",
    "details": {
     "competitionDate": "2026-10-04",
-    "dateEnd": "",
-    "dateText": "예선 2026.10.2~3 / 본선 10.4",
+    "dateEnd": "2026-10-04",
+    "dateText": "예선 2026.10.2~3(안성천무대) / 본선 10.4 안성맞춤랜드 메인무대",
     "venue": "안성천무대(예선), 안성맞춤랜드 메인무대(본선)",
     "applyStart": "2026-06-15",
     "applyEnd": "2026-09-04",
-    "applyText": "2026.6.15(월)~9.4(금)",
+    "applyText": "2026.6.15~9.4 네이버폼 온라인(공연영상 url)",
     "applyMethod": [
      "온라인"
     ],
@@ -7946,7 +7946,7 @@
      "restrictions": ""
     },
     "entryFee": {
-     "text": "무료",
+     "text": "무료(만 19~39세 전국 청년)",
      "amount": 0
     },
     "feeAmount": {
@@ -7967,11 +7967,13 @@
     "registrationOrder": "",
     "contact": "031-678-5414",
     "confidence": "high",
-    "sourceType": "aggregator-contestkorea",
-    "notes": "전통/현대 분야 음악·무용·극. 예선 50팀·본선 9팀"
+    "sourceType": "official",
+    "notes": "안성맞춤 남사당 바우덕이축제 공식 포스터(워터마크 없음). 전통/현대 분야, 대상 500만원. 예선 영상심사"
    },
    "noticeText": "",
-   "noticeImages": []
+   "noticeImages": [
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/cbff77312f/p01.png"
+   ]
   },
   {
    "officialName": "충남 제28회 전국농악명인경연대회",
