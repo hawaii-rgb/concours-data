@@ -1701,7 +1701,7 @@
    "month": "9월",
    "applyPeriod": "2026년 8월 10일(월) ~ 8월 23일(일)",
    "host": "주최: 의령군 / 주관: 의령군, (사)가야금병창보존회",
-   "contact": "(044) 862-2340, gayageum@hanmail.net",
+   "contact": "의령군청 문화관광과 055-570-2504 / (사)가야금병창보존회 044-862-2340",
    "registrationOrder": "추첨순 (경연 순서 추첨)",
    "genres": [
     "가야금기악",
@@ -1723,63 +1723,70 @@
    "high": true,
    "general": true,
    "verified": true,
-   "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43427",
+   "sourceUrl": "https://www.uiryeong.go.kr/board/view.uiryeong?boardId=BBS_0000070&menuCd=DOM_000000203003001001&dataSid=316445&gosiNo=36042",
    "seedName": "[문체부장관상] 제13회 의령전국가야금경연대회(09/05-06)",
    "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43427",
-   "source": "국악신문-1",
+   "source": "공홈(의령군)",
    "details": {
     "competitionDate": "2026-09-05",
     "dateEnd": "2026-09-06",
-    "dateText": "2026년 9월 5일(토) ~ 9월 6일(일) [2일간]",
-    "venue": "의령군청소년수련관 (경남 의령군 부림면 신번로 11길 26)",
+    "dateText": "2026.9.5.(토)~9.6.(일) [2일간] · 9.5 초·중등부 예선/단심·시상 + 고·대·일반부 예선, 9.6 고·대·일반부 본선·시상",
+    "venue": "의령군청소년수련관 (경남 의령군 부림면 신번로11길 26)",
     "applyStart": "2026-08-10",
     "applyEnd": "2026-08-23",
-    "applyText": "2026년 8월 10일(월) ~ 8월 23일(일)까지",
+    "applyText": "2026.8.10.(월)~8.23.(일)",
     "applyMethod": [
      "이메일"
     ],
     "recipientEmail": [
-     "gayageum@hanmail.net"
+     "gayageum@daum.net"
     ],
     "mailingAddress": "",
-    "submitDocs": "참가 신청서(사진 반드시 첨부), 개인정보수집활용동의서",
+    "submitDocs": "참가신청서(사진 반드시 첨부), 개인정보수집활용동의서",
     "eligibility": {
-     "byLevel": "초·중·고등부: 대회 기준일로 대한민국 내 재학 중인 학생(비취학 청소년은 준한 부문 참가 가능, 검정고시·대안학교·홈스쿨링 등, 단 고교 졸업자 제외) / 대학부: 재학 및 휴학 중인 대학생 / 일반부: 만18세 이상 일반인(대학생 제외)",
-     "restrictions": "본 경연대회 대상 수상자는 동일 부문 참가 불가(훈격이 격상된 경우 제외), 초등부는 3인 이상 단체 출전 가능하나 개인과 단체 중복 출전 불가"
+     "byLevel": "초·중·고등부: 대회 기준일로 대한민국 내 초·중·고 재학생(비취학 청소년은 해당 연령 부문 참가 가능, 단 고교 졸업자 제외) / 대학부: 대학 재학·휴학생 / 일반부: 만 18세 이상 일반인(대학생 제외)",
+     "restrictions": "초등부는 3인 이상 단체 출전 가능(개인·단체 중복 출전 불가). 본 대회 대상 수상자는 동일 부문 참가 불가(훈격 격상 시 제외)"
     },
     "entryFee": {
-     "text": "전 부문 참가비 없음",
+     "text": "전부문 참가비 없음(무료)",
      "amount": 0
     },
     "feeAmount": {
-     "text": "경연 반주는 주최측의 지정 반주 또는 참가자가 직접 대동 가능 (지정반주비 무료)",
+     "text": "지정고수 신청 무료(경연 반주는 주최측 지정반주 또는 참가자 직접 대동)",
      "amount": 0
     },
     "playMinutes": {
-     "text": "예선/본선(단심) 경연 - 초등부 자유곡 3분, 중등부 4분, 고등부 기악 예선 5분·본선 8분/병창 예선 5분·본선 8분, 대학부 기악 예선 5분·본선 10분/병창 예선 7분·본선 10분, 일반부 기악 예선 8분·본선 15분/병창 예선 10분·본선 15분",
-     "min": 3,
-     "max": 15
+     "text": "부문·과제곡별 상이 — 초등 자유곡 3분 / 중등 기악 산조 4분·병창 4분 / 고등 예선 연속연주 5분·본선 짧은산조 8분 / 대학 본선 10분 / 일반 예선 8분·본선 15분",
+     "min": null,
+     "max": null
     },
     "preliminary": {
      "hasPreliminary": true,
-     "method": "현장 예선 (고등부·대학부·일반부 예선 경연, 초·중등부는 단심제)",
+     "method": "현장 예선(고·대·일반부는 예선→본선, 초·중등부는 단심제). 동영상 예선 아님",
      "videoSubmission": "",
-     "notes": ""
+     "notes": "예선 통과 인원 고8·대6·일4명 본선 진출"
     },
-    "registrationOrder": "추첨 (참가자 확인 및 경연 순서 추첨)",
-    "contact": "(사)가야금병창보존회 044-862-2340",
+    "registrationOrder": "경연 당일 참가자 확인 후 경연 순서 추첨(초·중등 8:30~, 고·대·일반 13:00~/본선 당일 추첨)",
+    "contact": "의령군청 문화관광과 055-570-2504 / (사)가야금병창보존회 044-862-2340",
     "confidence": "high",
-    "sourceType": "official-image",
-    "notes": ""
+    "sourceType": "official-hwpx",
+    "notes": "의령군 공식 홈페이지 공고(제2026-846호) 첨부 .hwpx 원문 렌더링. 요강 11p 이미지 자체 호스팅(국악신문 워터마크본 폐기)",
+    "applyNotes": "이메일 접수만(우편 불가), (사)가야금병창보존회 사무국 gayageum@daum.net(=hanmail.net 동일). 신청서에 사진 반드시 첨부. 메일 제목 예시: \"고등부 가야금산조 부문 이몽룡\". 모든 과제곡 암보 연주, 복장 한복 원칙",
+    "videoRules": ""
    },
    "noticeText": "Tag\n#제13회의령전국가야금경연대회\n# 가야금병창보존회",
    "noticeImages": [
-    "https://www.kukak21.com/data/editor/2607/20260709130408_66db4ffcafce8042c279ae2ea0295aeb_32d4.jpg",
-    "https://www.kukak21.com/data/editor/2607/20260709130412_66db4ffcafce8042c279ae2ea0295aeb_quaq.jpg",
-    "https://www.kukak21.com/data/editor/2607/20260709130415_66db4ffcafce8042c279ae2ea0295aeb_1cm8.jpg",
-    "https://www.kukak21.com/data/editor/2607/20260709130418_66db4ffcafce8042c279ae2ea0295aeb_0faj.jpg",
-    "https://www.kukak21.com/data/editor/2607/20260709130421_66db4ffcafce8042c279ae2ea0295aeb_oml5.jpg",
-    "https://www.kukak21.com/data/editor/2607/20260709130424_66db4ffcafce8042c279ae2ea0295aeb_rb9f.jpg"
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c01dbe7c9a/p01.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c01dbe7c9a/p02.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c01dbe7c9a/p03.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c01dbe7c9a/p04.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c01dbe7c9a/p05.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c01dbe7c9a/p06.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c01dbe7c9a/p07.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c01dbe7c9a/p08.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c01dbe7c9a/p09.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c01dbe7c9a/p10.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c01dbe7c9a/p11.png"
    ]
   },
   {
