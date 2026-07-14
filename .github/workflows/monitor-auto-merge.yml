@@ -1,0 +1,66 @@
+# 일일 모니터링 루틴이 claude/… 브랜치에 push하면, competitions.json 변경만
+# 자동으로 main에 반영한다. (Claude 루틴의 main 직접 push가 막히는 문제 우회.)
+# 안전: competitions.json만 가져오고(ROUTINE.md·images 등 main 것 보호),
+# JSON 유효성 + 대회 수 급감 방지 가드를 통과할 때만 커밋.
+name: monitor-auto-merge
+
+on:
+  push:
+    branches:
+      - "claude/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor-auto-merge
+  cancel-in-progress: false
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Take competitions.json from routine branch
+        run: |
+          set -euo pipefail
+          BR="${GITHUB_REF_NAME}"
+          echo "routine branch: $BR"
+          git fetch origin "$BR"
+          # competitions.json '만' 가져온다 — main의 ROUTINE.md/워크플로/images는 보호
+          git checkout "origin/$BR" -- competitions.json
+
+      - name: Sanity guard (valid JSON, count not dropped)
+        run: |
+          python3 - <<'PY'
+          import json, subprocess, sys
+          new = json.load(open("competitions.json"))["competitions"]
+          old = json.loads(subprocess.check_output(["git", "show", "HEAD:competitions.json"]))["competitions"]
+          print(f"{len(old)} -> {len(new)} competitions")
+          if not isinstance(new, list) or len(new) == 0:
+              sys.exit("empty/invalid competitions.json — abort")
+          if len(new) < len(old) - 5:
+              sys.exit("competition count dropped >5 — abort (안전장치)")
+          PY
+
+      - name: Commit & push to main
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- competitions.json; then
+            echo "no change to competitions.json — nothing to merge"
+            exit 0
+          fi
+          git config user.name "concours-monitor-bot"
+          git config user.email "concours-monitor-bot@users.noreply.github.com"
+          git add competitions.json
+          git commit -m "자동머지: 모니터링 반영 (${GITHUB_REF_NAME})"
+          git push origin main
+
+      - name: Cleanup routine branch
+        if: success()
+        run: git push origin --delete "${GITHUB_REF_NAME}" || true
