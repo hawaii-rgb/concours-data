@@ -51,7 +51,9 @@ jobs:
       - name: Commit & push to main
         run: |
           set -euo pipefail
-          if git diff --quiet -- competitions.json; then
+          # git checkout <ref> -- 는 인덱스+워킹트리를 함께 갱신하므로 워킹트리 diff는
+          # 비어 버린다. HEAD(main)와 비교해야 실제 변경을 감지한다.
+          if git diff --quiet HEAD -- competitions.json; then
             echo "no change to competitions.json — nothing to merge"
             exit 0
           fi
