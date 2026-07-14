@@ -1,7 +1,7 @@
 {
  "dataVersion": 2,
- "detailsVersion": 2,
+ "detailsVersion": 3,
  "count": 132,
  "updatedAt": "2026-07-14",
- "note": "중복 10건 제거 + 접수날짜 보강"
+ "note": "접수 유의사항·영상 제작 규정 필드 추가"
 }
