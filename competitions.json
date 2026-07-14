@@ -7526,15 +7526,15 @@
    "contact": "(043) 742-2655",
    "registrationOrder": "",
    "verified": true,
-   "sourceUrl": "https://www.yd21.go.kr/ydft/html/sub01/010301.html",
+   "sourceUrl": "https://health.yd21.go.kr/kr/html/sub02/020101.html?mode=V&no=fe63464d85a5cbbbfa5b7c8a7cc4f888",
    "seedName": "제51회 전국난계국악경연대회",
    "seedUrl": "https://contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202606170048",
-   "source": "공식홈페이지-영동군(난계국악)",
+   "source": "공홈",
    "details": {
     "competitionDate": "2026-07-25",
     "dateEnd": "2026-07-29",
-    "dateText": "2026.7.25(토)~7.29(수)",
-    "venue": "영동복합문화예술회관",
+    "dateText": "2026.7.25(토)~7.29(수) 5일간 영동복합문화예술회관",
+    "venue": "영동복합문화예술회관 (충북 영동군 영동읍 영동힐링로 117)",
     "applyStart": "2026-06-17",
     "applyEnd": "2026-07-17",
     "applyText": "2026.6.17~7.17 17시까지",
@@ -7570,11 +7570,27 @@
     "registrationOrder": "",
     "contact": "(043)742-2655 / FAX (043)742-0688",
     "confidence": "high",
-    "sourceType": "official-site",
-    "notes": "기악(피리·대금·해금·가야금·거문고·아쟁) 자유곡 독주 | 출처를 영동군 난계국악(공식)으로 변경. 요강 원문은 영동군청 공지사항, 문의 (사)난계기념사업회 043-742-2655."
+    "sourceType": "official-hwp",
+    "notes": "영동군 공식 홈페이지 제51회 전국난계국악경연대회 개최요강 .hwpx 렌더 15p 자체호스팅. 기악(대금·피리·가야금·거문고·아쟁·해금) 초·중·고·대학·일반부"
    },
    "noticeText": "",
-   "noticeImages": []
+   "noticeImages": [
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c7f8b6e2c2/p01.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c7f8b6e2c2/p02.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c7f8b6e2c2/p03.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c7f8b6e2c2/p04.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c7f8b6e2c2/p05.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c7f8b6e2c2/p06.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c7f8b6e2c2/p07.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c7f8b6e2c2/p08.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c7f8b6e2c2/p09.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c7f8b6e2c2/p10.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c7f8b6e2c2/p11.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c7f8b6e2c2/p12.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c7f8b6e2c2/p13.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c7f8b6e2c2/p14.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/c7f8b6e2c2/p15.png"
+   ]
   },
   {
    "officialName": "제21회 이매방 전국무용경연대회",
