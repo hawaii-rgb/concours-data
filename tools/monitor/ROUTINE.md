@@ -64,8 +64,12 @@
 - **국악신문** `kukak21.com` — **그누보드.** (⛔ `article.html?no=` 는 국악타임즈 형식이며 여기선 404)
   - 기사: `/bbs/board.php?bo_table=news&wr_id=<번호>`
   - 섹션 목록: `/bbs/board.php?bo_table=news&me_id=<N>&me_code=<숫자코드>` (섹션 87개), 전체: `/bbs/all.php`
-  - 검색: `&sfl=wr_subject` 또는 `&sfl=wr_subject||wr_content` + `&stx=<키워드>`, 페이지 `&page=N`
-  - ⚠ 전 페이지에 **공고 사이드바 위젯**이 붙어 있어 무의미 질의에도 대회 제목이 뜬다 → 검색결과로 착각 금지.
+  - **검색: `/bbs/search.php?sfl=wr_subject&sop=and&stx=<URL인코딩 키워드>`** (본문까지: `sfl=wr_subject||wr_content`)
+    ⛔ `board.php?bo_table=news&sfl=..&stx=..` 조합은 **에러 없이 조용히 0건**을 반환한다. 반드시 `search.php`.
+  - ⚠ 전 페이지에 **공고 사이드바 위젯**이 붙어 있어 무의미 질의에도 대회 제목·`wr_id`가 60여 개 깔린다.
+    - **wr_id 개수만 세면 "결과 있음"으로 착각한다.** 실측 기준선: 무의미 질의(`zzzznonsense`)에도 wr_id 약 64개.
+    - 판정법: 결과 파싱은 **`<div class="article-list">` 블록 내부로 한정**하고, 질의어가 제목에 실제로
+      들어있는지 확인하라. (실측: `풀피리` 질의 시 board.php=본문 출현 0회(0건), search.php=11회(정상))
 - **국악타임즈** `gugaktimes.com`
   - 기사: `/news/article.html?no=<번호>`
   - 섹션 목록: `/news/section_list_all.html?sec_no=65` (경연대회), `&page=N`
