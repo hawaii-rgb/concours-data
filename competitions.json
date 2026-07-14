@@ -8335,18 +8335,18 @@
    "contact": "arirangsori1011@gmail.com",
    "registrationOrder": "",
    "verified": true,
-   "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=42707",
+   "sourceUrl": "http://www.suncheon.go.kr/kr/news/0004/0005/0001/?mode=view&seq=62068",
    "seedName": "제12회 순천낙안읍성 전국국악대전(06/13-14)",
    "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=42707",
-   "source": "시군명-보조",
+   "source": "공홈",
    "details": {
-    "competitionDate": "2026-06-14",
-    "dateEnd": "",
-    "dateText": "대회기간 2026.6.13(토)~6.14(일) 09:00~17:30 / 2일간. 예선 6.13(토), 본선 6.14(일)",
-    "venue": "순천낙안읍성 객사 (우천시 낙안읍성 낙민관)",
+    "competitionDate": "2026-06-13",
+    "dateEnd": "2026-06-14",
+    "dateText": "2026.6.13.(토)~6.14.(일) 09:30~17:30 순천 낙안읍성 객사(우천시 낙민관)",
+    "venue": "순천 낙안읍성 객사 (우천시 낙안읍성 낙민관)",
     "applyStart": "2026-05-11",
     "applyEnd": "2026-06-10",
-    "applyText": "신청기간: 2026. 5. 11(월) ~ 6. 10(수) 18:00까지",
+    "applyText": "2026.5.11.(월)~6.10.(수) 31일간",
     "applyMethod": [
      "이메일"
     ],
@@ -8381,16 +8381,19 @@
     "registrationOrder": "추첨 - 일정표상 신인부/고등부·명인부/초·중등부·단체부 경연순서 추첨",
     "contact": "(사)낙안읍성판소리보존회 010-3462-0661, 010-2255-1789",
     "confidence": "high",
-    "sourceType": "official-image",
-    "notes": "연주(경연)시간은 제공 이미지에 명시되지 않음. 판소리 개인 6개분야(명인부·신인부·노년부·학생부3) 및 판소리·민요 단체 1개분야"
+    "sourceType": "official-hwp",
+    "notes": "순천시 공식 공고(제2026-1324호) 원본 .hwp 렌더 8p 자체호스팅. 주최 순천시·주관 (사)낙안읍성판소리보존회. 판소리·민요 경연"
    },
    "noticeText": "Tag\n#제12회순천낙안읍성전국국악대전\n# 낙안읍성 판소리보존회",
    "noticeImages": [
-    "https://www.kukak21.com/data/editor/2604/20260429095951_85c9c319b8e33cb293fb3094ae97eccd_fmf3.jpg",
-    "https://www.kukak21.com/data/editor/2604/20260429095932_85c9c319b8e33cb293fb3094ae97eccd_ka35.jpg",
-    "https://www.kukak21.com/data/editor/2604/20260429095935_85c9c319b8e33cb293fb3094ae97eccd_hwqn.jpg",
-    "https://www.kukak21.com/data/editor/2605/20260521132503_8f7b8af1a0a0fa75d107bec643761e07_j5hr.jpg",
-    "https://www.kukak21.com/data/editor/2605/20260521132519_8f7b8af1a0a0fa75d107bec643761e07_3frv.jpg"
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/cb377b34c5/p01.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/cb377b34c5/p02.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/cb377b34c5/p03.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/cb377b34c5/p04.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/cb377b34c5/p05.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/cb377b34c5/p06.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/cb377b34c5/p07.png",
+    "https://raw.githubusercontent.com/hawaii-rgb/concours-data/main/images/cb377b34c5/p08.png"
    ]
   },
   {
