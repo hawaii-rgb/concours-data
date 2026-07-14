@@ -10834,6 +10834,2459 @@
       },
       "noticeImages": [],
       "noticeText": ""
+    },
+    {
+      "officialName": "제50회 부산동래 전국전통예술경연대회",
+      "region": "부산",
+      "city": "동래구",
+      "host": "부산광역시, (사)부산민속예술보존협회",
+      "round": "제50회",
+      "month": "2026-06",
+      "genres": [
+        "무용",
+        "기악"
+      ],
+      "levels": [
+        "중등부",
+        "고등부",
+        "신인부",
+        "일반부",
+        "명인부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604270010",
+      "details": {
+        "competitionDate": "2026-06-20",
+        "dateEnd": "2026-06-21",
+        "dateText": "",
+        "venue": "",
+        "applyStart": "2026-05-18",
+        "applyEnd": "2026-06-15",
+        "applyText": "2026. 5. 18.(월) ~ 2026. 6. 15.(월) 오후5시 마감",
+        "contact": "051-555-0092"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제1회 영주 선비 청소년 국악인재 경연대회",
+      "region": "경북",
+      "city": "영주시",
+      "host": "영주시, 영주문화관광재단",
+      "round": "제1회",
+      "month": "2026-05",
+      "genres": [
+        "기악",
+        "성악",
+        "타악",
+        "무용"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604040007",
+      "details": {
+        "competitionDate": "2026-05-02",
+        "dateEnd": "2026-05-05",
+        "dateText": "2026. 5. 2.(토) ~ 5. 5.(화)",
+        "venue": "영주 선비세상(경상북도 영주시 순흥면 선비세상로 1)",
+        "applyStart": "2026-04-01",
+        "applyEnd": "2026-04-24",
+        "applyText": "2026. 4. 1.(수) ~ 4. 24.(금) 18:00까지",
+        "contact": "054-630-8707"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제3회 강북문화원 국악동요제",
+      "region": "서울",
+      "city": "강북구",
+      "host": "강북문화원",
+      "round": "제3회",
+      "month": "2026-05",
+      "genres": [
+        "국악동요"
+      ],
+      "levels": [
+        "초등부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604080016",
+      "details": {
+        "competitionDate": "2026-05-16",
+        "dateEnd": "",
+        "dateText": "예선 2026. 5. 7.(목) / 본선 2026. 5. 16.(토) 15:00",
+        "venue": "강북문화예술회관 강북진달래홀",
+        "applyStart": "2026-04-20",
+        "applyEnd": "2026-05-01",
+        "applyText": "2026. 4.20.(월) ~ 2026. 5. 1.(금) 18:00",
+        "contact": "02-999-8810"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제20회 과천 전국 경기소리 경창대회",
+      "region": "경기",
+      "city": "과천시",
+      "host": "과천시, (사)한국경기소리보존회",
+      "round": "제20회",
+      "month": "2026-05",
+      "genres": [
+        "경기소리"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "일반부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604070002",
+      "details": {
+        "competitionDate": "2026-05-09",
+        "dateEnd": "",
+        "dateText": "",
+        "venue": "경기소리전수관 상상홀·별무리홀 (경기도 과천시 문원로 40-2)",
+        "applyStart": "2026-04-06",
+        "applyEnd": "2026-05-08",
+        "applyText": "2026.4.6.(월) ~ 5.8(금) 15시까지",
+        "contact": "02-507-5825"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제9회 해봉 전통예술 국악 경연대회",
+      "region": "서울",
+      "city": "",
+      "host": "대한불교조계종, 학교법인 동국대학교",
+      "round": "제9회",
+      "month": "2025-12",
+      "genres": [
+        "기악",
+        "성악",
+        "판소리",
+        "민요",
+        "가야금병창",
+        "정가",
+        "타악",
+        "사물놀이",
+        "농악"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202512100003",
+      "details": {
+        "competitionDate": "2025-12-22",
+        "dateEnd": "",
+        "dateText": "",
+        "venue": "동국대학교 본관 남산홀 및 학술관",
+        "applyStart": "2025-12-08",
+        "applyEnd": "2025-12-19",
+        "applyText": "2025년 12월 8일(월) ~ 12월 19일 오후 5시까지",
+        "contact": "02-3218-4866"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제14회 태안 전국국악경연대회",
+      "region": "충남",
+      "city": "태안군",
+      "host": "(사)태안아리랑보존회",
+      "round": "제14회",
+      "month": "2025-11",
+      "genres": [
+        "판소리",
+        "민요",
+        "무용"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202510120013",
+      "details": {
+        "competitionDate": "2025-11-08",
+        "dateEnd": "",
+        "dateText": "",
+        "venue": "태안문화원 아트홀(태안군 태안읍 백화로192)",
+        "applyStart": "2025-10-01",
+        "applyEnd": "2025-11-06",
+        "applyText": "2025년 10월 1일 ~ 11월 6일 18:00",
+        "contact": "lbhabc@hanmail.net"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제40회 성남전국국악경연대회",
+      "region": "경기",
+      "city": "성남시",
+      "host": "한국국악협회 성남시지부",
+      "round": "제40회",
+      "month": "2025-11",
+      "genres": [
+        "민요",
+        "판소리",
+        "시조",
+        "가야금병창",
+        "기악",
+        "타악",
+        "사물놀이"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202509290019",
+      "details": {
+        "competitionDate": "2025-11-08",
+        "dateEnd": "",
+        "dateText": "2025년 11월 08일 (토요일) 오전10시~",
+        "venue": "야탑유스센터 대강당 (경기도 성남시 분당구 벌말로 30번길 35)",
+        "applyStart": "2025-10-01",
+        "applyEnd": "2025-10-31",
+        "applyText": "2025년 10월 1일(수) ~ 10월 31일(금) 오후 6시까지",
+        "contact": "한국국악협회 성남시지부 010-9784-8228"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제17회 평화통일 직지전국국악대제전",
+      "region": "충북",
+      "city": "청주시",
+      "host": "(사)한국국악협회 청주시지부",
+      "round": "제17회",
+      "month": "2025-10",
+      "genres": [
+        "무용",
+        "기악",
+        "성악",
+        "민요",
+        "판소리",
+        "가야금병창",
+        "타악"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202509230048",
+      "details": {
+        "competitionDate": "2025-10-25",
+        "dateEnd": "",
+        "dateText": "2025년 10월 25일 (토) 오전 9시30분",
+        "venue": "청주예술의전당 소공연장, 대회의실",
+        "applyStart": "2025-09-15",
+        "applyEnd": "2025-10-17",
+        "applyText": "2025년 9월 15일 (월) 09:00 ~ 10월 17일 (금) 18:00",
+        "contact": "043-257-6218"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제12회 문학산 경기12잡가 기악 전국국악경연대회",
+      "region": "인천",
+      "city": "미추홀구",
+      "host": "(사)인천무형유산 제21호 이순희경기12잡가 보전회",
+      "round": "제12회",
+      "month": "2025-09",
+      "genres": [
+        "민요",
+        "잡가",
+        "송서율창",
+        "기악"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "일반부",
+        "명인부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202509020104",
+      "details": {
+        "competitionDate": "2025-09-27",
+        "dateEnd": "",
+        "dateText": "2025년 9월 27일(토)",
+        "venue": "인천국악회관 (인천광역시 미추홀구 수봉안길 78)",
+        "applyStart": "2025-08-15",
+        "applyEnd": "2025-09-24",
+        "applyText": "2025년 08월 15일~2025년 09월 24일(수요일) 17:00까지",
+        "contact": "032-438-2288"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "국창 전도성·이화중선 추모 제8회 임실전국국악경연대회",
+      "region": "전북",
+      "city": "임실군",
+      "host": "(사)한국전통예술진흥회 임실군지회",
+      "round": "제8회",
+      "month": "2025-10",
+      "genres": [
+        "판소리",
+        "무용"
+      ],
+      "levels": [
+        "신인부",
+        "일반부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202508060068",
+      "details": {
+        "competitionDate": "2025-10-11",
+        "dateEnd": "",
+        "dateText": "2025년 10월 11일(토) 09:00 (임실N치즈축제 기간)",
+        "venue": "임실군청소년수련원",
+        "applyStart": "2025-09-01",
+        "applyEnd": "2025-10-10",
+        "applyText": "2025년 9월 1일(월) ~ 10월 10일(금)",
+        "contact": "063-643-2394"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제16회 '뫼솔' 전국국악경연대회",
+      "region": "전북",
+      "city": "전주시",
+      "host": "(사)한국공연문화예술진흥회 '뫼솔'",
+      "round": "제16회",
+      "month": "2025-08",
+      "genres": [
+        "가야금병창",
+        "기악",
+        "타악",
+        "판소리"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "신인부",
+        "일반부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202507220044",
+      "details": {
+        "competitionDate": "2025-08-24",
+        "dateEnd": "",
+        "dateText": "2025년 8월 24일(일)",
+        "venue": "한국전통문화전당 (경원동)",
+        "applyStart": "2025-07-28",
+        "applyEnd": "2025-08-19",
+        "applyText": "2025년 7월 28일(월) ~ 8월 19일(화) 17:00시까지",
+        "contact": "063-909-0819"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "고양시 제10회 송강정철 숭모전국국악경연대회",
+      "region": "경기",
+      "city": "고양시",
+      "host": "(사)송강가사문학보존회",
+      "round": "제10회",
+      "month": "2025-07",
+      "genres": [
+        "민요",
+        "판소리",
+        "송서",
+        "율창",
+        "기악",
+        "무용"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "신인부",
+        "일반부",
+        "명인부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202506230024",
+      "details": {
+        "competitionDate": "2025-07-13",
+        "dateEnd": "",
+        "dateText": "2025년 07월 13일 (일요일)",
+        "venue": "고양시 덕양구청 대회의실·소회의실",
+        "applyStart": "",
+        "applyEnd": "2025-07-10",
+        "applyText": "2025년 06월 15일 ~ 7월 10일 오후 5시 마감 (콘테스트코리아 접수기간 표기는 06.10~07.10로 상이)",
+        "contact": "010-4354-0438"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제27회 창원야철전국국악대전",
+      "region": "경남",
+      "city": "창원시",
+      "host": "(사)영남전통예술진흥회",
+      "round": "제27회",
+      "month": "2025-07",
+      "genres": [
+        "무용",
+        "기악",
+        "성악",
+        "판소리",
+        "가야금병창",
+        "민요",
+        "타악"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "일반부",
+        "신인부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202505260058",
+      "details": {
+        "competitionDate": "2025-07-05",
+        "dateEnd": "2025-07-06",
+        "dateText": "2025. 07. 05(토) ~ 07.06(일)",
+        "venue": "진해문화센터(창원시 진해구 진해대로 325)",
+        "applyStart": "2025-06-01",
+        "applyEnd": "2025-07-01",
+        "applyText": "2025-06-01. 09:00~2025-07-01. 18:00",
+        "contact": "055-262-0580"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제7회 울진금강송 전국국악경연대회",
+      "region": "경북",
+      "city": "울진군",
+      "host": "(사)한국국악협회 경상북도지회 울진군지부",
+      "round": "제7회",
+      "month": "2025-06",
+      "genres": [],
+      "levels": [],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202505070047",
+      "details": {
+        "competitionDate": "2025-06-08",
+        "dateEnd": "",
+        "dateText": "2025.06.08. (일) 오전 8시 30분",
+        "venue": "울진연호문화센터",
+        "applyStart": "2025-05-22",
+        "applyEnd": "2025-06-04",
+        "applyText": "2025년 05월22일~2025년 06월 04일 18:00시 까지 (주말제외)",
+        "contact": "010-9776-8731"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제5회 함양 전국국악경연대회",
+      "region": "경남",
+      "city": "함양군",
+      "host": "함양군, (사)한국국악협회 경상남도지회 함양군지부",
+      "round": "제5회",
+      "month": "2025-05",
+      "genres": [
+        "기악",
+        "성악"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "일반부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202504150060",
+      "details": {
+        "competitionDate": "2025-05-11",
+        "dateEnd": "",
+        "dateText": "2025년 5월 11일(일) 09:00 경연",
+        "venue": "함양문화예술회관 대공연장",
+        "applyStart": "2025-04-14",
+        "applyEnd": "2025-05-07",
+        "applyText": "2025년 4월 14일(월)~5월 7일(수)까지",
+        "contact": "010-4761-3426"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제17회 완도 청해진 전국 국악경연대회",
+      "region": "전남",
+      "city": "완도군",
+      "host": "한국국악협회 완도군지부",
+      "round": "제17회",
+      "month": "2025-10",
+      "genres": [
+        "판소리",
+        "민요",
+        "무용",
+        "사물",
+        "가야금병창",
+        "농악"
+      ],
+      "levels": [
+        "일반부",
+        "신인부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202510140120",
+      "details": {
+        "competitionDate": "2025-10-25",
+        "dateEnd": "",
+        "dateText": "2025. 10. 25(토) 오전 09:30~오후 06:00",
+        "venue": "완도 생활문화센터 공연장",
+        "applyStart": "2025-09-25",
+        "applyEnd": "2025-10-25",
+        "applyText": "2025. 09. 25. ~ 10. 25",
+        "contact": "010-9833-1419"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제6회 공주 전국 어린이국악경연대회",
+      "region": "충남",
+      "city": "공주시",
+      "host": "공주시, 공주전국어린이국악경연대회추진위원회",
+      "round": "제6회",
+      "month": "2025-10",
+      "genres": [
+        "판소리",
+        "민요",
+        "기악",
+        "풍물"
+      ],
+      "levels": [
+        "초등부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202509120049",
+      "details": {
+        "competitionDate": "2025-10-25",
+        "dateEnd": "",
+        "dateText": "본선 2025.10.25. 토 14:00~17:00 (예심 동영상 심사)",
+        "venue": "아트센터 고마 컨벤션홀(고마나루길 90)",
+        "applyStart": "2025-09-08",
+        "applyEnd": "2025-09-30",
+        "applyText": "2025.9.8.월 - 9. 30.화",
+        "contact": "010-8575-8001"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제15회 구미 전국청소년국악경연대회",
+      "region": "경북",
+      "city": "구미시",
+      "host": "경상북도, 구미시",
+      "round": "제15회",
+      "month": "2025-10",
+      "genres": [
+        "관악",
+        "현악",
+        "성악",
+        "판소리",
+        "민요",
+        "가야금병창",
+        "정가",
+        "관현악",
+        "전통타악"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202509090038",
+      "details": {
+        "competitionDate": "2025-10-25",
+        "dateEnd": "",
+        "dateText": "2025년 10월 25일(토) AM 09:00 ~",
+        "venue": "구미 강동문화복지회관",
+        "applyStart": "2025-09-29",
+        "applyEnd": "2025-10-17",
+        "applyText": "9월 29일(월) ~ 10월 17일(금)",
+        "contact": "010-6541-3227"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제21회 구리 전국 경서도 민요경창대회",
+      "region": "경기",
+      "city": "구리시",
+      "host": "한국국악협회 구리시지부",
+      "round": "제21회",
+      "month": "2025-12",
+      "genres": [
+        "민요",
+        "잡가"
+      ],
+      "levels": [
+        "일반부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202510290021",
+      "details": {
+        "competitionDate": "2025-12-07",
+        "dateEnd": "",
+        "dateText": "2025.12.7(일) 오전 9시",
+        "venue": "구리시청 대강당 (구리시 아차산로439)",
+        "applyStart": "2025-10-27",
+        "applyEnd": "2025-12-06",
+        "applyText": "2025.10.27(월)~12.6(토) 18:00",
+        "contact": "031-557-0350"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제19회 전국 하남시 국악경연대회",
+      "region": "경기",
+      "city": "하남시",
+      "host": "(사)한국예술문화단체총연합회 하남지회",
+      "round": "제19회",
+      "month": "2025-11",
+      "genres": [
+        "민요"
+      ],
+      "levels": [
+        "일반부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202510240011",
+      "details": {
+        "competitionDate": "2025-11-30",
+        "dateEnd": "",
+        "dateText": "2025년 11월 30일 일요일 오전 10시",
+        "venue": "하남문화예술회관 소극장(아랑홀)",
+        "applyStart": "2025-10-13",
+        "applyEnd": "2025-11-28",
+        "applyText": "2025년 10월 13일(월)~2025년 11월 28일(금) 오후 6시까지",
+        "contact": "031-792-0909"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제3회 울릉도 독도 아리랑 전국경창대회",
+      "region": "경북",
+      "city": "울릉군",
+      "host": "(사)울릉도아리랑보존회",
+      "round": "제3회",
+      "month": "2025-11",
+      "genres": [
+        "아리랑"
+      ],
+      "levels": [
+        "일반부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202509160071",
+      "details": {
+        "competitionDate": "2025-11-01",
+        "dateEnd": "",
+        "dateText": "2025 .11.01 (09:00~17:00)",
+        "venue": "울릉군 한마음회관 대공연장",
+        "applyStart": "2025-09-21",
+        "applyEnd": "2025-10-20",
+        "applyText": "2025. 9. 21(일)~10.20(월) 18:00까지",
+        "contact": "054-791-3304"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제14회 중원문화의 향연 2025 전국 탄금대 우리소리 경창대회",
+      "region": "충북",
+      "city": "충주시",
+      "host": "충주문화원",
+      "round": "제14회",
+      "month": "2025-10",
+      "genres": [
+        "민요",
+        "판소리",
+        "시조"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202508060056",
+      "details": {
+        "competitionDate": "2025-10-30",
+        "dateEnd": "",
+        "dateText": "2025년 10월 30일(목) 오후 1시 30분 ~",
+        "venue": "충주음악창작소 뮤지트홀 (충북 충주시 사직로 140, 문화동)",
+        "applyStart": "2025-09-18",
+        "applyEnd": "2025-10-15",
+        "applyText": "2025년 9월 18일(목) ~ 10월 15일(수)까지",
+        "contact": "043-847-3906"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제50회 정선아리랑제 전국 아리랑 경창대회",
+      "region": "강원",
+      "city": "정선군",
+      "host": "정선군, (재)정선아리랑문화재단",
+      "round": "제50회",
+      "month": "2025-09",
+      "genres": [
+        "아리랑"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "일반부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202507040034",
+      "details": {
+        "competitionDate": "2025-09-26",
+        "dateEnd": "",
+        "dateText": "본선 대회 2025. 9. 26.(금) 11:30~12:30(학생부), 13:00~14:00(일반부) / 예선 동영상 심사",
+        "venue": "정선아리랑제 메인무대",
+        "applyStart": "2025-07-01",
+        "applyEnd": "2025-08-15",
+        "applyText": "2025.7.1(화) ~ 2025.8.15(금) 18:00",
+        "contact": "033-560-3015"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제4회 만정김소희 상주아리랑전국경창대회",
+      "region": "경북",
+      "city": "상주시",
+      "host": "상주아리랑연구보존회",
+      "round": "제4회",
+      "month": "2024-12",
+      "genres": [
+        "아리랑"
+      ],
+      "levels": [
+        "신인부",
+        "일반부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202411220019",
+      "details": {
+        "competitionDate": "2024-12-11",
+        "dateEnd": "",
+        "dateText": "2024년 12월 11일(수) 예선·본선",
+        "venue": "상주문화회관 (경북 상주시 상산로 235, 상주시청 옆)",
+        "applyStart": "2024-11-20",
+        "applyEnd": "2024-12-10",
+        "applyText": "2024. 11. 20(수) ~ 12. 10(화) 18:00까지",
+        "contact": "010-2251-5323"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제8회 칠곡 전국 아리랑 경창대회",
+      "region": "경북",
+      "city": "칠곡군",
+      "host": "칠곡아리랑보존회",
+      "round": "제8회",
+      "month": "2024-11",
+      "genres": [
+        "아리랑",
+        "민요",
+        "전통무용",
+        "창작무용"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "신인부",
+        "일반부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202410310011",
+      "details": {
+        "competitionDate": "2024-11-17",
+        "dateEnd": "",
+        "dateText": "2024년 11월 17일(일) 09:00 ~",
+        "venue": "향사아트센터",
+        "applyStart": "2024-10-28",
+        "applyEnd": "2024-11-15",
+        "applyText": "2024. 10. 28(월) 09:00~ 11. 15 18:00",
+        "contact": "010-3507-9655"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제26회 대한민국 남도민요 경창대회",
+      "region": "전남",
+      "city": "진도군",
+      "host": "진도군, (사)한국국악협회 전라남도지회 진도군지부",
+      "round": "제26회",
+      "month": "2024-11",
+      "genres": [
+        "민요"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "신인부",
+        "일반부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202410160034",
+      "details": {
+        "competitionDate": "2024-11-23",
+        "dateEnd": "2024-11-24",
+        "dateText": "2024. 11. 23.(토) ~ 11. 24.(일)",
+        "venue": "진도향토문화회관 공연장(전남 진도군 진도읍 진도대로 7197)",
+        "applyStart": "2024-10-21",
+        "applyEnd": "2024-11-20",
+        "applyText": "10월 21일(월) ~ 11월 20일(수)",
+        "contact": "061-544-0588"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제25회 상주 전국 민요경창대회",
+      "region": "경북",
+      "city": "상주시",
+      "host": "상주시, 상주문화원",
+      "round": "제25회",
+      "month": "2024-11",
+      "genres": [
+        "민요",
+        "잡가"
+      ],
+      "levels": [
+        "신인부",
+        "일반부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202410010032",
+      "details": {
+        "competitionDate": "2024-11-13",
+        "dateEnd": "",
+        "dateText": "2024년 11월 13일(수) 09시",
+        "venue": "상주문화회관(상주시 상산로 235)",
+        "applyStart": "2024-10-10",
+        "applyEnd": "2024-11-08",
+        "applyText": "2024. 10. 10(목) ~ 11.8(금) 18:00까지",
+        "contact": "054-535-2339"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제12회 안성맞춤 전국민요경창대회",
+      "region": "경기",
+      "city": "안성시",
+      "host": "안성문화원",
+      "round": "제12회",
+      "month": "2024-10",
+      "genres": [
+        "민요"
+      ],
+      "levels": [
+        "일반부",
+        "신인부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202409260025",
+      "details": {
+        "competitionDate": "2024-10-26",
+        "dateEnd": "",
+        "dateText": "2024. 10. 26.(토) 오전 10시",
+        "venue": "경기안성뮤직플랫폼 공연장",
+        "applyStart": "2024-09-25",
+        "applyEnd": "2024-10-22",
+        "applyText": "2024년 9월 25일~ 10월 22일 17:00까지",
+        "contact": "031-673-2625"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제14회 전국 동구리 전통민요경창대회",
+      "region": "강원",
+      "city": "양양군",
+      "host": "양양문화원",
+      "round": "제14회",
+      "month": "2024-11",
+      "genres": [
+        "민요",
+        "농요",
+        "노동요",
+        "어요",
+        "십이잡가"
+      ],
+      "levels": [
+        "일반부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202409260024",
+      "details": {
+        "competitionDate": "2024-11-12",
+        "dateEnd": "2024-11-13",
+        "dateText": "2024.11.12(화) 예선 ~ 13(수) 본선(09:30~)",
+        "venue": "양양문화복지회관 2층 대공연장(양양군 양양읍 일출로 540)",
+        "applyStart": "2024-10-10",
+        "applyEnd": "2024-10-31",
+        "applyText": "2024. 10. 10(목) ~ 10. 31(목) 18:00 도착분까지",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제32회 청주박팔괘 전국학생국악대제전",
+      "region": "충북",
+      "city": "청주시",
+      "host": "(사)한국국악협회 충청북도지회",
+      "round": "제32회",
+      "month": "2025-10",
+      "genres": [
+        "기악",
+        "무용",
+        "타악"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202509230047",
+      "details": {
+        "competitionDate": "2025-10-26",
+        "dateEnd": "",
+        "dateText": "2025년 10월 26일 (일) 오전9시30분",
+        "venue": "청주예술의전당 대공연장, 소공연장, 대회의실",
+        "applyStart": "2025-09-15",
+        "applyEnd": "2025-10-17",
+        "applyText": "2025년 9월 15일 (월) 09:00 ~ 10월 17일 (금) 18:00",
+        "contact": "043-257-6218"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제11회 세종대왕전통예술경연대회",
+      "region": "서울",
+      "city": "동대문구",
+      "host": "동대문구청, (사)세종대왕기념사업회 부설 한국전통예술위원회",
+      "round": "제11회",
+      "month": "2025-09",
+      "genres": [
+        "무용",
+        "기악",
+        "민요",
+        "판소리"
+      ],
+      "levels": [
+        "고등부",
+        "일반부",
+        "명인부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202507290048",
+      "details": {
+        "competitionDate": "2025-09-12",
+        "dateEnd": "2025-09-14",
+        "dateText": "예선·본선 2025년 9월 12일(금) / 종합결선·경연축제 2025년 9월 14일(일)",
+        "venue": "세종대왕기념관 세종공원 및 동대문구청",
+        "applyStart": "2025-08-11",
+        "applyEnd": "2025-09-09",
+        "applyText": "2025년 8월 11일부터(월) ~ 9월 9일(화) 17:00까지",
+        "contact": "02-924-5302"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제1회 구로구 봄버들축제 전국국악경연대회",
+      "region": "서울",
+      "city": "구로구",
+      "host": "(사)도솔전통예술진흥회 서울시지회",
+      "round": "제1회",
+      "month": "2025-05",
+      "genres": [
+        "민요",
+        "무용",
+        "기악"
+      ],
+      "levels": [
+        "일반부",
+        "신인부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202504070054",
+      "details": {
+        "competitionDate": "2025-05-03",
+        "dateEnd": "",
+        "dateText": "2025년 5월 3일(토요일) 오전9시",
+        "venue": "구로구민회관",
+        "applyStart": "2025-04-08",
+        "applyEnd": "2025-04-30",
+        "applyText": "2025월 4월 8일~4월 30일까지",
+        "contact": "010-6892-9788"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제26회 전국학생풍물경연대회",
+      "region": "인천",
+      "city": "부평구",
+      "host": "인천광역시 부평구",
+      "round": "제26회",
+      "month": "2025-09",
+      "genres": [
+        "풍물",
+        "농악",
+        "사물판굿",
+        "두레놀이",
+        "앉은반"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202506160035",
+      "details": {
+        "competitionDate": "2025-09-27",
+        "dateEnd": "2025-09-28",
+        "dateText": "2025. 9. 27.(토) 초등부 / 9. 28.(일) 중·고등부 09:00(예정)",
+        "venue": "부평시장역 앞 부평풍물대축제 행사장 「꿈무대」(부평구 부평대로69)",
+        "applyStart": "2025-06-12",
+        "applyEnd": "2025-07-25",
+        "applyText": "2025. 6. 12.(목) ~ 2025. 7. 25.(금)",
+        "contact": "032-509-6410"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제8회 동두천 전국농악경연대회",
+      "region": "경기",
+      "city": "동두천시",
+      "host": "동두천시",
+      "round": "제8회",
+      "month": "2024-11",
+      "genres": [
+        "농악"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202411070036",
+      "details": {
+        "competitionDate": "2024-11-30",
+        "dateEnd": "",
+        "dateText": "2024. 11. 30(토) 09:00~ (단심제)",
+        "venue": "동두천 반다비체육센터",
+        "applyStart": "2024-11-08",
+        "applyEnd": "2024-11-29",
+        "applyText": "2024년 11월 8일 (금) ~ 2024년 11월 29일 (금) 17시까지",
+        "contact": "010-9677-8385"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "2024 천년전주 전국국악 경연대회",
+      "region": "전북",
+      "city": "전주시",
+      "host": "(사)전주농악보존회, 한국전통음악예술진흥회",
+      "round": "",
+      "month": "2024-11",
+      "genres": [
+        "기악",
+        "가야금병창",
+        "판소리",
+        "민요",
+        "타악"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "일반부",
+        "신인부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202410180038",
+      "details": {
+        "competitionDate": "2024-11-19",
+        "dateEnd": "",
+        "dateText": "2024.11.19(화)",
+        "venue": "대한노인회 전주시지회(2층 대강당)",
+        "applyStart": "2024-10-26",
+        "applyEnd": "2024-11-08",
+        "applyText": "2024년 10월 26일(토)~ 2024년 11월 8일(금) 오후 6시까지",
+        "contact": "063-286-7874"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "2024 전국 전통연희 경연대회",
+      "region": "전북",
+      "city": "임실군",
+      "host": "필봉농악보존회",
+      "round": "",
+      "month": "2024-09",
+      "genres": [
+        "농악",
+        "탈춤",
+        "전통무용",
+        "풍물굿"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202409050052",
+      "details": {
+        "competitionDate": "2024-09-27",
+        "dateEnd": "2024-09-29",
+        "dateText": "2024년 09월 27일(금) 제19회 전국전통연희 개인놀이 경연대회 / 2024년 09월 29일(일) 제11회 양순용배 전국 풍물굿 경연대회",
+        "venue": "전북특별자치도 임실군 강진면 필봉문화촌 야외공연장(산대마당)",
+        "applyStart": "2024-08-23",
+        "applyEnd": "2024-09-23",
+        "applyText": "2024년 08월 23일~09월 23일(월) 18:00까지",
+        "contact": "063-643-1902"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제8회 은정 전통예술 국악 경연대회",
+      "region": "서울",
+      "city": "중구",
+      "host": "서울특별시 중구청, (재)은정불교문화진흥원",
+      "round": "제8회",
+      "month": "2024-08",
+      "genres": [
+        "기악",
+        "성악",
+        "판소리",
+        "민요",
+        "가야금병창",
+        "정가",
+        "타악",
+        "사물놀이",
+        "농악"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202407290049",
+      "details": {
+        "competitionDate": "2024-08-30",
+        "dateEnd": "2024-08-31",
+        "dateText": "예선 2024년 8월 30일(금) / 본선 2024년 8월 31일(토) 10:00~",
+        "venue": "동국대학교 문화관 / 동국대학교 본관 중강당",
+        "applyStart": "2024-07-15",
+        "applyEnd": "2024-08-29",
+        "applyText": "2024년 7월 15일 ~ 8월 29일 오후 5시까지",
+        "contact": "02-3218-4866"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제31회 충북학생국악경연대회",
+      "region": "충북",
+      "city": "청주시",
+      "host": "충청북도문화원연합회",
+      "round": "제31회",
+      "month": "2025-10",
+      "genres": [
+        "기악",
+        "관악",
+        "현악",
+        "타악",
+        "성악",
+        "판소리",
+        "민요",
+        "병창",
+        "풍물",
+        "사물"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202507300025",
+      "details": {
+        "competitionDate": "2025-10-02",
+        "dateEnd": "",
+        "dateText": "2025년 10월 2일(목)",
+        "venue": "청주예술의전당 소공연장, 대회의실",
+        "applyStart": "2025-08-01",
+        "applyEnd": "2025-09-25",
+        "applyText": "2025년 8월 1일 ~ 9월 25일",
+        "contact": "043-267-7507"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제22회 악성 옥보고 전국 거문고 경연대회",
+      "region": "전북",
+      "city": "남원시",
+      "host": "남원시, (사)악성 옥보고 기념사업회",
+      "round": "제22회",
+      "month": "2025-08",
+      "genres": [
+        "거문고"
+      ],
+      "levels": [
+        "중등부",
+        "고등부",
+        "일반부",
+        "명인부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202507210051",
+      "details": {
+        "competitionDate": "2025-08-23",
+        "dateEnd": "",
+        "dateText": "2025년 8월 23일(토) 1일간",
+        "venue": "남원 춘향문화예술회관 대공연장",
+        "applyStart": "2025-08-18",
+        "applyEnd": "2025-08-21",
+        "applyText": "2025년 8월 18일(월)~8월 21일(목) 23시 59분까지",
+        "contact": "010-7246-9030"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제33회 단원 전국 국악 경연대회",
+      "region": "경기",
+      "city": "안산시",
+      "host": "(사)한국국악협회 안산지부",
+      "round": "제33회",
+      "month": "2025-03",
+      "genres": [
+        "기악",
+        "성악",
+        "가야금병창",
+        "경기민요",
+        "서도민요",
+        "정가",
+        "판소리"
+      ],
+      "levels": [
+        "일반부",
+        "신인부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202502050020",
+      "details": {
+        "competitionDate": "2025-03-29",
+        "dateEnd": "",
+        "dateText": "2025년 3월 29일 (토) 10:00",
+        "venue": "안산문화예술의전당 별무리 (경기도 안산시 단원구 화랑로 312)",
+        "applyStart": "2025-02-01",
+        "applyEnd": "2025-03-15",
+        "applyText": "2025년 2월 1일 ~ 3월 15일 오후 6시까지",
+        "contact": "010-9096-7538"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제30회 안산전국청소년 국악경연대회",
+      "region": "경기",
+      "city": "안산시",
+      "host": "(사)한국국악협회 안산지부",
+      "round": "제30회",
+      "month": "2025-03",
+      "genres": [
+        "기악",
+        "성악",
+        "가야금병창",
+        "경기민요",
+        "서도민요",
+        "정가",
+        "판소리"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202502050019",
+      "details": {
+        "competitionDate": "2025-03-22",
+        "dateEnd": "",
+        "dateText": "2025년 03월 22일 (토) 10:00",
+        "venue": "안산문화예술의전당 - 달맞이, 별무리",
+        "applyStart": "2025-02-04",
+        "applyEnd": "2025-03-15",
+        "applyText": "2025.02.04 - 2025.03.15.",
+        "contact": "010-8587-603"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제32회 전국전통공연예술경연대회",
+      "region": "서울",
+      "city": "양천구",
+      "host": "(사)한국전통예술진흥회",
+      "round": "제32회",
+      "month": "2024-12",
+      "genres": [
+        "기악",
+        "무용",
+        "민요",
+        "판소리"
+      ],
+      "levels": [
+        "신인부",
+        "일반부",
+        "명인부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202411190044",
+      "details": {
+        "competitionDate": "2024-12-07",
+        "dateEnd": "",
+        "dateText": "2024. 12. 07 (토) 09:00~",
+        "venue": "대한민국예술인센터 3층 로운홀(서울시 양천구 목동서로 225)",
+        "applyStart": "2024-11-11",
+        "applyEnd": "2024-12-05",
+        "applyText": "2024. 11. 11. ~ 12. 5. 오후 6시 도착분에 한함",
+        "contact": "010-8821-6524"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제2회 울산 병영교방문화제 심자란 전국국악경연대회",
+      "region": "울산",
+      "city": "중구",
+      "host": "이선숙판소리연구소",
+      "round": "제2회",
+      "month": "2024-11",
+      "genres": [
+        "기악",
+        "판소리",
+        "자란가"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "신인부",
+        "일반부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202409200049",
+      "details": {
+        "competitionDate": "2024-11-03",
+        "dateEnd": "",
+        "dateText": "예선, 본선 2024년 11월 3일(일) 9시 ~ 18시",
+        "venue": "울산 중구 문화의 전당 (함월홀-판소리, 달빛마루-기악)",
+        "applyStart": "2024-10-14",
+        "applyEnd": "2024-10-31",
+        "applyText": "2024년10월14일(월)~10월 31일(목) 오후 6시까지 도착분에 한함",
+        "contact": "ulsan.simjaran@gmail.com"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제4회 전국 심자란 예인 선발대회",
+      "region": "울산",
+      "city": "중구",
+      "host": "(사)국악진흥회 울산광역시지부, 이선숙판소리연구소",
+      "round": "제4회",
+      "month": "2025-11",
+      "genres": [
+        "기악",
+        "성악",
+        "한국무용"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202510040029",
+      "details": {
+        "competitionDate": "2025-11-02",
+        "dateEnd": "",
+        "dateText": "2025년 11월 2일(일) 09:00~18:00",
+        "venue": "울산 중구 동헌 야외마당",
+        "applyStart": "2025-09-25",
+        "applyEnd": "2025-10-30",
+        "applyText": "2025년 9월 25일(목) ~ 10월 30일(목) 오후5시 선착순 접수 마감",
+        "contact": "010-8828-0456"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제22회 대한민국 여성전통예술경연대회",
+      "region": "서울",
+      "city": "종로구",
+      "host": "(사)한국여성국극예술협회",
+      "round": "제22회",
+      "month": "2024-10",
+      "genres": [
+        "기악",
+        "무용",
+        "민요",
+        "가야금병창",
+        "연기",
+        "판소리"
+      ],
+      "levels": [
+        "일반부",
+        "신인부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202409030046",
+      "details": {
+        "competitionDate": "2024-10-12",
+        "dateEnd": "",
+        "dateText": "2024년 10월 12일(토) 오전 10:00 ~",
+        "venue": "상명아트센터 대신홀 (서울시 종로구 홍지문2길 20)",
+        "applyStart": "2024-09-09",
+        "applyEnd": "2024-10-09",
+        "applyText": "2024. 9. 9.(월) ~ 10. 9.(수) 10:00 ~ 24:00시까지 접수",
+        "contact": "02-741-1535"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제25회 수원전국 K-트레디션 뮤직경연대회",
+      "region": "경기",
+      "city": "수원시",
+      "host": "한국국악협회 수원시지부",
+      "round": "제25회",
+      "month": "2025-11",
+      "genres": [
+        "기악",
+        "성악",
+        "타악",
+        "무용"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202510240013",
+      "details": {
+        "competitionDate": "2025-11-22",
+        "dateEnd": "",
+        "dateText": "2025.11.22.(토) 10시~18시",
+        "venue": "팔달문화센터 예당마루",
+        "applyStart": "2025-10-23",
+        "applyEnd": "2025-11-21",
+        "applyText": "",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제33회 임방울국악제 전국대회",
+      "region": "광주",
+      "city": "",
+      "host": "광주광역시, (사)임방울국악진흥회",
+      "round": "제33회",
+      "month": "2025-09",
+      "genres": [
+        "판소리"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "일반부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202506200018",
+      "details": {
+        "competitionDate": "2025-09-12",
+        "dateEnd": "2025-09-15",
+        "dateText": "2025.9.12 ~ 9.15(4일간) / 국악경연: 학생부 9.13(토), 일반부·명창부 9.14(일)~9.15(월)",
+        "venue": "",
+        "applyStart": "2025-08-11",
+        "applyEnd": "2025-09-11",
+        "applyText": "신청서 교부 2025. 8. 11부터 / 접수 마감 2025. 9. 11(목) 18:00까지 도착분",
+        "contact": "062-521-0731"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제36회 전국학생국악경연대회",
+      "region": "서울",
+      "city": "종로구",
+      "host": "한국국악협회",
+      "round": "제36회",
+      "month": "2025-07",
+      "genres": [
+        "기악",
+        "농악",
+        "사물놀이",
+        "성악",
+        "전통무용"
+      ],
+      "levels": [
+        "중등부",
+        "고등부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202506260029",
+      "details": {
+        "competitionDate": "2025-07-19",
+        "dateEnd": "",
+        "dateText": "예선/본선 2025년 7월 19일(토) 대면심사",
+        "venue": "창신아트홀 (서울 종로구 지봉로5길 7-5, 종로구민회관 2층)",
+        "applyStart": "2025-06-16",
+        "applyEnd": "2025-07-16",
+        "applyText": "2025년 6월 16일(월) ~ 7월 16일(수) 18:00",
+        "contact": "010-6266-6190"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제9회 전국 청소년국악경연대회",
+      "region": "인천",
+      "city": "부평구",
+      "host": "(재)부평장학재단",
+      "round": "제9회",
+      "month": "2025-05",
+      "genres": [
+        "관악",
+        "현악",
+        "성악",
+        "경기소리",
+        "서도소리",
+        "판소리",
+        "민요",
+        "잡가",
+        "가야금병창",
+        "정가",
+        "토속민요"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202503170075",
+      "details": {
+        "competitionDate": "2025-05-10",
+        "dateEnd": "",
+        "dateText": "2025년 5월 10일 토요일 09:00 ~",
+        "venue": "부평구 청소년수련관",
+        "applyStart": "2025-04-10",
+        "applyEnd": "2025-05-08",
+        "applyText": "2025년 4월 10일 ~ 5월 8일 목요일 오후 6시까지",
+        "contact": "010-8331-2617"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제2회 벽사한영숙 전국전통무용경연대회",
+      "region": "충남",
+      "city": "",
+      "host": "벽사춤",
+      "round": "제2회",
+      "month": "2026-07",
+      "genres": [
+        "전통무용"
+      ],
+      "levels": [
+        "중등부",
+        "고등부",
+        "일반부",
+        "명인부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202603170038",
+      "details": {
+        "competitionDate": "2026-07-25",
+        "dateEnd": "",
+        "dateText": "2026. 7. 25(토) 09:00~",
+        "venue": "충청남도교육청학생교육문화원",
+        "applyStart": "2026-07-01",
+        "applyEnd": "2026-07-19",
+        "applyText": "7. 1 ～ 7. 19 18시까지",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제17회 광명전국학생국악경연대회",
+      "region": "경기",
+      "city": "광명시",
+      "host": "광명농악보존회",
+      "round": "제17회",
+      "month": "2025-09",
+      "genres": [],
+      "levels": [],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=78787",
+      "details": {
+        "competitionDate": "2025-09-20",
+        "dateText": "2025-09-20 (제17회 광명농악대축제 내 개최)",
+        "venue": "광명전통무형유산전수관",
+        "applyStart": "",
+        "applyEnd": "",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "2026 제1회 대한민국 풀피리 경연대회",
+      "region": "서울",
+      "city": "광진구",
+      "host": "광진문화원, (사)한국풀피리협회",
+      "round": "제1회",
+      "month": "2026-08",
+      "genres": [
+        "풀피리"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=82798",
+      "details": {
+        "competitionDate": "2026-08-08",
+        "dateText": "2026-08-08(토) 13:00~17:00",
+        "venue": "광진문화원 공연장(B1)",
+        "applyStart": "",
+        "applyEnd": "",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제1회 광명전국국악경연대회",
+      "region": "경기",
+      "city": "광명시",
+      "host": "광명농악보존회",
+      "round": "제1회",
+      "month": "2025-09",
+      "genres": [
+        "농악",
+        "기악"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=78787",
+      "details": {
+        "competitionDate": "2025-09-20",
+        "dateText": "2025-09-20 (제17회 광명농악대축제 내 개최)",
+        "venue": "광명전통무형유산전수관",
+        "applyStart": "",
+        "applyEnd": "",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제3회 인천 전통예술 경연대회",
+      "region": "인천",
+      "city": "",
+      "host": "(사)인천남사당놀이보존회",
+      "round": "제3회",
+      "month": "2025-06",
+      "genres": [
+        "사물놀이",
+        "풍물놀이",
+        "궁중무용",
+        "민속무용",
+        "창작무용",
+        "경·서도민요",
+        "남도민요",
+        "토속민요"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=76356",
+      "details": {
+        "competitionDate": "2025-06-07",
+        "dateText": "예선(비대면 동영상 심사) 2025-05-02(금) / 예선결과 발표 2025-05-03(토) / 본선 2025-06-07(토) 10:00~12:00",
+        "venue": "인천대공원 어울큰마당",
+        "applyStart": "2025-04-10",
+        "applyEnd": "2025-04-27",
+        "contact": "032-507-4379"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제23회 성주 전국 시조창 경연대회",
+      "region": "경북",
+      "city": "성주군",
+      "host": "(사)대한시조협회 성주군지회",
+      "round": "제23회",
+      "month": "2024-05",
+      "genres": [
+        "시조창"
+      ],
+      "levels": [
+        "대상부",
+        "명창부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=64531",
+      "details": {
+        "competitionDate": "2024-05-18",
+        "dateText": "2024-05-18",
+        "venue": "성주성당",
+        "applyStart": "",
+        "applyEnd": "",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제30회 달구벌전국국악경연대회",
+      "region": "대구",
+      "city": "",
+      "host": "",
+      "round": "제30회",
+      "month": "2023-10",
+      "genres": [
+        "판소리",
+        "기악",
+        "무용",
+        "연희",
+        "민요",
+        "병창"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=60097",
+      "details": {
+        "competitionDate": "2023-10-29",
+        "dateText": "예선 2023-10-28(영상심사, 모정 이명희 명창 판소리전수관) / 본선 2023-10-29(대면심사)",
+        "venue": "대구광역시 청소년수련원",
+        "applyStart": "",
+        "applyEnd": "",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제16회 상주 전국 국악 경연대회",
+      "region": "경북",
+      "city": "상주시",
+      "host": "상주시, 상주문화원, (사)이명희영남판소리보존회",
+      "round": "제16회",
+      "month": "2023-07",
+      "genres": [
+        "판소리",
+        "기악",
+        "무용",
+        "연희",
+        "민요",
+        "병창"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "일반부"
+      ],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=58366",
+      "details": {
+        "competitionDate": "2023-07-16",
+        "dateText": "2023-07-16(일) 09:00~17:00",
+        "venue": "상주문화회관",
+        "applyStart": "2023-06-01",
+        "applyEnd": "2023-07-10",
+        "contact": "053-793-9535"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제27회 충북민속예술축제 청주시 예선대회",
+      "region": "충북",
+      "city": "청주시",
+      "host": "(사)한국국악협회 청주시지부",
+      "round": "제27회",
+      "month": "2023-07",
+      "genres": [
+        "사물놀이",
+        "풍물",
+        "민속"
+      ],
+      "levels": [
+        "중등부",
+        "고등부",
+        "일반부"
+      ],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=58713",
+      "details": {
+        "competitionDate": "2023-07-11",
+        "dateText": "2023-07-11(화) 오후 3시",
+        "venue": "청주예술의전당 대공연장",
+        "applyStart": "2023-06-20",
+        "applyEnd": "2023-07-04",
+        "contact": "043-257-6218"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제20회 구례 전국가야금경연대회",
+      "region": "전남",
+      "city": "구례군",
+      "host": "구례군, (사)가야금병창보존회",
+      "round": "제20회",
+      "month": "2022-06",
+      "genres": [
+        "가야금산조",
+        "가야금병창",
+        "가야금창작"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "신인부",
+        "대학부",
+        "일반부"
+      ],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=51157",
+      "details": {
+        "competitionDate": "2022-06-18",
+        "dateText": "2022-06-18 ~ 2022-06-19 (2일간)",
+        "venue": "구례군 섬진아트홀",
+        "applyStart": "",
+        "applyEnd": "2022-06-06",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제15회 진도 (고운)김득수 전국고수대회",
+      "region": "전남",
+      "city": "진도군",
+      "host": "진도군, (사)한국국악협회 전라남도지회 진도군지부",
+      "round": "제15회",
+      "month": "2022-10",
+      "genres": [
+        "고법"
+      ],
+      "levels": [
+        "명고부",
+        "일반부",
+        "신인부",
+        "노인부",
+        "학생부(초·중·고)"
+      ],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=53516",
+      "details": {
+        "competitionDate": "2022-10-08",
+        "dateText": "2022-10-08(토) 학생부·노인부·신인부 / 2022-10-09(일) 일반부·명고부",
+        "venue": "진도향토문화회관 공연장(전남 진도군 진도읍 진도대로 7197)",
+        "applyStart": "2022-09-19",
+        "applyEnd": "2022-10-05",
+        "contact": "061-544-0588"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제2회 옥보 김옥진 명창 육자배기 전국대회",
+      "region": "서울",
+      "city": "종로구",
+      "host": "(사)한국여성국극예술협회, 홍성덕 국악사랑",
+      "round": "제2회",
+      "month": "2022-12",
+      "genres": [
+        "육자배기"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=54630",
+      "details": {
+        "competitionDate": "2022-12-04",
+        "dateText": "2022-12-04(일) 오후 3시~",
+        "venue": "창신아트홀(구 종로구민회관, 서울시 종로구 지봉로5길 7-5)",
+        "applyStart": "2022-11-09",
+        "applyEnd": "2022-11-30",
+        "contact": "02-741-1535"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제11회 칠곡 향사 가야금병창 전국대회",
+      "region": "경북",
+      "city": "칠곡군",
+      "host": "칠곡군, 향사 박귀희 명창 기념사업회, (사)한국전통연희단체총연합회 경북지회",
+      "round": "제11회",
+      "month": "2022-10",
+      "genres": [
+        "가야금병창"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "신인부",
+        "일반부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=54127",
+      "details": {
+        "competitionDate": "2022-10-30",
+        "dateText": "예선(비대면 영상심사) 2022-10-29(토) / 본선(대면심사) 2022-10-30(일)",
+        "venue": "경북 칠곡군 향사 아트센터",
+        "applyStart": "2022-10-03",
+        "applyEnd": "2022-10-27",
+        "contact": "010-3548-5447"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제10회 강화 전국국악 경연대회",
+      "region": "인천",
+      "city": "강화군",
+      "host": "인천광역시 강화군, (사)향두계놀이보존회",
+      "round": "제10회",
+      "month": "2022-09",
+      "genres": [
+        "성악",
+        "타악"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=52820",
+      "details": {
+        "competitionDate": "2022-09-03",
+        "dateText": "2022-09-03(토) 오전 10시 (09:00부터 접수확인)",
+        "venue": "강화문예회관",
+        "applyStart": "2022-08-01",
+        "applyEnd": "2022-08-31",
+        "contact": "02-564-0269"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제10회 의정부 죽파가야금경연대회",
+      "region": "경기",
+      "city": "의정부시",
+      "host": "(재)의정부문화재단, (사)가야금산조진흥회, (사)예가회",
+      "round": "제10회",
+      "month": "2022-09",
+      "genres": [
+        "기악",
+        "병창"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "대학부",
+        "일반부",
+        "사제동행"
+      ],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=52757",
+      "details": {
+        "competitionDate": "2022-09-24",
+        "dateText": "예선 2022-09-23(금) / 본선 2022-09-24(토)",
+        "venue": "의정부 예술의전당 국제회의장",
+        "applyStart": "2022-08-29",
+        "applyEnd": "2022-09-19",
+        "contact": "02-582-4470"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제20회 전국서도소리경연대회",
+      "region": "경기",
+      "city": "광명시",
+      "host": "(사)서도소리보존회, 광명시",
+      "round": "제20회",
+      "month": "2022-08",
+      "genres": [
+        "서도소리"
+      ],
+      "levels": [
+        "명창부",
+        "일반부",
+        "신인부",
+        "학생부(고등부)",
+        "학생부(초·중등부)"
+      ],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=52527",
+      "details": {
+        "competitionDate": "2022-08-20",
+        "dateText": "2022-08-20(토) 예선 09:00 / 본선 15:00",
+        "venue": "광명시 평생학습원 강당",
+        "applyStart": "2022-08-01",
+        "applyEnd": "2022-08-17",
+        "contact": "010-2209-5673"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제8회 부여백제 전국국악경연대회",
+      "region": "충남",
+      "city": "부여군",
+      "host": "(사)한국향토전통예술진흥회, (사)한국국악협회 충남지회",
+      "round": "제8회",
+      "month": "2022-07",
+      "genres": [
+        "판소리",
+        "민요",
+        "기악",
+        "무용",
+        "현악",
+        "관악"
+      ],
+      "levels": [
+        "일반부",
+        "학생부"
+      ],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=52707",
+      "details": {
+        "competitionDate": "2022-07-30",
+        "dateText": "2022-07-30 ~ 2022-07-31 (2일간)",
+        "venue": "",
+        "applyStart": "",
+        "applyEnd": "",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제5회 임실 전국국악경연대회",
+      "region": "전북",
+      "city": "임실군",
+      "host": "",
+      "round": "제5회",
+      "month": "2022-10",
+      "genres": [],
+      "levels": [],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=52529",
+      "details": {
+        "competitionDate": "2022-10-08",
+        "dateText": "2022-10-08",
+        "venue": "",
+        "applyStart": "",
+        "applyEnd": "",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제11회 영암김창조가야금 전국대회",
+      "region": "전남",
+      "city": "영암군",
+      "host": "",
+      "round": "제11회",
+      "month": "2022-09",
+      "genres": [],
+      "levels": [],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=52761",
+      "details": {
+        "competitionDate": "2022-09-03",
+        "dateText": "2022-09-03 ~ 2022-09-04",
+        "venue": "",
+        "applyStart": "",
+        "applyEnd": "",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제12회 고령 전국 시조창 경연대회",
+      "region": "경북",
+      "city": "고령군",
+      "host": "고령군, 고령문화원, (사)대한시조협회 고령군지회",
+      "round": "제12회",
+      "month": "2021-11",
+      "genres": [
+        "평시조",
+        "사설시조",
+        "지름시조"
+      ],
+      "levels": [
+        "명인부",
+        "대상부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=28607",
+      "details": {
+        "competitionDate": "2021-11-06",
+        "dateText": "2021-11-06 (비대면 동영상 심사)",
+        "venue": "대가야문화누리",
+        "applyStart": "",
+        "applyEnd": "",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제2회 청도 전국민요 경창대회",
+      "region": "경북",
+      "city": "청도군",
+      "host": "청도군, (사)한국국악협회 청도지부",
+      "round": "제2회",
+      "month": "2021-11",
+      "genres": [
+        "민요"
+      ],
+      "levels": [
+        "일반부",
+        "신인부",
+        "학생부(중고등부)",
+        "학생부(초등부)"
+      ],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=31631",
+      "details": {
+        "competitionDate": "2021-11-20",
+        "dateText": "2021-11-20 (비대면 개최, 경연 2021-11-05~11-18)",
+        "venue": "청도군민회관",
+        "applyStart": "",
+        "applyEnd": "",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제42회 남도국악제",
+      "region": "전남",
+      "city": "화순군",
+      "host": "한국국악협회 전라남도지회, 한국국악협회 화순군지부",
+      "round": "제42회",
+      "month": "2021-11",
+      "genres": [
+        "남도민요",
+        "판소리",
+        "무용",
+        "고수",
+        "농악"
+      ],
+      "levels": [
+        "일반부"
+      ],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=32820",
+      "details": {
+        "competitionDate": "2021-11-26",
+        "dateText": "2021-11-26 (무관객·소규모 개최)",
+        "venue": "하니움문화스포츠센터 적벽실",
+        "applyStart": "",
+        "applyEnd": "",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제1회 유성준·이선유 판소리경연대회",
+      "region": "경남",
+      "city": "하동군",
+      "host": "하동군",
+      "round": "제1회",
+      "month": "2021-12",
+      "genres": [
+        "판소리"
+      ],
+      "levels": [
+        "초등부"
+      ],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=38527",
+      "details": {
+        "competitionDate": "2021-12-27",
+        "dateText": "2021-12-27 (비대면 동영상 심사)",
+        "venue": "판소리기념관",
+        "applyStart": "",
+        "applyEnd": "",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제46회 전국고수대회",
+      "region": "전북",
+      "city": "전주시",
+      "host": "(사)한국국악협회 전북특별자치도지회",
+      "round": "제46회",
+      "month": "2026-06",
+      "genres": [
+        "고법"
+      ],
+      "levels": [
+        "일반부",
+        "신인부"
+      ],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43144",
+      "details": {
+        "competitionDate": "2026-06-13",
+        "dateEnd": "2026-06-14",
+        "dateText": "",
+        "venue": "전주한국전통문화전당",
+        "applyStart": "",
+        "applyEnd": "",
+        "applyText": "",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제27회 서라벌 전국학생민속무용경연대회",
+      "region": "경북",
+      "city": "경주시",
+      "host": "(사)신라전통예술연구회",
+      "round": "제27회",
+      "month": "2025-07",
+      "genres": [
+        "무용"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "신인부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40408",
+      "details": {
+        "competitionDate": "2025-07-19",
+        "dateEnd": "2025-07-20",
+        "dateText": "",
+        "venue": "서라벌문화회관",
+        "applyStart": "2025-07-01",
+        "applyEnd": "2025-07-15",
+        "applyText": "이메일 접수(silla1517@naver.com), 팩스·우편 신청 불가",
+        "contact": "054-742-1518"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제22회 전국대금경연대회",
+      "region": "경북",
+      "city": "경주시",
+      "host": "(사)신라만파식적보존회",
+      "round": "제22회",
+      "month": "2026-06",
+      "genres": [
+        "대금"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "일반부",
+        "신인부"
+      ],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43284",
+      "details": {
+        "competitionDate": "2026-06-06",
+        "dateEnd": "2026-06-07",
+        "dateText": "",
+        "venue": "경주예술의전당 원화홀",
+        "applyStart": "",
+        "applyEnd": "",
+        "applyText": "",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제35회 고령 전국우륵가야금경연대회",
+      "region": "경북",
+      "city": "고령군",
+      "host": "고령군, 고령문화원",
+      "round": "제35회",
+      "month": "2026-04",
+      "genres": [
+        "가야금"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "일반부"
+      ],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=42372",
+      "details": {
+        "competitionDate": "2026-04-10",
+        "dateEnd": "2026-04-11",
+        "dateText": "",
+        "venue": "대가야문화누리(우륵홀, 가야금홀)",
+        "applyStart": "2026-03-03",
+        "applyEnd": "2026-03-27",
+        "applyText": "고령군청 문화유산과 접수(직접·우편·메일)",
+        "contact": "054-950-6312"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제26회 국창 권삼득선생 추모 전국국악대제전",
+      "region": "전북",
+      "city": "완주군",
+      "host": "(사)한국국악협회 완주군지부",
+      "round": "제26회",
+      "month": "2025-11",
+      "genres": [
+        "판소리",
+        "무용",
+        "기악",
+        "타악"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "일반부",
+        "신인부"
+      ],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=41226",
+      "details": {
+        "competitionDate": "2025-11-08",
+        "dateEnd": "2025-11-09",
+        "dateText": "예선 11월 8일, 본선 11월 9일",
+        "venue": "완주군 향토예술문화회관, 완주군 문화체육센타",
+        "applyStart": "2025-10-13",
+        "applyEnd": "2025-11-05",
+        "applyText": "이메일 접수(son84300@naver.com), 11월 5일 오후 5시까지",
+        "contact": "063-262-4501"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제6회 무주 반딧불 전국국악경연대회",
+      "region": "전북",
+      "city": "무주군",
+      "host": "(사)한국판소리보존회 무주지부, (사)무주세계인류무형유산판소리보존회",
+      "round": "제6회",
+      "month": "2023-11",
+      "genres": [
+        "판소리",
+        "가야금병창",
+        "기악"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "일반부",
+        "신인부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=35169",
+      "details": {
+        "competitionDate": "2023-11-12",
+        "dateEnd": "",
+        "dateText": "예선·본선 당일 진행",
+        "venue": "무주 전통생활문화체험관",
+        "applyStart": "2023-10-01",
+        "applyEnd": "2023-11-10",
+        "applyText": "이메일 접수(koreaxmuju@gmail.com), 11월 10일 18시 도착분에 한함",
+        "contact": "010-6422-4107"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제7회 용인전국생활국악경연대회",
+      "region": "경기",
+      "city": "용인시",
+      "host": "(사)한국국악협회 용인시지부",
+      "round": "제7회",
+      "month": "2024-11",
+      "genres": [
+        "민요",
+        "무용",
+        "기악",
+        "풍물"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=38693",
+      "details": {
+        "competitionDate": "2024-11-16",
+        "dateEnd": "",
+        "dateText": "",
+        "venue": "용인문예회관 처인홀",
+        "applyStart": "2024-10-28",
+        "applyEnd": "2024-11-08",
+        "applyText": "우편·무인접수함·이메일(yi-gugak@daum.net) 접수",
+        "contact": "010-6387-9466"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "2026 제10회 한국예술무형유산전국경연대회",
+      "region": "서울",
+      "city": "동작구",
+      "host": "(사)한국예술무형유산진흥회",
+      "round": "제10회",
+      "month": "2026-06",
+      "genres": [
+        "기악",
+        "성악",
+        "무용"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "신인부",
+        "일반부",
+        "명인부"
+      ],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=42815",
+      "details": {
+        "competitionDate": "2026-06-20",
+        "dateEnd": "",
+        "dateText": "09:00 ~ 18:00",
+        "venue": "중앙대학교 중앙아트홀 대극장",
+        "applyStart": "2026-05-19",
+        "applyEnd": "2026-06-17",
+        "applyText": "무용부문 온라인 접수(이상댄스), 성악·기악부문 국악신문 지원서 다운로드, 이메일 접수(hymj0318@naver.com), 6월 17일 오후 6시까지",
+        "contact": "hymj0318@naver.com"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "2023 하동세계차엑스포 대한민국 명창대전",
+      "region": "경남",
+      "city": "하동군",
+      "host": "손양희국악예술단",
+      "round": "",
+      "month": "2023-05",
+      "genres": [],
+      "levels": [],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=32955",
+      "details": {
+        "competitionDate": "2023-05-11",
+        "dateEnd": "2023-05-12",
+        "dateText": "",
+        "venue": "",
+        "applyStart": "",
+        "applyEnd": "",
+        "applyText": "",
+        "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
     }
   ],
   "version": 2,
