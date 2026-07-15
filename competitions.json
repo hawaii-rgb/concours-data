@@ -643,7 +643,7 @@
       ]
     },
     {
-      "officialName": "천안 2025 대한민국평화통일국악대상 경연대회",
+      "officialName": "제8회 대한민국평화통일국악경연대회",
       "region": "충남",
       "city": "천안시",
       "genres": [
@@ -669,25 +669,25 @@
       "middle": true,
       "high": true,
       "general": true,
-      "month": "8월",
+      "month": "2026-08",
       "applyPeriod": "2025년 7월 1일(월)~7월 31일(목) 18:00",
       "host": "사단법인 민족통일불교중앙협의회",
-      "round": "",
+      "round": "제8회",
       "contact": "010-5232-3834",
       "registrationOrder": "",
       "verified": true,
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40183",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43016",
       "seedName": "[민주평화통일자문회의의장상] 천안 2025 대한민국평화통일국악대상 경연대회 (08/16)[기악/민요/판소리/무용/연희)",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40183",
       "source": "국악신문-1",
       "details": {
-        "competitionDate": "2025-08-16",
+        "competitionDate": "2026-08-15",
         "dateEnd": "",
         "dateText": "2025년 8월 16일(토) 오후 3시 (시상식 기준)",
         "venue": "천안박물관",
         "applyStart": "",
-        "applyEnd": "",
-        "applyText": "",
+        "applyEnd": "2026-07-31",
+        "applyText": "접수마감 2026년 7월 31일(금) 18:00",
         "applyMethod": [],
         "recipientEmail": [],
         "mailingAddress": "",
@@ -11053,12 +11053,12 @@
       "noticeText": ""
     },
     {
-      "officialName": "제17회 평화통일 직지전국국악대제전",
+      "officialName": "제18회 평화통일 직지전국국악대제전",
       "region": "충북",
       "city": "청주시",
       "host": "(사)한국국악협회 청주시지부",
-      "round": "제17회",
-      "month": "2025-10",
+      "round": "제18회",
+      "month": "2026-06",
       "genres": [
         "무용",
         "기악",
@@ -11069,14 +11069,14 @@
         "타악"
       ],
       "levels": [],
-      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202509230048",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=42870",
       "details": {
-        "competitionDate": "2025-10-25",
+        "competitionDate": "2026-06-20",
         "dateEnd": "",
-        "dateText": "2025년 10월 25일 (토) 오전 9시30분",
-        "venue": "청주예술의전당 소공연장, 대회의실",
-        "applyStart": "2025-09-15",
-        "applyEnd": "2025-10-17",
+        "dateText": "2026년 6월 20일(토) 오전 9시30분",
+        "venue": "청주예술의전당 소공연장, 대회의실(청주시 서원구 흥덕로 69)",
+        "applyStart": "2026-05-18",
+        "applyEnd": "2026-06-12",
         "applyText": "2025년 9월 15일 (월) 09:00 ~ 10월 17일 (금) 18:00",
         "contact": "043-257-6218"
       },
@@ -11740,12 +11740,12 @@
       "noticeText": ""
     },
     {
-      "officialName": "제32회 청주박팔괘 전국학생국악대제전",
+      "officialName": "제33회 청주박팔괘 전국학생국악대제전",
       "region": "충북",
       "city": "청주시",
-      "host": "(사)한국국악협회 충청북도지회",
-      "round": "제32회",
-      "month": "2025-10",
+      "host": "(사)한국국악협회 청주시지부",
+      "round": "제33회",
+      "month": "2026-06",
       "genres": [
         "기악",
         "무용",
@@ -11757,15 +11757,15 @@
         "고등부",
         "단체부"
       ],
-      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202509230047",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=42869",
       "details": {
-        "competitionDate": "2025-10-26",
+        "competitionDate": "2026-06-21",
         "dateEnd": "",
-        "dateText": "2025년 10월 26일 (일) 오전9시30분",
+        "dateText": "2026년 6월 21일(일) 오전 9시30분",
         "venue": "청주예술의전당 대공연장, 소공연장, 대회의실",
-        "applyStart": "2025-09-15",
-        "applyEnd": "2025-10-17",
-        "applyText": "2025년 9월 15일 (월) 09:00 ~ 10월 17일 (금) 18:00",
+        "applyStart": "2026-05-18",
+        "applyEnd": "2026-06-17",
+        "applyText": "2026년 5월 18일(월) 09:00 ~ 6월 17일(수) 18:00",
         "contact": "043-257-6218"
       },
       "noticeImages": [],
@@ -12288,30 +12288,35 @@
       "noticeText": ""
     },
     {
-      "officialName": "제33회 임방울국악제 전국대회",
+      "officialName": "제34회「임방울국악제」전국대회",
       "region": "광주",
       "city": "",
       "host": "광주광역시, (사)임방울국악진흥회",
-      "round": "제33회",
-      "month": "2025-09",
+      "round": "제34회",
+      "month": "2026-09",
       "genres": [
-        "판소리"
+        "판소리",
+        "농악",
+        "기악",
+        "무용",
+        "가야금병창",
+        "시조",
+        "퓨전국악"
       ],
       "levels": [
-        "초등부",
-        "중등부",
-        "고등부",
-        "일반부"
+        "학생부",
+        "일반부",
+        "명창부"
       ],
-      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202506200018",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43332",
       "details": {
-        "competitionDate": "2025-09-12",
-        "dateEnd": "2025-09-15",
-        "dateText": "2025.9.12 ~ 9.15(4일간) / 국악경연: 학생부 9.13(토), 일반부·명창부 9.14(일)~9.15(월)",
-        "venue": "",
-        "applyStart": "2025-08-11",
-        "applyEnd": "2025-09-11",
-        "applyText": "신청서 교부 2025. 8. 11부터 / 접수 마감 2025. 9. 11(목) 18:00까지 도착분",
+        "competitionDate": "2026-09-04",
+        "dateEnd": "2026-09-13",
+        "dateText": "학생부 2026.9.4~9.5 / 일반부·명창부 2026.9.12~9.13",
+        "venue": "빛고을시민문화관, 5·18기념문화센터, 광산문화예술회관 등(광주)",
+        "applyStart": "2026-08-10",
+        "applyEnd": "2026-09-10",
+        "applyText": "학생부 및 장기자랑 8.10~9.3(목) 18:00 / 일반부·명창부 8.18~9.10(목) 18:00",
         "contact": "062-521-0731"
       },
       "noticeImages": [],
@@ -13044,12 +13049,12 @@
       "noticeText": ""
     },
     {
-      "officialName": "제27회 서라벌 전국학생민속무용경연대회",
+      "officialName": "제28회 서라벌 전국학생민속무용경연대회",
       "region": "경북",
       "city": "경주시",
       "host": "(사)신라전통예술연구회",
-      "round": "제27회",
-      "month": "2025-07",
+      "round": "제28회",
+      "month": "2026-08",
       "genres": [
         "무용"
       ],
@@ -13060,15 +13065,15 @@
         "신인부",
         "단체부"
       ],
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40408",
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607140075",
       "details": {
-        "competitionDate": "2025-07-19",
-        "dateEnd": "2025-07-20",
-        "dateText": "",
+        "competitionDate": "2026-08-29",
+        "dateEnd": "2026-08-30",
+        "dateText": "2026.8.29(토)~8.30(일) 심사",
         "venue": "서라벌문화회관",
-        "applyStart": "2025-07-01",
-        "applyEnd": "2025-07-15",
-        "applyText": "이메일 접수(silla1517@naver.com), 팩스·우편 신청 불가",
+        "applyStart": "2026-08-10",
+        "applyEnd": "2026-08-24",
+        "applyText": "2026년 8월 10일(월) 09:00 ~ 8월 24일(월) 18:00, 이메일 접수(silla1517@naver.com)",
         "contact": "054-742-1518"
       },
       "noticeImages": [],
@@ -13284,6 +13289,32 @@
         "applyEnd": "",
         "applyText": "",
         "contact": ""
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제24회 대한민국 어린이 국악큰잔치",
+      "region": "서울",
+      "host": "국가유산청(주최) / 국가유산진흥원(주관)",
+      "round": "제24회",
+      "month": "2026-07",
+      "genres": [
+        "관악",
+        "현악",
+        "민요",
+        "가야금병창",
+        "무용",
+        "판소리",
+        "풍물",
+        "정가"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=82820",
+      "details": {
+        "competitionDate": "2026-07-11",
+        "dateText": "예선 2026-07-05 / 본선 2026-07-11",
+        "venue": "서울 국가무형유산전수교육관 민속극장 풍류"
       },
       "noticeImages": [],
       "noticeText": ""
