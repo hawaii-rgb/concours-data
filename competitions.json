@@ -1058,12 +1058,12 @@
       "noticeImages": []
     },
     {
-      "officialName": "제18회 온나라 전통춤 경연대회",
-      "region": "미상",
+      "officialName": "제20회 온나라 전통춤 경연대회",
+      "region": "서울",
       "city": "",
       "genres": [
-        "민속춤",
-        "궁중춤"
+        "궁중춤",
+        "민속춤"
       ],
       "levels": [],
       "instrumental": false,
@@ -1074,25 +1074,25 @@
       "middle": false,
       "high": false,
       "general": false,
-      "month": "9월",
+      "month": "2026-09",
       "applyPeriod": "2024년 7월 29일(월) 10시 ~ 8월 2일(금) 17시",
       "host": "국립국악원",
-      "round": "18회",
+      "round": "20회",
       "contact": "",
       "registrationOrder": "",
       "verified": true,
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=37818",
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=82830",
       "seedName": "국립국악원 제18회 온나라전통춤 경연대회 신청 접수",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=37818",
       "source": "원본(콘테스트코리아)",
       "details": {
-        "competitionDate": "2024-09-10",
+        "competitionDate": "2026-09-22",
         "dateEnd": "",
-        "dateText": "예선 2024. 8. 20.(화) 우면당, 풍류사랑방 / 본선 및 시상식 2024. 9. 10.(화) 우면당",
-        "venue": "국립국악원 우면당, 풍류사랑방",
-        "applyStart": "2024-07-29",
-        "applyEnd": "2024-08-02",
-        "applyText": "기간 2024. 7.29.(월) 10:00 ~ 8.2.(금) 17:00",
+        "dateText": "예선 2026.9.1. / 본선 및 시상식 2026.9.22., 국립국악원 우면당·풍류사랑방",
+        "venue": "국립국악원 우면당·풍류사랑방",
+        "applyStart": "2026-08-10",
+        "applyEnd": "2026-08-14",
+        "applyText": "2026.8.10.(월) 10:00 ~ 8.14.(금) 17:00, 국립국악원 누리집 온라인 접수",
         "applyMethod": [
           "온라인"
         ],
@@ -1921,18 +1921,18 @@
       "contact": "",
       "registrationOrder": "",
       "verified": true,
-      "sourceUrl": "https://www.pyeongtaek.go.kr/",
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=82723",
       "seedName": "[평택시장상] 제5회 지영희 국악창작 공모전(09/10)",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43377",
       "source": "공홈",
       "details": {
         "competitionDate": "",
         "dateEnd": "",
-        "dateText": "접수기간 2026년 9월 8일(화) ~ 10일(목) 오후 6시 이전 접수분 마감",
+        "dateText": "결과발표 2026.9.21.",
         "venue": "",
         "applyStart": "2026-09-08",
         "applyEnd": "2026-09-10",
-        "applyText": "접수기간 2026년 9월 8일(화) ~ 10일(목) 오후 6시 이전 접수분 마감",
+        "applyText": "2026.9.8.~9.10. 18:00까지",
         "applyMethod": [
           "이메일"
         ],
@@ -7844,19 +7844,19 @@
       "noticeImages": []
     },
     {
-      "officialName": "제17회 추담전국국악경연대회",
-      "round": "제17회",
-      "host": "추담판소리보존회",
+      "officialName": "제20회 추담전국국악경연대회",
+      "round": "제20회",
+      "host": "부안군(주최) / (사)추담제판소리보존회(주관)",
       "region": "전북",
       "city": "부안",
-      "month": "8월",
+      "month": "2026-08",
       "applyPeriod": "",
       "contact": "",
       "registrationOrder": "",
       "genres": [
         "판소리",
-        "기악",
-        "고법"
+        "고법",
+        "기악"
       ],
       "instrumental": true,
       "vocal": true,
@@ -7870,18 +7870,18 @@
       "high": true,
       "general": false,
       "verified": true,
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=34294",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43498",
       "seedName": "제17회 추담전국국악경연대회",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=34294",
       "source": "시군명-보조",
       "details": {
-        "competitionDate": "2023-08-27",
+        "competitionDate": "2026-08-23",
         "dateEnd": "",
-        "dateText": "예선 2023.08.26(토) / 본선 2023.08.27(일) (전야제 2023.08.25(금) 오후 7시)",
+        "dateText": "예선 2026.8.22.(토) / 본선 2026.8.23.(일), 부안예술회관",
         "venue": "부안예술회관",
-        "applyStart": "",
-        "applyEnd": "",
-        "applyText": "",
+        "applyStart": "2026-07-01",
+        "applyEnd": "2026-08-19",
+        "applyText": "2026.7.1.(수)~8.19.(수) 24:00, 이메일 접수",
         "applyMethod": [],
         "recipientEmail": [],
         "mailingAddress": "",
@@ -7910,7 +7910,7 @@
           "notes": ""
         },
         "registrationOrder": "",
-        "contact": "주최 부안군·사단법인 추담판소리보존회 / 주관 사단법인 추담판소리보존회",
+        "contact": "chudam2020@naver.com",
         "confidence": "partial",
         "sourceType": "official-image",
         "notes": "포스터만 확보. 접수기간·참가비·참가자격·경연시간·경연순서 정보 없음 [언론사(국악신문/타임즈) 워터마크 이미지 미게시 — 저작권. 출처 링크로 대체]"
@@ -12808,30 +12808,33 @@
       "noticeText": ""
     },
     {
-      "officialName": "제20회 전국서도소리경연대회",
+      "officialName": "제24회 전국서도소리경연대회",
       "region": "경기",
       "city": "광명시",
       "host": "(사)서도소리보존회, 광명시",
-      "round": "제20회",
-      "month": "2022-08",
+      "round": "제24회",
+      "month": "2026-08",
       "genres": [
         "서도소리"
       ],
       "levels": [
         "명창부",
-        "일반부",
+        "단체부",
+        "일반부(전공자)",
+        "일반부(비전공자)",
         "신인부",
-        "학생부(고등부)",
-        "학생부(초·중등부)"
+        "학생부(중·고등부)",
+        "학생부(초등부)"
       ],
-      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=52527",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43485",
       "details": {
-        "competitionDate": "2022-08-20",
-        "dateText": "2022-08-20(토) 예선 09:00 / 본선 15:00",
-        "venue": "광명시 평생학습원 강당",
-        "applyStart": "2022-08-01",
-        "applyEnd": "2022-08-17",
-        "contact": "010-2209-5673"
+        "competitionDate": "2026-08-22",
+        "dateText": "2026.8.22.(토) 예선 09:00 / 본선 14:00",
+        "venue": "광명전통무형유산전수관",
+        "applyStart": "2026-08-01",
+        "applyEnd": "2026-08-19",
+        "contact": "010-2209-5673",
+        "applyText": "2026.8.1.~8.19. 18:00까지"
       },
       "noticeImages": [],
       "noticeText": ""
