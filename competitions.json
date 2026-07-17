@@ -2466,7 +2466,7 @@
       "noticeImages": []
     },
     {
-      "officialName": "제14회 판소리명가 장월중선 명창대회",
+      "officialName": "제15회 판소리명가 장월중선 명창대회",
       "region": "경북",
       "city": "경주시",
       "genres": [
@@ -2491,10 +2491,10 @@
       "middle": true,
       "high": true,
       "general": true,
-      "month": "10",
+      "month": "2026-09",
       "applyPeriod": "2025년 9월 16일(화)~10월 16일(목) 18:00",
       "host": "경주시",
-      "round": "제14회",
+      "round": "제15회",
       "contact": "054-777-4240 / jsisori@hanmail.net",
       "registrationOrder": "추첨순",
       "verified": true,
@@ -2503,13 +2503,13 @@
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40918",
       "source": "국악신문-3",
       "details": {
-        "competitionDate": "2025-10-18",
-        "dateEnd": "2025-10-19",
-        "dateText": "2025. 10.18(토)~10.19(일) [2일간]. 추모공연 10.19 pm2:30",
-        "venue": "The-K 더케이 호텔 경주 (경주시 엑스포로 45)",
+        "competitionDate": "2026-09-05",
+        "dateEnd": "2026-09-06",
+        "dateText": "2026년 9월 5일(토) 단심제(초·중등부,신인부)/예선(고등부,일반부), 9월 6일(일) 본선·결선(고등부,일반부)",
+        "venue": "경상북도문화관광공사 육부촌강당 외 1곳 (경주시 보문로 446, 신평동)",
         "applyStart": "",
-        "applyEnd": "",
-        "applyText": "",
+        "applyEnd": "2026-09-03",
+        "applyText": "접수기간: ~2026년 9월 3일(목)",
         "applyMethod": [],
         "recipientEmail": [],
         "mailingAddress": "",
@@ -4933,7 +4933,7 @@
       "noticeImages": []
     },
     {
-      "officialName": "제7회 익산삼기농요 전국국악경연대회",
+      "officialName": "제8회 익산삼기농요전국국악경연대회",
       "region": "전북",
       "city": "익산시",
       "genres": [
@@ -4957,10 +4957,10 @@
       "middle": true,
       "high": true,
       "general": true,
-      "month": "8월",
+      "month": "2026-08",
       "applyPeriod": "2025년 8월 4일 ~ 8월 27일",
       "host": "(사)익산삼기농요보존회",
-      "round": "제7회",
+      "round": "제8회",
       "contact": "010-2307-8216(김수진), 010-7673-2071(이명배)",
       "registrationOrder": "",
       "verified": true,
@@ -4969,13 +4969,13 @@
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40721",
       "source": "국악신문-6",
       "details": {
-        "competitionDate": "2025-08-30",
+        "competitionDate": "2026-08-29",
         "dateEnd": "",
-        "dateText": "2025년 8월 30일(토) 대면 본선 / 2025년 8월 29일(금) 비대면 예선",
-        "venue": "본선: 익산시 충간공박물관 / 예선: 비대면(영상 제출)",
-        "applyStart": "2025-08-04",
-        "applyEnd": "2025-08-25",
-        "applyText": "신청기간 2025년 8월 4일 ~ 8월 25일 (요강 내 접수처 항목엔 8월 27일까지로도 표기, 접수일 이후 신청 불가)",
+        "dateText": "2026년 08월 29일(토)",
+        "venue": "익산시 충간공박물관",
+        "applyStart": "2026-08-01",
+        "applyEnd": "2026-08-26",
+        "applyText": "신청기간 2026년 8월 1일 - 2026년 8월 26일 (접수일 이후 신청 불가)",
         "applyMethod": [
           "이메일"
         ],
@@ -5008,7 +5008,7 @@
           "notes": ""
         },
         "registrationOrder": "",
-        "contact": "010-2307-8216(김수진), 010-7673-2071(이명배)",
+        "contact": "judy230700@gmail.com",
         "confidence": "partial",
         "sourceType": "official-image",
         "notes": "제공 이미지는 일자·장소·부문만 담은 포스터. 접수·시상·경연시간 등 세부는 재게시된 요강 텍스트를 보조로 사용. 부문: 농요·민요 / 가야금병창·기악. 신청기간 8/25와 접수처 8/27 표기가 상충. [언론사(국악신문/타임즈) 워터마크 이미지 미게시 — 저작권. 출처 링크로 대체]",
@@ -7446,7 +7446,7 @@
       ]
     },
     {
-      "officialName": "2025 제19회 21c한국음악프로젝트",
+      "officialName": "2026 제20회 21c한국음악프로젝트",
       "region": "서울",
       "city": "",
       "genres": [
@@ -7463,10 +7463,10 @@
       "middle": false,
       "high": false,
       "general": false,
-      "month": "5",
+      "month": "2026-06",
       "applyPeriod": "2025.1.13~2.7 23:59",
       "host": "문화체육관광부 / 국악방송",
-      "round": "제19회",
+      "round": "제20회",
       "contact": "02-300-9973 / 21cproject@igbf.kr",
       "registrationOrder": "",
       "verified": true,
@@ -7475,13 +7475,13 @@
       "seedUrl": "https://www.wevity.com/index_university.php?c=find&s=_university&mode=end&gbn=viewok&gp=152&ix=94388",
       "source": "원본(애그리게이터)",
       "details": {
-        "competitionDate": "2025-05-15",
+        "competitionDate": "2026-06-25",
         "dateEnd": "",
-        "dateText": "1차예선 2월3주 / 2차예선 3.1 / 본선 5.15",
-        "venue": "국악방송 대회의실·공개홀 / 국립국악원 예악당",
-        "applyStart": "2025-01-13",
-        "applyEnd": "2025-02-07",
-        "applyText": "2025.1.13~2.7 23:59",
+        "dateText": "2026년 6월 25일(목) 저녁 7시, 국립국악원 예악당 (국악의 날·국악주간 기념 개최 시기를 6월로 앞당김)",
+        "venue": "국립국악원 예악당",
+        "applyStart": "",
+        "applyEnd": "",
+        "applyText": "",
         "applyMethod": [
           "온라인"
         ],
@@ -13318,6 +13318,28 @@
         "competitionDate": "2026-07-11",
         "dateText": "예선 2026-07-05 / 본선 2026-07-11",
         "venue": "서울 국가무형유산전수교육관 민속극장 풍류"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "2026전국어린이판소리경연대회",
+      "region": "전북",
+      "city": "남원시",
+      "host": "전북특별자치도교육원, 피어나다 남원 (주관: 전북특별자치도남원교육지원청, 남원국악예술고등학교)",
+      "round": "",
+      "month": "2026-08",
+      "genres": [
+        "판소리"
+      ],
+      "levels": [],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43506",
+      "details": {
+        "competitionDate": "2026-08-22",
+        "dateText": "2026.08.22(토)",
+        "applyEnd": "2026-08-22",
+        "applyText": "접수마감 2026.08.22",
+        "contact": "dhwm0504@jbedu.kr"
       },
       "noticeImages": [],
       "noticeText": ""
