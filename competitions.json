@@ -13343,6 +13343,36 @@
       },
       "noticeImages": [],
       "noticeText": ""
+    },
+    {
+      "officialName": "제4회 (사)한국전통춤협회 한국춤대경연",
+      "region": "서울",
+      "host": "(사)한국전통춤협회",
+      "round": "제4회",
+      "month": "2026-04",
+      "genres": [
+        "전통춤",
+        "신전통춤",
+        "신무용",
+        "타악춤",
+        "창작춤"
+      ],
+      "levels": [
+        "명인부(30세 이상)",
+        "일반부(30세 미만)",
+        "신인부(20세 이상)",
+        "학생부(초등부/중등부/고등부)",
+        "단체부(3인 이상)"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202602260026",
+      "details": {
+        "competitionDate": "2026-04-05",
+        "applyStart": "2026-03-16",
+        "applyEnd": "2026-03-31",
+        "venue": "민속극장풍"
+      },
+      "noticeImages": [],
+      "noticeText": ""
     }
   ],
   "version": 2,
