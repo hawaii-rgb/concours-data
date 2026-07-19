@@ -2507,7 +2507,7 @@
         "dateEnd": "2026-09-06",
         "dateText": "2026년 9월 5일(토) 단심제(초·중등부,신인부)/예선(고등부,일반부), 9월 6일(일) 본선·결선(고등부,일반부)",
         "venue": "경상북도문화관광공사 육부촌강당 외 1곳 (경주시 보문로 446, 신평동)",
-        "applyStart": "",
+        "applyStart": "2026-08-10",
         "applyEnd": "2026-09-03",
         "applyText": "접수기간: ~2026년 9월 3일(목)",
         "applyMethod": [],
@@ -4529,7 +4529,7 @@
       "noticeImages": []
     },
     {
-      "officialName": "2025년 제11회 전국 공주아리랑 민요경창대회",
+      "officialName": "제12회 전국공주아리랑민요경창대회",
       "region": "충남",
       "city": "공주시",
       "genres": [
@@ -4549,24 +4549,24 @@
       "middle": true,
       "high": false,
       "general": true,
-      "month": "12월",
+      "month": "2026-07",
       "applyPeriod": "2025.12.01.~12.25",
       "host": "(사)공주아리랑보존회",
-      "round": "제11회",
+      "round": "제12회",
       "contact": "041-854-9933",
       "registrationOrder": "",
       "verified": true,
-      "sourceUrl": "https://kukak21.com/bbs/board.php?bo_table=news&wr_id=41801",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43268",
       "seedName": "제11회 전국 공주아리랑 민요경창대회(12/28)",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=41801",
       "source": "원본",
       "details": {
-        "competitionDate": "2025-12-28",
+        "competitionDate": "2026-07-19",
         "dateEnd": "",
-        "dateText": "2025.12.28.(일) 10:00~18:00 공주문예회관 대공연장",
-        "venue": "공주문예회관 대공연장 (충남 공주시 고마나루길 5)",
-        "applyStart": "2025-12-01",
-        "applyEnd": "2025-12-25",
+        "dateText": "2026년 7월 19일(일)",
+        "venue": "공주문예회관 대공연장",
+        "applyStart": "2026-06-25",
+        "applyEnd": "2026-07-17",
         "applyText": "접수기간: 2025. 12. 1(월) ~ 12. 25(목)",
         "applyMethod": [
           "이메일"
@@ -12577,12 +12577,12 @@
       "noticeText": ""
     },
     {
-      "officialName": "제16회 상주 전국 국악 경연대회",
+      "officialName": "제19회 상주전국국악경연대회",
       "region": "경북",
       "city": "상주시",
-      "host": "상주시, 상주문화원, (사)이명희영남판소리보존회",
-      "round": "제16회",
-      "month": "2023-07",
+      "host": "주최: (사)이명희영남판소리보존회 / 주관: (사)이명희영남판소리보존회 상주지부, 상주정정미판소리전수교육관",
+      "round": "제19회",
+      "month": "2026-04",
       "genres": [
         "판소리",
         "기악",
@@ -12597,13 +12597,13 @@
         "고등부",
         "일반부"
       ],
-      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=58366",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=42392",
       "details": {
-        "competitionDate": "2023-07-16",
-        "dateText": "2023-07-16(일) 09:00~17:00",
+        "competitionDate": "2026-04-25",
+        "dateText": "2026년 4월 25일(토)",
         "venue": "상주문화회관",
-        "applyStart": "2023-06-01",
-        "applyEnd": "2023-07-10",
+        "applyStart": "2026-03-20",
+        "applyEnd": "2026-04-20",
         "contact": "053-793-9535"
       },
       "noticeImages": [],
