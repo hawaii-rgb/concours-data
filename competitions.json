@@ -8081,7 +8081,7 @@
       "noticeImages": []
     },
     {
-      "officialName": "제42회 경주전국국악대제전",
+      "officialName": "제43회 경주전국국악대제전",
       "region": "경북",
       "city": "경주시",
       "genres": [
@@ -8106,24 +8106,24 @@
       "middle": true,
       "high": true,
       "general": true,
-      "month": "09",
+      "month": "2025-09",
       "applyPeriod": "2024년 8월 16일(금) 09:00 ~ 8월 30일(금) 24:00",
       "host": "경주시, (사)신라천년예술단",
-      "round": "제42회",
+      "round": "제43회",
       "contact": "(054)742-1516",
       "registrationOrder": "신청역순",
       "verified": true,
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=37740",
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=77492",
       "seedName": "제42회 경주전국국악대제전(09/07-08)",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=37740",
       "source": "원본(콘테스트코리아)",
       "details": {
-        "competitionDate": "2024-09-07",
-        "dateEnd": "2024-09-08",
+        "competitionDate": "2025-09-13",
+        "dateEnd": "2025-09-14",
         "dateText": "2024. 9. 7(토)~9. 8(일) 2일간",
         "venue": "경주시 화랑마을",
-        "applyStart": "2024-08-16",
-        "applyEnd": "2024-08-30",
+        "applyStart": "2025-08-22",
+        "applyEnd": "2025-09-05",
         "applyText": "신청기간 2024. 8. 16(금) 09:00 ~ 8월 30일(금) 24:00 (15일간)",
         "applyMethod": [
           "이메일",
@@ -13383,6 +13383,22 @@
         "applyStart": "2026-03-16",
         "applyEnd": "2026-03-31",
         "venue": "민속극장풍"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제7회 경주 전국실버국악경연대회",
+      "region": "경북",
+      "city": "경주시",
+      "host": "강산예술단",
+      "round": "제7회",
+      "month": "2026-08",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43519",
+      "details": {
+        "competitionDate": "2026-08-22",
+        "applyEnd": "2026-08-20",
+        "confidence": "partial"
       },
       "noticeImages": [],
       "noticeText": ""
