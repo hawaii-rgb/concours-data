@@ -689,7 +689,9 @@
         "applyEnd": "2026-07-31",
         "applyText": "접수마감 2026년 7월 31일(금) 18:00",
         "applyMethod": [],
-        "recipientEmail": [],
+        "recipientEmail": [
+          "yiinwon@hanmail.net"
+        ],
         "mailingAddress": "",
         "submitDocs": "",
         "eligibility": {
@@ -716,7 +718,7 @@
           "notes": "예선 관련 정보 이미지에 없음"
         },
         "registrationOrder": "",
-        "contact": "yiinwon@hanmail.net",
+        "contact": "",
         "confidence": "partial",
         "sourceType": "official-image",
         "notes": "제공된 이미지가 시상식 포스터와 부문별 시상표뿐이라 접수기간·참가자격·참가비·경연시간·예선방식 등 정보 부족 [언론사(국악신문/타임즈) 워터마크 이미지 미게시 — 저작권. 출처 링크로 대체]",
@@ -5351,7 +5353,7 @@
           "notes": ""
         },
         "registrationOrder": "추첨 (경연 1시간 전 해당 부문별 경연장 안내석에서 추첨)",
-        "contact": "온라인접수(이상댄스)",
+        "contact": "한국국악협회 영등포지부 010-6277-7139",
         "confidence": "partial",
         "sourceType": "official-image",
         "notes": "공식 이미지는 포스터+부문 분류표+시상표. 참가자격·참가비 등 상세는 함께 게시된 공식 요강 텍스트로 보완. 온라인 접수(이상댄스, 접수비 주최측 부담) [워터마크본→contestkorea 원본 포스터 교체(회차 검증)]",
@@ -5684,7 +5686,7 @@
           "notes": ""
         },
         "registrationOrder": "경연순서는 접수 역순",
-        "contact": "010-9913-2818 / kbhsy84@naver.com",
+        "contact": "010-9913-2818",
         "confidence": "partial",
         "sourceType": "official-image",
         "notes": "포스터 + 시상표만 제공되어 접수기간·참가비·고수비·연주시간·문의처 등 세부 요강 정보 없음. 명인명창부 종합대상 민주평화통일자문회의 의장상. 주최·주관 (사)한국보훈선양예술협회 [언론사(국악신문/타임즈) 워터마크 이미지 미게시 — 저작권. 출처 링크로 대체]",
@@ -6503,7 +6505,7 @@
           "notes": "본선경연곡은 예선곡과 중복 가능"
         },
         "registrationOrder": "예선: 부문별 접수역순(신청역순) / 본선: 경연 당일 부문별 추첨(추첨)",
-        "contact": "hsgugak@gmail.com",
+        "contact": "경연대회 운영사무국 010-8580-5152",
         "confidence": "partial",
         "sourceType": "official-image",
         "notes": "포스터+경연과제곡표+시상표+심사기준표. 주최·주관 (사)한국국악협회 서울특별시회 송파구지부. 접수기간·참가비·고수비 미기재. [언론사(국악신문/타임즈) 워터마크 이미지 미게시 — 저작권. 출처 링크로 대체]",
@@ -10206,7 +10208,7 @@
           "notes": ""
         },
         "registrationOrder": "",
-        "contact": "(사)전통소리마을예술진흥회 010-9596-7320 / so-ri3442@hanmail.net",
+        "contact": "(사)전통소리마을예술진흥회 010-9596-7320",
         "confidence": "partial",
         "sourceType": "official-image",
         "notes": "홍보 포스터 1장. 접수마감 연도가 '2023년'으로 인쇄되어 있으나 대회가 2024년인 점으로 볼 때 오기(2024년)로 추정됨 — 원문 그대로 기재. 주최 경상북도·김천시, 주관 (사)전통소리마을예술진흥회. [언론사(국악신문/타임즈) 워터마크 이미지 미게시 — 저작권. 출처 링크로 대체]"
@@ -10523,7 +10525,7 @@
           "notes": ""
         },
         "registrationOrder": "신청순 (본선 진출 시 순서는 대회 신청서 접수 순으로 결정)",
-        "contact": "010-6781-8814 / 010-6317-4584 / lja710@hanmail.net",
+        "contact": "010-6781-8814 / 010-6317-4584 / F:054-332-2440",
         "confidence": "partial",
         "sourceType": "official-image",
         "notes": "제공 이미지는 일자·장소 위주 포스터. 접수·부문·시상 등 세부는 재게시된 요강 텍스트를 보조로 사용. 경연종목: 풍물·사물놀이·난타(퓨전 장구 및 난타) 등 타악 기반 무대작품. [언론사(국악신문/타임즈) 워터마크 이미지 미게시 — 저작권. 출처 링크로 대체]",
@@ -13114,7 +13116,7 @@
         "applyStart": "2026-05-11",
         "applyEnd": "2026-05-29",
         "applyText": "이메일 접수 moon2297@naver.com (참가신청서 kukak21.com 다운)",
-        "contact": "moon2297@naver.com",
+        "contact": "",
         "registrationOrder": "예선·신인부(단심제) 경연순서: 신청서 접수 역순"
       },
       "noticeImages": [],
