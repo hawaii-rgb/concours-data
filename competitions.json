@@ -11088,12 +11088,12 @@
       "noticeText": ""
     },
     {
-      "officialName": "제12회 문학산 경기12잡가 기악 전국국악경연대회",
+      "officialName": "제13회 문학산 경기12잡가·기악 전국국악경연대회",
       "region": "인천",
       "city": "미추홀구",
       "host": "(사)인천무형유산 제21호 이순희경기12잡가 보전회",
-      "round": "제12회",
-      "month": "2025-09",
+      "round": "제13회",
+      "month": "2026-08",
       "genres": [
         "민요",
         "잡가",
@@ -11108,15 +11108,15 @@
         "명인부",
         "단체부"
       ],
-      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202509020104",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43551",
       "details": {
-        "competitionDate": "2025-09-27",
+        "competitionDate": "2026-08-30",
         "dateEnd": "",
-        "dateText": "2025년 9월 27일(토)",
+        "dateText": "2026년 8월 30일(일)",
         "venue": "인천국악회관 (인천광역시 미추홀구 수봉안길 78)",
-        "applyStart": "2025-08-15",
-        "applyEnd": "2025-09-24",
-        "applyText": "2025년 08월 15일~2025년 09월 24일(수요일) 17:00까지",
+        "applyStart": "2026-07-06",
+        "applyEnd": "2026-08-26",
+        "applyText": "2026년 7월 6일~2026년 8월 26일(수요일) 18:00까지",
         "contact": "032-438-2288"
       },
       "noticeImages": [],
@@ -12230,12 +12230,12 @@
       "noticeText": ""
     },
     {
-      "officialName": "제22회 대한민국 여성전통예술경연대회",
+      "officialName": "제24회 대한민국 여성전통예술경연대회",
       "region": "서울",
       "city": "종로구",
       "host": "(사)한국여성국극예술협회",
-      "round": "제22회",
-      "month": "2024-10",
+      "round": "제24회",
+      "month": "2026-09",
       "genres": [
         "기악",
         "무용",
@@ -12249,15 +12249,15 @@
         "신인부",
         "단체부"
       ],
-      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202409030046",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43528",
       "details": {
-        "competitionDate": "2024-10-12",
+        "competitionDate": "2026-09-12",
         "dateEnd": "",
-        "dateText": "2024년 10월 12일(토) 오전 10:00 ~",
+        "dateText": "2026년 9월 12일(토) 오전 10:00 ~",
         "venue": "상명아트센터 대신홀 (서울시 종로구 홍지문2길 20)",
-        "applyStart": "2024-09-09",
-        "applyEnd": "2024-10-09",
-        "applyText": "2024. 9. 9.(월) ~ 10. 9.(수) 10:00 ~ 24:00시까지 접수",
+        "applyStart": "2026-08-03",
+        "applyEnd": "2026-09-07",
+        "applyText": "2026년 8월 3일(월) ~ 9월 7일(월) 10:00 ~ 24:00시까지 접수",
         "contact": "02-741-1535"
       },
       "noticeImages": [],
@@ -13399,6 +13399,40 @@
         "competitionDate": "2026-08-22",
         "applyEnd": "2026-08-20",
         "confidence": "partial"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제17회 장수논개 전국판소리경연대회",
+      "region": "전북",
+      "city": "장수군",
+      "host": "장수군, 사단법인 금당 유영애 소리보존회",
+      "round": "제17회",
+      "month": "2026-06",
+      "genres": [
+        "판소리"
+      ],
+      "levels": [
+        "초등논개부",
+        "초등부",
+        "중등부",
+        "고등부",
+        "신인부(개인)",
+        "신인부(단체)",
+        "일반논개부",
+        "일반부",
+        "명창부"
+      ],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=42770",
+      "details": {
+        "competitionDate": "2026-06-26",
+        "dateEnd": "2026-06-28",
+        "dateText": "2026년 6월 26일(금)~6월 28일(일)",
+        "venue": "장수군 한누리전당 가람관 2층 소공연장 (전북 장수군 장수읍 한누리로 393)",
+        "applyStart": "2026-06-01",
+        "applyEnd": "2026-06-24",
+        "applyText": "2026년 6월 1일(월)~6월 24일(수) 18:00까지"
       },
       "noticeImages": [],
       "noticeText": ""
