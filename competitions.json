@@ -12458,7 +12458,11 @@
       "genres": [
         "풀피리"
       ],
-      "levels": [],
+      "levels": [
+        "일반부",
+        "신인·단체부",
+        "학생부"
+      ],
       "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=82798",
       "details": {
         "competitionDate": "2026-08-08",
@@ -13433,6 +13437,24 @@
         "applyStart": "2026-06-01",
         "applyEnd": "2026-06-24",
         "applyText": "2026년 6월 1일(월)~6월 24일(수) 18:00까지"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "2026 제13회 인천 팔도아리랑 부르기 축제",
+      "region": "인천",
+      "host": "전통연희단 잔치마당",
+      "round": "제13회",
+      "month": "2026-08",
+      "genres": [
+        "아리랑"
+      ],
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=82881",
+      "details": {
+        "competitionDate": "2026-08-15",
+        "venue": "국악전용극장 잔치마당",
+        "applyEnd": "2026-08-07"
       },
       "noticeImages": [],
       "noticeText": ""
