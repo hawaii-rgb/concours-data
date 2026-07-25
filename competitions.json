@@ -13458,6 +13458,28 @@
       },
       "noticeImages": [],
       "noticeText": ""
+    },
+    {
+      "officialName": "제6회 진도전국가무악대제전",
+      "region": "전남",
+      "city": "진도군",
+      "genres": [
+        "성악",
+        "기악",
+        "무용",
+        "연희"
+      ],
+      "month": "2026-07",
+      "round": "제6회",
+      "host": "진도군",
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=82901",
+      "source": "국악타임즈",
+      "details": {
+        "competitionDate": "2026-07-18",
+        "venue": "진도향토문화회관"
+      },
+      "noticeImages": [],
+      "noticeText": ""
     }
   ],
   "version": 2,
