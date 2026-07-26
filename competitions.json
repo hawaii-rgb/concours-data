@@ -332,7 +332,7 @@
       "noticeImages": []
     },
     {
-      "officialName": "국창 정정렬 추모 제24회 익산 전국판소리·고법 경연대회",
+      "officialName": "국창 정정렬 추모 제25회 익산 전국판소리·고법 경연대회",
       "region": "전북",
       "city": "익산시",
       "genres": [
@@ -348,10 +348,10 @@
       "middle": false,
       "high": false,
       "general": false,
-      "month": "9월",
+      "month": "2025-10",
       "applyPeriod": "2024년 8월 30일 19:00 마감",
       "host": "주최: 익산시·(사)익산국악진흥원 / 주관: (사)익산국악진흥원",
-      "round": "제24회",
+      "round": "제25회",
       "contact": "seyup1@naver.com",
       "registrationOrder": "",
       "verified": true,
@@ -360,12 +360,12 @@
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=38053",
       "source": "원본(애그리게이터)",
       "details": {
-        "competitionDate": "2024-08-31",
-        "dateEnd": "2024-09-01",
+        "competitionDate": "2025-10-11",
+        "dateEnd": "2025-10-12",
         "dateText": "예선: 2024.08.31(토), 본선: 2024.09.01(일) / 2일간",
         "venue": "솜리문화예술회관 중공연장, 소공연장 (전북 익산시 선화1로 106)",
-        "applyStart": "2024-08-12",
-        "applyEnd": "2024-08-30",
+        "applyStart": "2025-09-21",
+        "applyEnd": "2025-10-10",
         "applyText": "2024. 8. 12 ~ 2024. 8. 30. 19:00",
         "applyMethod": [
           "이메일"
@@ -568,12 +568,12 @@
       "noticeImages": []
     },
     {
-      "officialName": "제2회 전국 국악동아리 경연대회",
+      "officialName": "제3회 전국 국악동아리 경연대회",
       "region": "강원",
       "city": "홍천군",
       "host": "(사)한국국악협회 홍천군지부",
-      "round": "제2회",
-      "month": "",
+      "round": "제3회",
+      "month": "2025-09",
       "applyPeriod": "9월 20일까지",
       "contact": "",
       "registrationOrder": "",
@@ -597,12 +597,12 @@
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=38357",
       "source": "원본(콘테스트코리아)",
       "details": {
-        "competitionDate": "2024-09-29",
-        "dateEnd": "",
+        "competitionDate": "2025-09-12",
+        "dateEnd": "2025-09-13",
         "dateText": "예선 2024.9.28.(토) 10:00~ / 본선 2024.9.29.(일) 13:00~",
         "venue": "홍천문화예술회관 (본선: 대공연장)",
-        "applyStart": "",
-        "applyEnd": "2024-09-20",
+        "applyStart": "2025-07-28",
+        "applyEnd": "2025-09-10",
         "applyText": "신청을 오는 20일까지 접수(등록 2024.09.07 기준). 홍천군청 홈페이지 자유게시판 신청서 다운로드 후 이메일/우편 제출",
         "applyMethod": [],
         "recipientEmail": [],
@@ -632,7 +632,7 @@
           "notes": ""
         },
         "registrationOrder": "",
-        "contact": "주최 홍천군 / 주관 (사)한국국악협회 홍천군지부",
+        "contact": "010-3039-4668(지부장) / 010-3332-7665(사무국장)",
         "confidence": "partial",
         "sourceType": "official-image",
         "notes": "포스터만 확보. 접수기간·참가비·참가자격·경연시간·경연순서 정보 없음 [워터마크본→contestkorea 원본 포스터 교체(회차 검증)]"
@@ -2303,12 +2303,12 @@
       "noticeImages": []
     },
     {
-      "officialName": "제28회 완산 전국 국악 대제전",
-      "round": "제28회",
+      "officialName": "제29회 완산 전국 국악 대제전",
+      "round": "제29회",
       "host": "(사)완산국악제전진흥회",
       "region": "전북",
       "city": "전주시",
-      "month": "10월",
+      "month": "2024-11",
       "applyPeriod": "2023년 10월 16일(월)~2023년 10월 27일(금) 17시",
       "contact": "063-222-2112",
       "genres": [
@@ -2335,12 +2335,12 @@
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=34453",
       "source": "국악신문-2",
       "details": {
-        "competitionDate": "2023-10-28",
-        "dateEnd": "2023-10-29",
+        "competitionDate": "2024-11-09",
+        "dateEnd": "2024-11-10",
         "dateText": "2023. 10. 28(토) ~ 10. 29(일)",
         "venue": "전주대사습청 (전북 전주시 완산구 한지길 56)",
-        "applyStart": "2023-10-16",
-        "applyEnd": "2023-10-27",
+        "applyStart": "2024-10-28",
+        "applyEnd": "2024-11-08",
         "applyText": "2023. 10. 16(월) ~ 27(금) 17시까지",
         "applyMethod": [
           "온라인"
@@ -5021,7 +5021,7 @@
       "noticeImages": []
     },
     {
-      "officialName": "제33회 大田전국국악경연대회",
+      "officialName": "제34회 大田전국국악경연대회",
       "region": "대전",
       "city": "대전",
       "genres": [
@@ -5048,24 +5048,24 @@
       "middle": true,
       "high": true,
       "general": true,
-      "month": "8",
+      "month": "2026-06",
       "applyPeriod": "2025. 7. 1.(화) ~ 7. 31.(목) 오후 6시까지",
-      "host": "(사)한국국악협회 대전광역시지회",
-      "round": "제33회",
+      "host": "(사)한국국악협회 대전광역시지회, (사)한국예술문화진흥회",
+      "round": "제34회",
       "contact": "042-256-4958",
       "registrationOrder": "추첨순",
       "verified": true,
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40407",
+      "sourceUrl": "http://www.djkukak.or.kr/home/board.php?board=gongji&command=body&no=99",
       "seedName": "[국회의장상 문체부장관상 교육부장관상] [대전]제33회 大田전국국악경연대회(8/02-03)[관악/현악/판소리/가야금병창/무용/전통성악/농악]",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40407",
       "source": "국악신문-6",
       "details": {
-        "competitionDate": "2025-08-02",
-        "dateEnd": "2025-08-03",
-        "dateText": "2025. 8.2.(토)~3.(일)",
-        "venue": "대전예술가의 집",
-        "applyStart": "2025-07-01",
-        "applyEnd": "2025-07-31",
+        "competitionDate": "2026-06-13",
+        "dateEnd": "2026-06-14",
+        "dateText": "예선 2026년 6월 13일(토), 본선·결선 6월 14일(일)",
+        "venue": "대전예술가의집(대전 중구 중앙로 32)",
+        "applyStart": "2026-05-11",
+        "applyEnd": "2026-06-10",
         "applyText": "",
         "applyMethod": [],
         "recipientEmail": [],
@@ -8197,8 +8197,8 @@
       "middle": true,
       "high": true,
       "general": true,
-      "round": "제10회",
-      "month": "",
+      "round": "제11회",
+      "month": "2025-09",
       "applyPeriod": "",
       "host": "",
       "contact": "",
@@ -8212,8 +8212,8 @@
         "competitionDate": "2025-09-07",
         "dateEnd": "2025-09-07",
         "dateText": "2025.9.7.(일) 09:00 남서울대 성암문화체육관",
-        "venue": "",
-        "applyStart": "",
+        "venue": "남서울대학교 성암문화체육관(충남 천안)",
+        "applyStart": "2025-07-25",
         "applyEnd": "2025-09-03",
         "applyText": "",
         "applyMethod": [],
@@ -8244,7 +8244,7 @@
           "notes": ""
         },
         "registrationOrder": "",
-        "contact": "",
+        "contact": "010-2355-5115 / 041-572-7431",
         "confidence": "high",
         "sourceType": "official-image",
         "notes": "(사)도솔전통예술진흥회 주최. 제11회로 회차 갱신, 서울시정일보 게재 원본 포스터(워터마크 없음 검증). 민요·무용"
@@ -10650,7 +10650,8 @@
         "venue": "경산자인단오제 주무대 (경북 경산시 자인면 계정길 68)",
         "applyStart": "2026-06-01",
         "applyEnd": "2026-06-11",
-        "applyText": "2026.06.01 ~ 06.11"
+        "applyText": "2026.06.01 ~ 06.11",
+        "contact": "010-4932-5677(집행부)"
       },
       "noticeImages": [],
       "noticeText": ""
@@ -13477,6 +13478,30 @@
       "details": {
         "competitionDate": "2026-07-18",
         "venue": "진도향토문화회관"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "2026년 제40회 창작국악동요 작품 공모전",
+      "region": "전국",
+      "host": "국립국악원",
+      "round": "제40회",
+      "month": "2026-01",
+      "genres": [
+        "국악동요 창작(작곡)"
+      ],
+      "levels": [
+        "개인(연령제한 없음)"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202510140044",
+      "details": {
+        "competitionDate": "2026-01-08",
+        "dateEnd": "2026-01-15",
+        "dateText": "심사 2026년 1월 8일~1월 15일(비대면)",
+        "applyStart": "2026-01-05",
+        "applyEnd": "2026-01-07",
+        "venue": "온라인(국립국악원 누리집)"
       },
       "noticeImages": [],
       "noticeText": ""
