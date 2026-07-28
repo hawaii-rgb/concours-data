@@ -8081,7 +8081,7 @@
       "noticeImages": []
     },
     {
-      "officialName": "제43회 경주전국국악대제전",
+      "officialName": "제44회 경주전국국악대제전",
       "region": "경북",
       "city": "경주시",
       "genres": [
@@ -8106,10 +8106,10 @@
       "middle": true,
       "high": true,
       "general": true,
-      "month": "2025-09",
+      "month": "2026-09",
       "applyPeriod": "2024년 8월 16일(금) 09:00 ~ 8월 30일(금) 24:00",
       "host": "경주시, (사)신라천년예술단",
-      "round": "제43회",
+      "round": "제44회",
       "contact": "(054)742-1516",
       "registrationOrder": "신청역순",
       "verified": true,
@@ -8118,12 +8118,12 @@
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=37740",
       "source": "원본(콘테스트코리아)",
       "details": {
-        "competitionDate": "2025-09-13",
-        "dateEnd": "2025-09-14",
+        "competitionDate": "2026-09-12",
+        "dateEnd": "2026-09-13",
         "dateText": "2024. 9. 7(토)~9. 8(일) 2일간",
         "venue": "경주시 화랑마을",
-        "applyStart": "2025-08-22",
-        "applyEnd": "2025-09-05",
+        "applyStart": "2026-08-21",
+        "applyEnd": "2026-09-04",
         "applyText": "신청기간 2024. 8. 16(금) 09:00 ~ 8월 30일(금) 24:00 (15일간)",
         "applyMethod": [
           "이메일",
@@ -13341,11 +13341,11 @@
       "noticeText": ""
     },
     {
-      "officialName": "2026전국어린이판소리경연대회",
+      "officialName": "2026 전국 어린이 판소리 경연대회",
       "region": "전북",
       "city": "남원시",
       "host": "전북특별자치도교육원, 피어나다 남원 (주관: 전북특별자치도남원교육지원청, 남원국악예술고등학교)",
-      "round": "",
+      "round": "제1회",
       "month": "2026-08",
       "genres": [
         "판소리"
@@ -13355,9 +13355,11 @@
       "details": {
         "competitionDate": "2026-08-22",
         "dateText": "2026.08.22(토)",
-        "applyEnd": "2026-08-22",
+        "applyEnd": "2026-08-20",
         "applyText": "접수마감 2026.08.22",
-        "contact": "dhwm0504@jbedu.kr"
+        "contact": "dhwm0504@jbedu.kr",
+        "applyStart": "2026-08-03",
+        "venue": "남원춘향문화예술회관"
       },
       "noticeImages": [],
       "noticeText": ""
@@ -13528,6 +13530,42 @@
         "applyStart": "2026-05-04",
         "applyEnd": "2026-06-08",
         "venue": "담양리조트(송강홀·성산홀)"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제12회 경기실버국악제 전국경연대회",
+      "region": "경기",
+      "host": "(사)한국국악협회 경기도지회",
+      "round": "제12회",
+      "month": "2026-08",
+      "genres": [
+        "민요",
+        "타악",
+        "무용",
+        "판소리",
+        "기악"
+      ],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43583",
+      "details": {
+        "competitionDate": "2026-08-30",
+        "applyStart": "2026-08-12",
+        "applyEnd": "2026-08-26",
+        "venue": "안양아트센터"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제9회 대한민국 무형유산 춤제전",
+      "host": "호남산조춤보존회",
+      "round": "제9회",
+      "month": "2026-08",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43537",
+      "details": {
+        "competitionDate": "2026-08-30",
+        "applyEnd": "2026-08-25"
       },
       "noticeImages": [],
       "noticeText": ""
