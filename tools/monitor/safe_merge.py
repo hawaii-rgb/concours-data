@@ -70,6 +70,77 @@ def url_round_key(c: dict):
     return (u, rnum(c)) if u else None
 
 
+def entry_keys(c: dict):
+    """이 항목을 대표하는 정규화 키 = 정식명 + aka 별칭(표기 변형). aka에 기록해 둔 변형이
+    재등장해도 신규가 아닌 기존으로 매칭된다(재중복·재판단 방지)."""
+    keys = {norm(c.get("officialName", ""))}
+    for a in c.get("aka", []) or []:
+        if a:
+            keys.add(norm(a))
+    return keys
+
+
+# --- 날짜 정합성 게이트 ---
+WD = ["월", "화", "수", "목", "금", "토", "일"]
+
+
+def _iso(s):
+    try:
+        return datetime.datetime.strptime((s or "")[:10], "%Y-%m-%d").date()
+    except (ValueError, TypeError):
+        return None
+
+
+def date_ordering_errors(det: dict):
+    """접수시작≤마감≤대회일≤종료 위반(순수 산술 — 오탐 없음). 위반 시 신규/갱신 차단용."""
+    aS, aE = _iso(det.get("applyStart")), _iso(det.get("applyEnd"))
+    cD, dE = _iso(det.get("competitionDate")), _iso(det.get("dateEnd"))
+    errs = []
+    if aS and aE and aS > aE:
+        errs.append(f"접수시작>마감({aS}>{aE})")
+    if aE and cD and aE > cD:
+        errs.append(f"접수마감>대회일({aE}>{cD})")
+    if cD and dE and cD > dE:
+        errs.append(f"대회시작>종료({cD}>{dE})")
+    return errs
+
+
+def date_warnings(c: dict):
+    """월↔대회일 불일치 + 요일 정합성(요강 명시 요일 vs 실제 계산). 파싱 의존이라 경고만(차단 아님).
+    요일 불일치는 연도 오류의 결정타 — 자동으로 짚어 준다."""
+    det = c.get("details", {})
+    warns = []
+    cD = _iso(det.get("competitionDate"))
+    dEnd = _iso(det.get("dateEnd"))
+    mo = c.get("month", "") or ""
+    mm = re.match(r"\d{4}-(\d{2})", mo) or re.search(r"(\d{1,2})\s*월", mo)
+    if cD and mm:
+        try:
+            # 대회가 여러 달 걸치면(예: 5.23~6.7) month는 시작·종료 어느 달과 맞아도 정상.
+            months = {cD.month} | ({dEnd.month} if dEnd else set())
+            if int(mm.group(1)) not in months:
+                warns.append(f"month({mo})↔대회일({cD}) 월 불일치")
+        except ValueError:
+            pass
+    base = cD or _iso(det.get("applyEnd")) or _iso(det.get("applyStart"))
+    year = base.year if base else None
+    if year:
+        for fld in ("dateText", "applyText"):
+            yr = year
+            for m in re.finditer(r"(20\d{2})|(\d{1,2})\s*[.월]\s*(\d{1,2})\s*일?\s*\(([월화수목금토일])\)",
+                                 det.get(fld, "") or ""):
+                if m.group(1):
+                    yr = int(m.group(1))
+                    continue
+                try:
+                    d = datetime.date(yr, int(m.group(2)), int(m.group(3)))
+                except ValueError:
+                    continue
+                if WD[d.weekday()] != m.group(4):
+                    warns.append(f"{fld} 요일불일치 {m.group(2)}.{m.group(3)}({m.group(4)})→실제{WD[d.weekday()]}")
+    return warns
+
+
 def apply_fields(entry: dict, fields: dict, details: dict, log: list):
     changed = []
     for k, v in (fields or {}).items():
@@ -103,7 +174,14 @@ def main():
     by_id = {cid(c): c for c in comps}
     by_base = {}
     for c in comps:
-        by_base.setdefault(norm(c["officialName"]), []).append(c)
+        for k in entry_keys(c):                     # 정식명 + aka 별칭 모두로 색인(재중복 방지)
+            by_base.setdefault(k, []).append(c)
+    # aka 전용 색인 — 큐레이션된 변형이라, 여기에 걸리면 회차 무관 '기존 대회'로 확정(업데이트 대상).
+    by_aka = {}
+    for c in comps:
+        for a in c.get("aka", []) or []:
+            if a:
+                by_aka[norm(a)] = c
     # (sourceUrl, 회차) → 항목들. 같은 키 = 동일대회 신호(표기·id 무관).
     by_url_round = {}
     for c in comps:
@@ -130,11 +208,21 @@ def main():
         if any(e.get("round", "") == rnd for e in by_base.get(base, [])):
             summary["skipped"].append(f"신규 스킵(동일 회차 존재): {name}")
             continue
+        # aka 변형은 회차가 달라도 기존 대회다 → 신규로 만들지 말고 업데이트로 처리(재중복 방지).
+        if base in by_aka:
+            summary["skipped"].append(
+                f"신규 스킵(기존 대회의 aka 변형 → update로 처리해야 함): {name} = {by_aka[base].get('officialName','')}")
+            continue
         # ★ 동일대회 중복 차단: 같은 sourceUrl+회차인 기존 항목이 있으면(표기만 달라도) 이중등록이다.
         urk = url_round_key(item)
         if urk and by_url_round.get(urk):
             summary["skipped"].append(
                 f"신규 스킵(동일 sourceUrl+회차 → 동일대회 중복 방지): {name} = {by_url_round[urk][0].get('officialName','')}")
+            continue
+        # ★ 날짜 순서 게이트: 접수시작>마감 등 논리 오류면 차단(잘못된 날짜가 앱에 노출되는 것 방지).
+        oe = date_ordering_errors(det)
+        if oe:
+            summary["skipped"].append(f"신규 스킵(날짜 순서 오류: {', '.join(oe)}): {name}")
             continue
         # 불가침 필드는 스캔값 무시하고 빈 값으로 생성
         clean = {k: v for k, v in item.items() if k not in FORBIDDEN}
@@ -185,6 +273,13 @@ def main():
                     f"갱신 스킵(결과 id가 기존 다른 항목과 중복 → 이중등록 방지): "
                     f"{target.get('officialName','')} ⇒ {prospective}")
                 continue
+        # ★ 날짜 순서 게이트: 갱신 적용 후(기존+변경 병합) 날짜 논리 오류면 차단.
+        eff = dict(target.get("details", {}) or {})
+        eff.update(upd.get("details", {}) or {})
+        oe = date_ordering_errors(eff)
+        if oe:
+            summary["skipped"].append(f"갱신 스킵(날짜 순서 오류: {', '.join(oe)}): {target.get('officialName','')}")
+            continue
         before = target.get("officialName", "")
         changed = apply_fields(target, upd.get("fields", {}), upd.get("details", {}), None)
         if changed:
@@ -210,6 +305,11 @@ def main():
         if len(uniq) > 1:
             summary["warnings"].append(
                 f"동일 sourceUrl+제{r}회 중복 의심(정리 대상): {' / '.join(uniq)}  [{u}]")
+
+    # 경고: 날짜 정합성(월↔대회일, 요일 불일치=연도 오류 신호). 파싱 의존이라 차단 아닌 경고.
+    for c in comps:
+        for w in date_warnings(c):
+            summary["warnings"].append(f"{(c.get('officialName', '') or '')[:24]}: {w}")
 
     # ★ 하드 백스톱: 동일 id(officialName|round|month) 중복이 하나라도 있으면 절대 쓰지 않는다.
     #   동일 id 두 항목은 앱 스냅샷 슬롯을 공유해 '접수중↔예정 무한 NEW 핑퐁'을 일으킨다.

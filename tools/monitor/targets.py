@@ -34,8 +34,25 @@ def expected_month(c: dict):
             return int(d[5:7])
         except ValueError:
             pass
-    m = re.search(r"(\d{1,2})", c.get("month", "") or "")
+    mo = c.get("month", "") or ""
+    m = re.match(r"\d{4}-(\d{2})", mo)          # "YYYY-MM" → 월 (구버그: \d{1,2}가 "20"을 잡던 것 수정)
+    if m:
+        return int(m.group(1))
+    m = re.search(r"(\d{1,2})\s*월", mo)         # "9월"
+    if m:
+        return int(m.group(1))
+    m = re.search(r"\b(\d{1,2})\b", mo)          # 맨 숫자 "11"
     return int(m.group(1)) if m else None
+
+
+def entry_keys(c: dict):
+    """이 항목을 대표하는 정규화 키들 = 정식명 + aka 별칭들(표기 변형).
+    aka에 기록된 변형은 all_keys/타깃 매칭에 포함돼, 그 변형이 재등장해도 신규가 아닌 기존으로 잡힌다."""
+    keys = {norm(c["officialName"])}
+    for a in c.get("aka", []) or []:
+        if a:
+            keys.add(norm(a))
+    return keys
 
 
 def round_num(c: dict):
@@ -55,16 +72,19 @@ def main():
     with open(a.file, encoding="utf-8") as f:
         comps = json.load(f)["competitions"]
 
-    # 전체 정규화 키 인덱스 — 스캔 결과가 신규인지 기존인지 판별하는 데 씀
+    # 전체 정규화 키 인덱스 — 스캔 결과가 신규인지 기존인지 판별하는 데 씀.
+    # 각 항목을 정식명 + aka 별칭들로 등록 → all_keys에 표기 변형까지 포함(재중복 방지).
     index = {}
     for c in comps:
-        index.setdefault(norm(c["officialName"]), []).append({
+        info = {
             "officialName": c["officialName"],
             "roundNum": round_num(c),
             "month": c.get("month", ""),
             "region": c.get("region", ""),
             "sourceUrl": c.get("sourceUrl", ""),
-        })
+        }
+        for k in entry_keys(c):
+            index.setdefault(k, []).append(info)
 
     # 조준 창: 오늘 월 ~ +lookahead 월 (연말 wrap 포함)
     win = {((today.month - 1 + k) % 12) + 1 for k in range(a.lookahead_months + 1)}
