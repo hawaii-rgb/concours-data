@@ -57,6 +57,19 @@ def cid(c: dict) -> str:
     return f"{c.get('officialName','')}|{c.get('round','')}|{c.get('month','')}"
 
 
+def rnum(c: dict) -> str:
+    """회차 숫자만(표기 차이 흡수). 없으면 빈 문자열."""
+    m = re.search(r"(\d+)", c.get("round", "") or "")
+    return m.group(1) if m else ""
+
+
+def url_round_key(c: dict):
+    """(sourceUrl, 회차번호) — 같은 값이면 같은 대회로 본다(표기·id 달라도).
+    임실 이중등록·대전/大田 중복이 정확히 이 신호로 잡힌다. sourceUrl 없으면 None."""
+    u = (c.get("sourceUrl", "") or "").strip()
+    return (u, rnum(c)) if u else None
+
+
 def apply_fields(entry: dict, fields: dict, details: dict, log: list):
     changed = []
     for k, v in (fields or {}).items():
@@ -91,6 +104,12 @@ def main():
     by_base = {}
     for c in comps:
         by_base.setdefault(norm(c["officialName"]), []).append(c)
+    # (sourceUrl, 회차) → 항목들. 같은 키 = 동일대회 신호(표기·id 무관).
+    by_url_round = {}
+    for c in comps:
+        k = url_round_key(c)
+        if k:
+            by_url_round.setdefault(k, []).append(c)
 
     summary = {"added": [], "updated": [], "skipped": [], "warnings": []}
 
@@ -111,6 +130,12 @@ def main():
         if any(e.get("round", "") == rnd for e in by_base.get(base, [])):
             summary["skipped"].append(f"신규 스킵(동일 회차 존재): {name}")
             continue
+        # ★ 동일대회 중복 차단: 같은 sourceUrl+회차인 기존 항목이 있으면(표기만 달라도) 이중등록이다.
+        urk = url_round_key(item)
+        if urk and by_url_round.get(urk):
+            summary["skipped"].append(
+                f"신규 스킵(동일 sourceUrl+회차 → 동일대회 중복 방지): {name} = {by_url_round[urk][0].get('officialName','')}")
+            continue
         # 불가침 필드는 스캔값 무시하고 빈 값으로 생성
         clean = {k: v for k, v in item.items() if k not in FORBIDDEN}
         clean.setdefault("noticeImages", [])
@@ -118,6 +143,8 @@ def main():
         comps.append(clean)
         by_id[cid(clean)] = clean
         by_base.setdefault(base, []).append(clean)
+        if urk:
+            by_url_round.setdefault(urk, []).append(clean)
         summary["added"].append(name)
         # 골격 경고: 접수마감만 있고 접수시작이 비었는데 partial 표기도 없음 → "한 방에 완성" 규칙 위반
         cd = clean.get("details", {}) or {}
@@ -170,10 +197,23 @@ def main():
             summary["skipped"].append(f"갱신 무변화: {before}")
 
     # --- 검증 & 쓰기 ---
+    from collections import Counter
+    # 경고(차단 아님): 같은 sourceUrl+회차인데 서로 다른 항목 = 동일대회 중복 의심(표기·id 달라
+    #   앱 목록에 두 번 뜸). 핑퐁(동일 id)과 달리 표시 중복이라 하드차단 대신 로그로 정리 유도.
+    ur_index = {}
+    for c in comps:
+        k = url_round_key(c)
+        if k:
+            ur_index.setdefault(k, []).append(c.get("officialName", ""))
+    for (u, r), names in ur_index.items():
+        uniq = sorted(set(names))
+        if len(uniq) > 1:
+            summary["warnings"].append(
+                f"동일 sourceUrl+제{r}회 중복 의심(정리 대상): {' / '.join(uniq)}  [{u}]")
+
     # ★ 하드 백스톱: 동일 id(officialName|round|month) 중복이 하나라도 있으면 절대 쓰지 않는다.
     #   동일 id 두 항목은 앱 스냅샷 슬롯을 공유해 '접수중↔예정 무한 NEW 핑퐁'을 일으킨다.
     #   (프로즈 규칙만으론 못 막던 실사고를 코드로 원천 차단 — dry-run에서도 검사.)
-    from collections import Counter
     dup_ids = [k for k, v in Counter(cid(c) for c in comps).items() if v > 1]
     if dup_ids:
         print("=== ⛔ 중단: 동일 id 중복 발생(핑퐁 유발) — 파일 미변경 ===", file=sys.stderr)
