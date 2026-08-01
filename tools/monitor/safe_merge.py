@@ -136,14 +136,47 @@ def main():
         if target is None:
             summary["skipped"].append(f"갱신 스킵(대상 못 찾음): {upd.get('id') or upd.get('match_base')}")
             continue
+        # ★ 결과 id 충돌 가드: 이 갱신이 officialName/round/month를 바꿔 '다른 기존 항목'과
+        #   동일 id가 되면(= 중복 생성) 반영하지 않는다. (임실 핑퐁 사고 방지: 한 공고가
+        #   plain·prefixed 두 base를 각각 같은 회차로 만들어 이중등록되던 문제.)
+        f = upd.get("fields", {}) or {}
+        old_id = cid(target)
+        prospective = "{}|{}|{}".format(
+            f.get("officialName", target.get("officialName", "")),
+            f.get("round", target.get("round", "")),
+            f.get("month", target.get("month", "")),
+        )
+        if prospective != old_id:
+            other = by_id.get(prospective)
+            if other is not None and other is not target:
+                summary["skipped"].append(
+                    f"갱신 스킵(결과 id가 기존 다른 항목과 중복 → 이중등록 방지): "
+                    f"{target.get('officialName','')} ⇒ {prospective}")
+                continue
         before = target.get("officialName", "")
         changed = apply_fields(target, upd.get("fields", {}), upd.get("details", {}), None)
         if changed:
+            new_id = cid(target)
+            if new_id != old_id:                       # id가 바뀌면 인덱스도 갱신
+                by_id.pop(old_id, None)
+                by_id[new_id] = target
             summary["updated"].append(f"{before} → [{', '.join(changed)}]")
         else:
             summary["skipped"].append(f"갱신 무변화: {before}")
 
     # --- 검증 & 쓰기 ---
+    # ★ 하드 백스톱: 동일 id(officialName|round|month) 중복이 하나라도 있으면 절대 쓰지 않는다.
+    #   동일 id 두 항목은 앱 스냅샷 슬롯을 공유해 '접수중↔예정 무한 NEW 핑퐁'을 일으킨다.
+    #   (프로즈 규칙만으론 못 막던 실사고를 코드로 원천 차단 — dry-run에서도 검사.)
+    from collections import Counter
+    dup_ids = [k for k, v in Counter(cid(c) for c in comps).items() if v > 1]
+    if dup_ids:
+        print("=== ⛔ 중단: 동일 id 중복 발생(핑퐁 유발) — 파일 미변경 ===", file=sys.stderr)
+        for k in dup_ids:
+            print(f"  중복 id: {k}", file=sys.stderr)
+        print("한 대회가 이중등록됨. 같은 시리즈의 두 항목을 하나로 병합한 뒤 재실행하라.", file=sys.stderr)
+        sys.exit(2)
+
     text = json.dumps(root, ensure_ascii=False, indent=2)
     json.loads(text)  # 왕복 검증
 
