@@ -92,7 +92,7 @@ def main():
     for c in comps:
         by_base.setdefault(norm(c["officialName"]), []).append(c)
 
-    summary = {"added": [], "updated": [], "skipped": []}
+    summary = {"added": [], "updated": [], "skipped": [], "warnings": []}
 
     # --- 신규 ---
     for item in changes.get("new", []):
@@ -119,6 +119,11 @@ def main():
         by_id[cid(clean)] = clean
         by_base.setdefault(base, []).append(clean)
         summary["added"].append(name)
+        # 골격 경고: 접수마감만 있고 접수시작이 비었는데 partial 표기도 없음 → "한 방에 완성" 규칙 위반
+        cd = clean.get("details", {}) or {}
+        if cd.get("applyEnd") and not cd.get("applyStart") and cd.get("confidence") != "partial":
+            summary["warnings"].append(
+                f"골격 신규(접수시작 없음·partial 아님 → 요강/공홈 재추출 또는 confidence=partial 필요): {name}")
 
     # --- 갱신(회차 전환/일정 변경) ---
     for upd in changes.get("update", []):
@@ -189,6 +194,8 @@ def main():
         print(f"  ~ 갱신: {x}")
     for x in summary["skipped"]:
         print(f"  - 스킵: {x}")
+    for x in summary["warnings"]:
+        print(f"  ⚠ 경고: {x}")
 
     if a.dry_run:
         print("\n[dry-run] 파일 미변경.")
