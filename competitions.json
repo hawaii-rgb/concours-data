@@ -683,11 +683,11 @@
       "details": {
         "competitionDate": "2026-08-15",
         "dateEnd": "",
-        "dateText": "2025년 8월 16일(토) 오후 3시 (시상식 기준)",
+        "dateText": "2026년 8월 15일(토) 오후 2시",
         "venue": "천안박물관",
-        "applyStart": "",
+        "applyStart": "2026-07-01",
         "applyEnd": "2026-07-31",
-        "applyText": "접수마감 2026년 7월 31일(금) 18:00",
+        "applyText": "신청기간: 2026년 7월 1일(수)~7월 31일(금) 18:00까지",
         "applyMethod": [],
         "recipientEmail": [
           "yiinwon@hanmail.net"
@@ -12385,9 +12385,9 @@
         "competitionDate": "2026-08-08",
         "dateText": "2026년 8월 8일 13:00~17:00",
         "venue": "광진문화원 공연장(B1)",
-        "applyStart": "",
+        "applyStart": "2026-06-15",
         "applyEnd": "2026-07-31",
-        "contact": "",
+        "contact": "010-6381-5594",
         "applyText": "7월 31일까지 접수 (포스터 QR코드 또는 신청서). 학생부 무료, 일반부·신인/단체부 참가비 3만원"
       },
       "noticeImages": [],
@@ -13300,10 +13300,22 @@
       "details": {
         "competitionDate": "2026-08-22",
         "applyEnd": "2026-08-20",
-        "confidence": "partial"
+        "confidence": "partial",
+        "applyStart": "2026-07-22",
+        "venue": "경주 서라벌문화회관",
+        "dateText": "2026.8.22.(토) 09:00",
+        "applyText": "신청기간: 2026.7.22.(수)~8.20.(목) 18:00",
+        "contact": "010-9363-8801"
       },
       "noticeImages": [],
-      "noticeText": ""
+      "noticeText": "",
+      "genres": [
+        "민요",
+        "무용"
+      ],
+      "levels": [
+        "일반부(만 60세 이상)"
+      ]
     },
     {
       "officialName": "제17회 장수논개 전국판소리경연대회",
@@ -13460,10 +13472,29 @@
       "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43537",
       "details": {
         "competitionDate": "2026-08-30",
-        "applyEnd": "2026-08-25"
+        "applyEnd": "2026-08-25",
+        "applyStart": "2026-08-03",
+        "venue": "전주덕진예술회관",
+        "dateText": "2026.8.30.(일) 09:30~20:00",
+        "applyText": "신청기간: 2026년 08월 03일(월)~08월 25일(화) 오후 6시(기일 엄수)",
+        "contact": "063-287-2815"
       },
       "noticeImages": [],
-      "noticeText": ""
+      "noticeText": "",
+      "region": "전북",
+      "city": "전주시",
+      "genres": [
+        "전통춤(국가·시도 무형유산 지정/비지정)"
+      ],
+      "levels": [
+        "명인부",
+        "일반부",
+        "신인부",
+        "고등부",
+        "중등부",
+        "초등부",
+        "단체부"
+      ]
     }
   ],
   "version": 2,

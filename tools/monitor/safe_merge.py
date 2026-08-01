@@ -179,9 +179,9 @@ def main():
     # aka 전용 색인 — 큐레이션된 변형이라, 여기에 걸리면 회차 무관 '기존 대회'로 확정(업데이트 대상).
     by_aka = {}
     for c in comps:
-        for a in c.get("aka", []) or []:
-            if a:
-                by_aka[norm(a)] = c
+        for ak in c.get("aka", []) or []:
+            if ak:
+                by_aka[norm(ak)] = c
     # (sourceUrl, 회차) → 항목들. 같은 키 = 동일대회 신호(표기·id 무관).
     by_url_round = {}
     for c in comps:
