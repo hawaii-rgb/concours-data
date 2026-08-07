@@ -3,6 +3,54 @@
     "officialName": "제64회 탐라문화제",
     "missing": ["round", "competitionDate", "dateEnd", "venue"],
     "sourceUrl": "http://tamnafestival.kr/skyBoard/list/notice",
-    "reason": "공홈이 간헐적으로 503(2026-08-04 직접 재확인 시도도 503). 8/4 리서치에서 공홈 배너/제목이 '제65회'로 바뀐 것을 목격했다는 보고가 있었으나 클로드가 직접 재확인은 못함. 정확한 2026년 개최일(10/17~21로 추정)과 장소는 언론(한라일보·미디어제주)에서만 확인되고 3소스(국악신문/타임즈/콘테스트코리아)나 공홈 원문에서는 직접 확인 못해 반영 보류. 다음 실행 또는 심층 재감사 세션에서 공홈이 열리면 재확인 필요."
+    "reason": "공홈이 간헐적으로 503(2026-08-07 재확인 시도도 503). 언론(jejudomin.co.kr 등 제주 지역지)에서 제65회, 2026년 10월 17일(토)~21일(수), 제주시민복지타운광장 일대로 보도됨 — 3소스(국악신문/타임즈/콘테스트코리아)나 공홈 원문에서는 직접 확인 못해 반영 보류(3소스+공홈만 신뢰하는 게이트 원칙 유지). 다음 실행 또는 심층 재감사 세션에서 공홈이 열리거나 3소스에 뜨면 반영."
+  },
+  {
+    "officialName": "2024 중고제 전국 판소리 경연대회",
+    "missing": ["round", "competitionDate(최신)", "applyEnd(최신)"],
+    "sourceUrl": "https://www.thepublic.kr/news/articleView.html?idxno=275407",
+    "reason": "지역언론(thepublic.kr)에서 제2회(2025-10-18, 한빛복지관)가 이미 열렸다고 보도됨('지난해 제1회에 이어 두번째 개최') — 3소스에서는 확인 못해 반영 보류. 제2회도 이미 지난 대회이므로 제3회(2026년) 공고가 3소스에 뜨는지 우선 확인 필요."
+  },
+  {
+    "officialName": "제16회 한음꿈나무 경연대회",
+    "missing": ["round(최신)", "competitionDate(최신)"],
+    "sourceUrl": "https://www.fintechtimes.co.kr/news/article.html?no=57541",
+    "reason": "지역언론(fintechtimes.co.kr)에서 제17회가 이미 2026-07-24~25(서울 남산국악당)에 열렸다고 보도됨 — 3소스에서는 확인 못해 반영 보류. 국악신문/타임즈에 제17회 공고 원문이 있는지 재확인 필요."
+  },
+  {
+    "officialName": "제11회 칠곡 향사 가야금병창 전국대회",
+    "missing": ["round(최신, 12~14 다수 회차 누락 추정)", "competitionDate(최신)"],
+    "sourceUrl": "http://www.koreatimenews.com/news/article.html?no=994747",
+    "reason": "koreatimenews.com에서 제14회(2025-11-15, 향사아트센터)가 열렸다고 보도, kukak21에 제13회 공고도 별도 확인됨 — 그러나 lastRound=11에서 회차가 3단계(12·13·14회) 건너뛰어 검증게이트(회차 점프>1 경고)에 걸려 자동반영 보류. 중간 회차(12·13회) 각각의 3소스 공고 원문을 순서대로 확인 후 단계적으로 반영 필요."
+  },
+  {
+    "officialName": "제15회 진도 (고운)김득수 전국고수대회",
+    "missing": ["round(최신, 16~18 다수 회차 누락 추정)", "competitionDate(최신)"],
+    "sourceUrl": "https://kukak21.com/bbs/board.php?bo_table=news&wr_id=40777",
+    "reason": "국악신문(kukak21 wr_id=40777)에서 제18회(2025-11-22~23) 공고 확인됨(신뢰 소스) — 그러나 lastRound=15에서 회차가 3단계(16·17·18회) 건너뛰어 검증게이트(회차 점프>1 경고)에 걸려 자동반영 보류. 중간 회차(16·17회) 공고를 확인해 단계적으로 반영하거나, 이 kukak21 공고가 정말 연속 회차인지(동명 다른 대회 혼입 아닌지) 확인 필요."
+  },
+  {
+    "officialName": "제14회 전국 동구리 전통민요경창대회",
+    "missing": ["round(최신)", "competitionDate(최신)"],
+    "sourceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3424869",
+    "reason": "지역언론(gukjenews.com, kado.net)에서 제15회(2025-11-11~12, 양양문화복지회관)가 이미 열렸다고 보도됨 — 3소스에서는 확인 못해 반영 보류."
+  },
+  {
+    "officialName": "제25회 상주 전국 민요경창대회",
+    "missing": ["round(최신)", "competitionDate(최신)"],
+    "sourceUrl": "https://www.idaegu.com/news/articleView.html?idxno=652472",
+    "reason": "지역언론(idaegu.com 등)에서 제26회(2025-11-19, 상주문화회관)가 이미 열렸다고 보도됨 — 3소스에서는 확인 못해 반영 보류."
+  },
+  {
+    "officialName": "제26회 대한민국 남도민요 경창대회",
+    "missing": ["round(최신)", "competitionDate(최신)", "venue(최신)"],
+    "sourceUrl": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EB%82%A8%EB%8F%84%EB%AF%BC%EC%9A%94%EA%B2%BD%EC%B0%BD%EB%8C%80%ED%9A%8C",
+    "reason": "위키백과 수상 이력에 제27회(2025년, 신정혜 대통령상)가 언급됨 — 출처가 3소스/공홈/언론 어디에도 해당하지 않는 2차 자료뿐이라 신뢰도 낮음, 정확한 일자·장소 미확인. 3소스 또는 공홈에서 제27회(2025) 또는 제28회(2026) 공고 원문 확인 필요."
+  },
+  {
+    "officialName": "[데이터 중복 의심] 진도 전국 가·무·악 대제전 계열",
+    "missing": [],
+    "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=35004 / https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40495 / https://www.gugaktimes.com/news/article.html?no=82901",
+    "reason": "같은 진도 지역 '가·무·악' 계열 대회로 보이는 항목이 3개로 분리되어 있음: ① '제3회 진도 전국 가·무·악 대제전'(2023-11, round=제3회, base='진도전국가·무·악대제전' — 가운뎃점 포함), ② '2025 진도 전국 가·무·악(歌舞樂) 대제전 & 대한민국 청소년 국악제'(2025-07, round 없음), ③ '제6회 진도전국가무악대제전'(2026-07, round=제6회, base='진도전국가무악대제전' — 가운뎃점 없음). ①과 ③의 정규화 base가 가운뎃점(·) 유무로 서로 달라 safe_merge가 같은 대회로 인식하지 못함(핑퐁 위험 있는 표기 변형). 이번 실행에서는 ③(가장 최신, gugaktimes로 이미 확인됨)에 kukak21 wr_id=43023 공고로 접수마감·연락처만 보강했고, ①②는 건드리지 않음(자동 병합·삭제 금지 원칙). 관리자 세션에서 세 항목이 정말 동일 계열인지 확인 후 하나로 병합하고, 남기는 항목의 aka에 표기 변형(가운뎃점 포함형)을 기록 필요."
   }
 ]
