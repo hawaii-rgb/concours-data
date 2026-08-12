@@ -1,11 +1,5 @@
 [
   {
-    "officialName": "제64회 탐라문화제",
-    "missing": ["round", "competitionDate", "dateEnd", "venue"],
-    "sourceUrl": "http://tamnafestival.kr/skyBoard/list/notice",
-    "reason": "공홈이 간헐적으로 503(2026-08-07 재확인 시도도 503). 언론(jejudomin.co.kr 등 제주 지역지)에서 제65회, 2026년 10월 17일(토)~21일(수), 제주시민복지타운광장 일대로 보도됨 — 3소스(국악신문/타임즈/콘테스트코리아)나 공홈 원문에서는 직접 확인 못해 반영 보류(3소스+공홈만 신뢰하는 게이트 원칙 유지). 다음 실행 또는 심층 재감사 세션에서 공홈이 열리거나 3소스에 뜨면 반영."
-  },
-  {
     "officialName": "2024 중고제 전국 판소리 경연대회",
     "missing": ["round", "competitionDate(최신)", "applyEnd(최신)"],
     "sourceUrl": "https://www.thepublic.kr/news/articleView.html?idxno=275407",
@@ -94,5 +88,17 @@
     "missing": ["sourceUrl(사백사망: epculture.or.kr는 은평문화원으로 리다이렉트되는 무관 기관 홈페이지)", "round/competitionDate/applyStart/applyEnd(최신)"],
     "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=75731",
     "reason": "2026-08-11 실행에서 확인: 저장된 sourceUrl(epculture.or.kr)이 죽은 링크(은평문화원으로 연결, 선운과 무관) — 정정 필요. 2025년판('2025 선운 전국무용경연대회', 주최 (사)한국전통춤연구회/선운임이조춤보존회, 공동주관 (사)한국전통문화예술원 신설, 예선·본선 2025-03-15(토) 은평문화예술회관, 결선 2025-10-06(월) 광화문광장, 접수 2025-02-10~03-14(연장), 참가비 개인13만/단체20만, 국제학생부·국제일반부 신설)가 국악타임즈(no=75731) + 주최측 네이버블로그(blog.naver.com/seonun_tdc, RSS로 생존 확인)로 확인됨(요일게이트 통과). 다만 이 2025년판도 이미 종료된 과거 대회라 그대로 갱신하면 앱에 지난 접수기간을 새 정보처럼 노출할 위험이 있어 자동 반영 보류 — 관리자 세션에서 죽은 sourceUrl 교체 + 2026년판 존재 여부 확인 후 함께 갱신 필요. (블로그 최신 글은 2025-09-17로, 2026년판 공고는 아직 없음.)"
+  },
+  {
+    "officialName": "제2회 옥보 김옥진 명창 육자배기 전국대회",
+    "missing": ["round(최신, 저장값 2회는 2022년 — 최소 5회 확인)", "competitionDate(최신)", "applyStart/applyEnd(최신)"],
+    "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40787",
+    "reason": "2026-08-12 실행에서 국악신문 백로그(검색 델타 필터)로 제3회(2023-10-17, wr_id=34758)와 제5회(2025-08-31, wr_id=40787) 공고를 각각 확인 — 저장값(제2회, 2022-12)에서 3단계(3·4·5회) 건너뜀. 검증게이트(회차 점프>1 경고)에 걸려 자동반영 보류. 제4회 공고 원문은 이번 스캔에서 못 찾음(누락 추정). 국악신문/타임즈/콘테스트코리아에서 제4회·제6회(2026) 공고 원문을 순서대로 확인해 단계적으로 반영 필요."
+  },
+  {
+    "officialName": "[데이터 중복 의심] 홍천전국민요 계열",
+    "missing": [],
+    "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=79108 / https://www.gugaktimes.com/news/article.html?no=74086",
+    "reason": "2026-08-12 실행에서 확인: '제11회 홍천전국민요경연대회'(round=제11회, 11월, gugaktimes no=79108)와 '제10회 홍천전국민요경창대회'(round=제10회, 미상월, gugaktimes no=74086)가 데이터셋에 별개 항목으로 존재 — '경연대회' vs '경창대회' 접미어 차이로 정규화 base가 달라져 서로 다른 대회로 인식됨(임실 핑퐁과 유사 패턴, 회차도 11↔10으로 연속적이라 동일 계열일 가능성 높음). 자동 병합·삭제 금지 원칙에 따라 이번 실행에서는 손대지 않음. 관리자 세션에서 두 항목이 동일 대회인지 원문 대조 후 확인되면 하나로 병합하고 aka에 표기 변형을 기록 필요."
   }
 ]
