@@ -1776,8 +1776,8 @@
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43376",
       "source": "국악신문-1",
       "details": {
-        "competitionDate": "2026-09-06",
-        "dateEnd": "",
+        "competitionDate": "2026-09-05",
+        "dateEnd": "2026-09-06",
         "dateText": "2026년 9월 5일(토)~6일(일). 예선 9.5(초·중등 10:00~12:00, 고·일반 13:00~17:00), 본선 9.6(일) 10:00~12:00, 종합결선 9.6 13:00~14:30",
         "venue": "평택시남부문화예술회관 (경기 평택시 중앙로 277) - 대공연장, 소공연장, 악실1, 악실2, 세미나실",
         "applyStart": "2026-08-17",
@@ -2504,7 +2504,7 @@
       "contact": "054-777-4240 / jsisori@hanmail.net",
       "registrationOrder": "추첨순",
       "verified": true,
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40918",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43508",
       "seedName": "제14회 판소리명가 장월중선 명창대회 (10/18-19)",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40918",
       "source": "국악신문-3",
@@ -7237,7 +7237,7 @@
       "seedUrl": "https://contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607080006",
       "source": "공홈",
       "details": {
-        "competitionDate": "2026-10-04",
+        "competitionDate": "2026-10-02",
         "dateEnd": "2026-10-04",
         "dateText": "예선 2026.10.2~3(안성천무대) / 본선 10.4 안성맞춤랜드 메인무대",
         "venue": "안성천무대(예선), 안성맞춤랜드 메인무대(본선)",
