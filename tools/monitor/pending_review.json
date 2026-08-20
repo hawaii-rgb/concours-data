@@ -275,5 +275,40 @@
     ],
     "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=29278",
     "reason": "2026-08-17 실행: 데이터셋의 '제42회 남도국악제'(화순 개최로 기록)와 관련해 국악신문 검색에서 '제43회 남도국악제'(2022, wr_id=29278) 발견됐으나 기사 본문에 개최지가 화순이 아닌 여수(여수진남실내체육관)로 명시됨 — 동일 시리즈인지 불확실(개최지 변경인지, 별개 대회 오인인지). 접수기간 등 정보 부족으로 반영 보류. 관리자 세션에서 화순·여수 어느 쪽이 맞는지, 동일 대회의 순회개최인지 확인 필요."
+  },
+  {
+    "officialName": "2024년 가야국악대전 제14회 전국국악경연대회",
+    "missing": [
+      "round(최신, 2025/2026년분 미확인)",
+      "competitionDate/applyStart/applyEnd(최신)"
+    ],
+    "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=69642",
+    "reason": "2026-08-20 실행: 데이터에 2024년판(제14회)만 있어 targets 재확인 대상이었으나, 국악신문·국악타임즈·콘테스트코리아 3소스 키워드 검색('가야국악대전')에 2024년 기사 2건 외 신규 없음 — 2025/2026년판 공고를 3소스에서 확인 못해 반영 보류. 공홈/개최지(경남) 기관 홈 확인 필요."
+  },
+  {
+    "officialName": "K-Seoul 김창조 가야금 전국대회",
+    "missing": [
+      "round(최신, 2025/2026년분 미확인)",
+      "competitionDate/applyStart/applyEnd(최신)"
+    ],
+    "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=69498",
+    "reason": "2026-08-20 실행: 데이터에 2024년판만 있어 targets 재확인 대상이었으나, 3소스 키워드 검색('김창조')에 2024년 이하 기사만 있고 2025/2026년판 공고 없음 — 반영 보류. 영암군(김창조 산조 페스티벌 주최측) 공홈 확인 필요."
+  },
+  {
+    "officialName": "제8회 은정 전통예술 국악 경연대회",
+    "missing": [
+      "round(최신, 2025/2026년분 미확인)",
+      "competitionDate/applyStart/applyEnd(최신)"
+    ],
+    "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202407290049",
+    "reason": "2026-08-20 실행: 데이터에 2024년판(제8회)만 있어 targets 재확인 대상이었으나, 3소스 키워드 검색('은정')에 2025/2026년판 공고 없음(콘테스트코리아엔 2024년판만) — 반영 보류."
+  },
+  {
+    "officialName": "제16회 '뫼솔' 전국국악경연대회",
+    "missing": [
+      "competitionDate/applyStart/applyEnd(최신)"
+    ],
+    "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202507220044",
+    "reason": "2026-08-20 실행: 데이터엔 2025년판(제16회, 콘테스트코리아 str_no=202507220044) 저장돼 있으나 3소스 키워드 검색('뫼솔')에 2026년판(제17회 추정) 공고 없음 — 2025년판이 최신인지 재확인 필요."
   }
 ]
