@@ -6106,12 +6106,13 @@
       ]
     },
     {
-      "officialName": "제4회 삼국유사 전통음악전국경연대회",
+      "officialName": "군위 제5회 삼국유사 전통음악전국경연대회",
       "region": "대구",
       "city": "군위군",
       "genres": [
         "판소리",
-        "민요"
+        "민요",
+        "가야금병창"
       ],
       "levels": [
         "초등부",
@@ -6128,25 +6129,25 @@
       "middle": true,
       "high": true,
       "general": true,
-      "month": "10월",
+      "month": "2026-10",
       "applyPeriod": "2025년 9월 22일 ~ 10월 21일",
       "host": "대한불교조계종 인각사",
-      "round": "제4회",
+      "round": "제5회",
       "contact": "010-9320-3605 / 054-383-1161",
       "registrationOrder": "신청역순",
       "verified": true,
-      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=78618",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43975",
       "seedName": "제4회 삼국유사 전통음악전국경연대회",
       "seedUrl": "https://www.gugaktimes.com/news/article.html?no=78618",
       "source": "국악타임즈",
       "details": {
-        "competitionDate": "2025-10-25",
-        "dateEnd": "",
-        "dateText": "2025. 10. 25.(토) 예선·본선 당일 진행",
-        "venue": "인각사 특설무대 (대구광역시 군위군 삼국유사면 삼국유사로 250)",
-        "applyStart": "2025-09-22",
-        "applyEnd": "2025-10-21",
-        "applyText": "2025. 9. 22(월) ~ 10. 21(화)",
+        "competitionDate": "2026-10-24",
+        "dateEnd": "2026-10-25",
+        "dateText": "2026년 10월 24일(토) 예선, 10월 25일(일) 본선",
+        "venue": "예선: 군위 동부스포츠센터(대구광역시 군위군 의흥면 원산금양길 322) / 본선: 인각사 특설무대(대구광역시 군위군 삼국유사면 삼국유사로 250)",
+        "applyStart": "2026-09-21",
+        "applyEnd": "2026-10-20",
+        "applyText": "2026년 9월 21일(월) ~ 10월 20일(화)",
         "applyMethod": [
           "이메일"
         ],
@@ -6179,7 +6180,7 @@
           "notes": ""
         },
         "registrationOrder": "신청역순 (예선 순번은 접수 역순, 본선 순번은 본선 진출 순위의 역순)",
-        "contact": "010-9320-3605, 054-383-1161",
+        "contact": "010-9320-3605, 054-383-1161, 055-712-0372, 055-288-3605",
         "confidence": "high",
         "sourceType": "official-image",
         "notes": "일반부 종합대상 국회의장상 500만원. 총 시상금 3,540만원(수상인원 41명). [언론사(국악신문/타임즈) 워터마크 이미지 미게시 — 저작권. 출처 링크로 대체]"
@@ -11861,12 +11862,12 @@
       "noticeText": ""
     },
     {
-      "officialName": "2024 전국 전통연희 경연대회",
+      "officialName": "2026 전국 전통연희 경연대회",
       "region": "전북",
       "city": "임실군",
       "host": "필봉농악보존회",
       "round": "",
-      "month": "2024-09",
+      "month": "2026-09",
       "genres": [
         "농악",
         "탈춤",
@@ -11874,16 +11875,16 @@
         "풍물굿"
       ],
       "levels": [],
-      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202409050052",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43970",
       "details": {
-        "competitionDate": "2024-09-27",
-        "dateEnd": "2024-09-29",
-        "dateText": "2024년 09월 27일(금) 제19회 전국전통연희 개인놀이 경연대회 / 2024년 09월 29일(일) 제11회 양순용배 전국 풍물굿 경연대회",
-        "venue": "전북특별자치도 임실군 강진면 필봉문화촌 야외공연장(산대마당)",
-        "applyStart": "2024-08-23",
-        "applyEnd": "2024-09-23",
-        "applyText": "2024년 08월 23일~09월 23일(월) 18:00까지",
-        "contact": "063-643-1902"
+        "competitionDate": "2026-09-19",
+        "dateEnd": "2026-09-20",
+        "dateText": "제21회 전국전통연희 개인놀이 경연대회 2026년 9월 19일(토) / 제13회 전국 양순용배 풍물굿 경연대회 2026년 9월 20일(일)",
+        "venue": "전북특별자치도 임실군 강진면 필봉문화촌 야외공연장",
+        "applyStart": "2026-08-19",
+        "applyEnd": "2026-09-15",
+        "applyText": "2026년 8월 19일(수) ~ 9월 15일(화) 18:00까지",
+        "contact": "063-643-1902, 063-643-1901"
       },
       "noticeImages": [],
       "noticeText": ""
