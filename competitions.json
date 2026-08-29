@@ -10140,14 +10140,17 @@
       "noticeImages": []
     },
     {
-      "officialName": "제1회 남원풍류 전국농악경연대회",
+      "officialName": "제2회 남원풍류 전국농악경연대회",
       "region": "전북",
       "city": "남원시",
       "genres": [
         "개인놀이",
         "사물놀이"
       ],
-      "levels": [],
+      "levels": [
+        "청소년부",
+        "일반부"
+      ],
       "instrumental": false,
       "vocal": false,
       "dance": false,
@@ -10156,10 +10159,10 @@
       "middle": false,
       "high": false,
       "general": false,
-      "month": "10",
+      "month": "2026-10",
       "applyPeriod": "~2025년 10월 15일",
       "host": "남원시",
-      "round": "제1회",
+      "round": "제2회",
       "contact": "nwgugak@naver.com",
       "registrationOrder": "",
       "verified": true,
@@ -10168,13 +10171,13 @@
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=41119",
       "source": "원본(콘테스트코리아)",
       "details": {
-        "competitionDate": "2025-10-19",
+        "competitionDate": "2026-10-09",
         "dateEnd": "",
-        "dateText": "2025. 10. 19(일) 오전 청소년부, 오후 일반부 (AM 9:00~), 남원 요천변 특설무대",
-        "venue": "남원시 요천변 특설무대(요천 수경 음악분수 옆), 우천시 남원아트센터 공연장 또는 남원농악 전수교육관 공연장",
-        "applyStart": "2025-09-16",
-        "applyEnd": "2025-10-15",
-        "applyText": "2025. 9. 16(화) ~ 10. 15(수) (우편 접수는 2025년 10월 10일 도착분에 한함)",
+        "dateText": "2026.10.09.(금) 오전 청소년부, 오후 일반부",
+        "venue": "남원시 요천변 특설무대(요천 수경 음악분수 옆) ※ 우천 시 청아원 공연장",
+        "applyStart": "2026-09-07",
+        "applyEnd": "2026-10-02",
+        "applyText": "2026. 9. 7.(월) ~ 10. 2.(금). 이메일(nwgugak@naver.com) 또는 우편·방문(남원농악보존회, 우:55796 전북특별자치도 남원시 솔미안길 14-21). 우편은 10.2 도착분 한함, 방문은 휴일 제외 평일 18:00까지(사전 통화 요망).",
         "applyMethod": [
           "이메일",
           "우편",
@@ -10209,7 +10212,7 @@
           "notes": ""
         },
         "registrationOrder": "추첨 - 경연순서 추첨(청소년부 대회 당일 09:00, 일반부 대회 당일 13:00), 대회 시작 전 추첨으로 정함",
-        "contact": "(사)국가무형유산 남원농악보존회 063-635-8887 / 남원시 문화예술과 국악진흥팀 063-620-6157",
+        "contact": "063-635-8887",
         "confidence": "high",
         "sourceType": "official-image",
         "notes": "이미지 3장(포스터·요강·시상내역)으로 대부분 확보. 참가비 관련 명시 없음. [워터마크본→contestkorea 원본 포스터 교체(회차 검증)]"
@@ -13560,6 +13563,55 @@
         "applyEnd": "2026-09-28",
         "applyText": "이메일 접수(ch738@naver.com), 2026년 8월 24일(월) ~ 9월 28일(월)",
         "contact": "010-6636-7238"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제22회 포은문화제 전국청소년국악경연대회",
+      "region": "경기",
+      "city": "용인시",
+      "genres": [
+        "성악(민요·판소리·가야금병창)",
+        "기악(관악·현악·타악)",
+        "한국무용(전통무용·창작무용)"
+      ],
+      "levels": [
+        "초등부",
+        "중고등부"
+      ],
+      "instrumental": true,
+      "vocal": true,
+      "dance": true,
+      "percussion": true,
+      "elementary": true,
+      "middle": true,
+      "high": true,
+      "general": false,
+      "month": "2026-09",
+      "applyPeriod": "2026년 9월 1일(화) ~ 9월 20일(일) 23:59까지",
+      "host": "용인문화원",
+      "round": "제22회",
+      "contact": "031-324-9600",
+      "registrationOrder": "",
+      "verified": true,
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44025",
+      "seedName": "제22회 포은문화제 전국청소년국악경연대회(영상대회)(09/23)",
+      "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44025",
+      "source": "국악신문",
+      "details": {
+        "competitionDate": "2026-09-23",
+        "dateEnd": "",
+        "dateText": "영상대회(비대면). 접수기간 2026.9.1(화)~9.20(일) 23:59. 심사발표 2026.9.23(수) 문화원 홈페이지 공지(개별 통보 없음). 초·중고등부 종합대상 등 입상자(팀)는 10.10(토) 또는 10.11(일) 제22회 포은문화제에서 공연 필수.",
+        "venue": "비대면 영상심사(구글폼 접수) — 입상자 공연은 제22회 포은문화제(용인)에서 진행",
+        "applyStart": "2026-09-01",
+        "applyEnd": "2026-09-20",
+        "applyText": "2026년 9월 1일(화) ~ 9월 20일(일) 23:59까지. 참가신청서 및 참가영상을 구글폼으로 제출(개인/단체 별도 링크). 파일용량 1GB 이상 시 이메일 별도제출.",
+        "contact": "031-324-9600",
+        "registrationOrder": "",
+        "confidence": "high",
+        "sourceType": "article+poster",
+        "notes": "언론사(국악신문) 워터마크 이미지 미게시 — 저작권. 출처 링크로 대체."
       },
       "noticeImages": [],
       "noticeText": ""
