@@ -12674,12 +12674,12 @@
       "noticeText": ""
     },
     {
-      "officialName": "제11회 칠곡 향사 가야금병창 전국대회",
+      "officialName": "제15회 칠곡 향사가야금병창 전국대회",
       "region": "경북",
       "city": "칠곡군",
       "host": "칠곡군, 향사 박귀희 명창 기념사업회, (사)한국전통연희단체총연합회 경북지회",
-      "round": "제11회",
-      "month": "2022-10",
+      "round": "제15회",
+      "month": "2026-09",
       "genres": [
         "가야금병창"
       ],
@@ -12691,14 +12691,15 @@
         "일반부",
         "단체부"
       ],
-      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=54127",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=43795",
       "details": {
-        "competitionDate": "2022-10-30",
-        "dateText": "예선(비대면 영상심사) 2022-10-29(토) / 본선(대면심사) 2022-10-30(일)",
-        "venue": "경북 칠곡군 향사 아트센터",
-        "applyStart": "2022-10-03",
-        "applyEnd": "2022-10-27",
-        "contact": "010-3548-5447"
+        "competitionDate": "2026-09-12",
+        "dateText": "2026-09-12(토)",
+        "venue": "칠곡향사아트센터",
+        "applyStart": "2026-08-18",
+        "applyEnd": "2026-09-09",
+        "contact": "010-3793-5076",
+        "applyText": "이메일 접수(chilgokhyangsa@gmail.com), 접수기간 2026.8.18~9.9(수)18:00"
       },
       "noticeImages": [],
       "noticeText": ""
