@@ -7920,21 +7920,18 @@
       ]
     },
     {
-      "officialName": "제19회 포항국악제 전국기악경연대회",
+      "officialName": "2026영덕국악제 제20회 전국국악경연대회",
       "region": "경북",
-      "city": "포항시",
+      "city": "영덕군",
       "genres": [
-        "관악부문",
-        "현악부문",
-        "기악부문"
+        "기악부문",
+        "성악부문"
       ],
       "levels": [
-        "초등부",
-        "중등부",
+        "초·중등부",
         "고등부",
         "일반부",
-        "신인부",
-        "학생부"
+        "신인부"
       ],
       "instrumental": true,
       "vocal": false,
@@ -7944,25 +7941,25 @@
       "middle": true,
       "high": true,
       "general": true,
-      "month": "12",
+      "month": "2026-10",
       "applyPeriod": "2023년 11월 20일(월) 09:00 ~ 12월 8일(금) 18:00",
-      "host": "(사)신라만파식적보존회",
-      "round": "제19회",
+      "host": "주최: 영덕군 / 주관: 청해예술원, (사)신라만파식적보존회",
+      "round": "제20회",
       "contact": "054-614-3798 / diya3797@daum.net",
       "registrationOrder": "",
       "verified": true,
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=35191",
+      "sourceUrl": "https://kukak21.com/bbs/board.php?bo_table=news&wr_id=44128",
       "seedName": "제19회 포항국악제 전국기악경연대회(12/16-17)",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=35191",
       "source": "시군명-보조",
       "details": {
-        "competitionDate": "2023-12-16",
-        "dateEnd": "2023-12-17",
-        "dateText": "예선 12.16(토)-고등·일반부 / 단심 12.17(일)-초·중·신인부 / 본선 12.17(일)",
-        "venue": "포항예술고등학교 예송관 3층",
-        "applyStart": "2023-11-20",
-        "applyEnd": "2023-12-08",
-        "applyText": "2023.11.20(월) 09:00~12.8(금) 18:00 [19일간]",
+        "competitionDate": "2026-10-10",
+        "dateEnd": "2026-10-11",
+        "dateText": "2026.10.10(토) 예선(고등부·일반부) / 10.11(일) 초·중등부·신인부 단심제, 고등부·일반부 본선·결선",
+        "venue": "예주문화예술회관 (경북 영덕군)",
+        "applyStart": "2026-09-07",
+        "applyEnd": "2026-10-02",
+        "applyText": "2026.9.7(월) 09:00~10.2(금) 18:00, 직접접수 또는 이메일 접수(bluesea2026@naver.com)",
         "applyMethod": [
           "이메일",
           "우편"
@@ -7995,8 +7992,8 @@
           "videoSubmission": "",
           "notes": ""
         },
-        "registrationOrder": "신청역순(예선·단심제는 접수 역순), 본선·결선은 추첨",
-        "contact": "포항국악학원 054-614-3798",
+        "registrationOrder": "예선·단심제 접수역순 / 본선·결선 당일추첨",
+        "contact": "010-9566-3533",
         "confidence": "high",
         "sourceType": "official-text",
         "notes": "2023년 대회(지난 회차). kukak21 본문 요강 전문"
@@ -8138,7 +8135,7 @@
         "dateEnd": "2026-09-05",
         "dateText": "2026. 9. 5.(토) 9:00AM",
         "venue": "남서울대학교(지식정보관)",
-        "applyStart": "2025-07-25",
+        "applyStart": "2026-08-01",
         "applyEnd": "2026-09-03",
         "applyText": "",
         "applyMethod": [],
@@ -8168,7 +8165,7 @@
           "videoSubmission": "",
           "notes": ""
         },
-        "registrationOrder": "",
+        "registrationOrder": "접수 마감 후 집행부에서 경연순서 결정",
         "contact": "010-2355-5115 / 041-572-7431",
         "confidence": "high",
         "sourceType": "official-image",
@@ -13613,6 +13610,37 @@
         "confidence": "high",
         "sourceType": "article+poster",
         "notes": "언론사(국악신문) 워터마크 이미지 미게시 — 저작권. 출처 링크로 대체."
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제30회 송만갑 판소리·고수대회",
+      "region": "전남",
+      "city": "구례군",
+      "host": "주최/주관: 구례군, (사)구례동편소리진흥회",
+      "round": "제30회",
+      "month": "2026-10",
+      "genres": [
+        "판소리",
+        "고수"
+      ],
+      "levels": [
+        "학생부",
+        "신인부",
+        "일반부",
+        "명창부"
+      ],
+      "sourceUrl": "https://kukak21.com/bbs/board.php?bo_table=news&wr_id=44129",
+      "details": {
+        "competitionDate": "2026-10-10",
+        "dateEnd": "2026-10-11",
+        "dateText": "2026.10.10(토)~10.11(일), 판소리 예선·본선/고법 본선 구례 섬진아트홀, 고법 예선 구례문화예술회관",
+        "venue": "구례 섬진아트홀(판소리 예선·본선, 고법 본선) / 구례 문화예술회관(고법 예선)",
+        "applyStart": "2026-09-28",
+        "applyEnd": "2026-10-08",
+        "applyText": "2026.9.28(월)~10.8(목) 접수, 온라인 입금(농협 301-0363-0496-31) 또는 이메일 접수(sukujang@hanmail.net)",
+        "contact": "061-782-1288, 010-3643-1497"
       },
       "noticeImages": [],
       "noticeText": ""
