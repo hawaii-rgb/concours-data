@@ -11827,12 +11827,12 @@
       "noticeText": ""
     },
     {
-      "officialName": "2024 천년전주 전국국악 경연대회",
+      "officialName": "2026년 제7회 천년전주 전국국악경연대회",
       "region": "전북",
       "city": "전주시",
       "host": "(사)전주농악보존회, 한국전통음악예술진흥회",
-      "round": "",
-      "month": "2024-11",
+      "round": "제7회",
+      "month": "2026-10",
       "genres": [
         "기악",
         "가야금병창",
@@ -11845,18 +11845,19 @@
         "중등부",
         "고등부",
         "일반부",
-        "신인부"
+        "신인부",
+        "실버부"
       ],
-      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202410180038",
+      "sourceUrl": "https://kukak21.com/bbs/board.php?bo_table=news&wr_id=44137",
       "details": {
-        "competitionDate": "2024-11-19",
+        "competitionDate": "2026-10-17",
         "dateEnd": "",
-        "dateText": "2024.11.19(화)",
+        "dateText": "2026.10.17(토) 비대면",
         "venue": "대한노인회 전주시지회(2층 대강당)",
-        "applyStart": "2024-10-26",
-        "applyEnd": "2024-11-08",
-        "applyText": "2024년 10월 26일(토)~ 2024년 11월 8일(금) 오후 6시까지",
-        "contact": "063-286-7874"
+        "applyStart": "2026-09-14",
+        "applyEnd": "2026-09-30",
+        "applyText": "이메일 접수 jjgugak@naver.com (경연동영상 접수). 접수기간 9월14일(월)~9월30일(수) 18시까지. 제출서류: 참가신청서(사진부착), 신분증 사본(초·중·고 학생부는 학생증 사본 또는 재학증명서 사본). 접수처: (사)전주농악보존회.",
+        "contact": "063-286-7874 / 010-5114-7026"
       },
       "noticeImages": [],
       "noticeText": ""
