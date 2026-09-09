@@ -1277,11 +1277,11 @@
       "details": {
         "competitionDate": "2026-11-07",
         "dateEnd": "2026-11-08",
-        "dateText": "예선 2026년 9월 11일(금)~12일(토) 10시 동영상(비대면) 심사, 제주문예회관 소극장 / 본선: 민요경창대회 11월 7일(토) 10~18시(제주 설문대여성문화센터), 국악경연대회 11월 8일(일) 10~18시(제주문예회관 대극장)",
-        "venue": "본선: 제주 설문대여성문화센터(민요경창), 제주문예회관 대극장(국악경연) / 예선: 제주문예회관 소극장(동영상 심사)",
+        "dateText": "예선 2026년 9월 28일(월)~29일(화) 10시 동영상(비대면) 심사, 제주설문대여성문화센터 / 본선: 민요경창대회 11월 7일(토) 10~18시(제주 설문대여성문화센터), 국악경연대회 11월 8일(일) 10~18시(제주문예회관 대극장)",
+        "venue": "본선: 제주 설문대여성문화센터(민요경창), 제주문예회관 대극장(국악경연) / 예선: 제주설문대여성문화센터(동영상 심사)",
         "applyStart": "2026-07-13",
-        "applyEnd": "2026-09-04",
-        "applyText": "2026.7.13(월) 09:00 ~ 9.4(금) 18:00",
+        "applyEnd": "2026-09-21",
+        "applyText": "2026.7.13(월) 09:00 ~ 9.21(월) 18:00",
         "applyMethod": [
           "이메일",
           "우편",
@@ -2307,12 +2307,12 @@
       "noticeImages": []
     },
     {
-      "officialName": "제29회 완산 전국 국악 대제전",
-      "round": "제29회",
+      "officialName": "제30회 완산 전국 국악 대제전",
+      "round": "제30회",
       "host": "(사)완산국악제전진흥회",
       "region": "전북",
       "city": "전주시",
-      "month": "2024-11",
+      "month": "2025-11",
       "applyPeriod": "2023년 10월 16일(월)~2023년 10월 27일(금) 17시",
       "contact": "063-222-2112",
       "genres": [
@@ -2334,18 +2334,18 @@
       "general": true,
       "registrationOrder": "",
       "verified": true,
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=34453",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=41291",
       "seedName": "[국회의장상] 제28회 완산 전국 국악 대제전(10/28-29)",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=34453",
       "source": "국악신문-2",
       "details": {
-        "competitionDate": "2024-11-09",
-        "dateEnd": "2024-11-10",
-        "dateText": "2023. 10. 28(토) ~ 10. 29(일)",
-        "venue": "전주대사습청 (전북 전주시 완산구 한지길 56)",
-        "applyStart": "2024-10-28",
-        "applyEnd": "2024-11-08",
-        "applyText": "2023. 10. 16(월) ~ 27(금) 17시까지",
+        "competitionDate": "2025-11-08",
+        "dateEnd": "2025-11-09",
+        "dateText": "2025년 11월 8일(토) 9시30분(단심제 및 예선), 2025년 11월 9일(일) 10시(본선)",
+        "venue": "전주 기접놀이 전수관(전북 전주시 완산구 세내로 39)",
+        "applyStart": "2025-10-27",
+        "applyEnd": "2025-11-07",
+        "applyText": "2025년 10월 27일(월)~2025년 11월 7일(금) 17시까지",
         "applyMethod": [
           "온라인"
         ],
@@ -2672,8 +2672,8 @@
         "dateText": "2026. 9. 19.(토)",
         "venue": "구미문화예술회관 대공연장",
         "applyStart": "2026-07-01",
-        "applyEnd": "2026-08-28",
-        "applyText": "신청기간 2024. 8. 1.(목) ~ 9. 5.(목)",
+        "applyEnd": "2026-09-17",
+        "applyText": "접수마감: 2026.09.17(목)",
         "applyMethod": [
           "온라인",
           "이메일",
@@ -4049,7 +4049,7 @@
       "noticeImages": []
     },
     {
-      "officialName": "제12회 포항 천하명인 국악대제전 (제12회 \"독도사랑\" 포항 천하명인 대한민국 국악대전)",
+      "officialName": "제13회 포항 천하명인전국국악대전",
       "region": "경북",
       "city": "포항시",
       "genres": [
@@ -4075,25 +4075,25 @@
       "middle": true,
       "high": true,
       "general": false,
-      "month": "10월",
+      "month": "2025-10",
       "applyPeriod": "2024년 9월 10일 ~ 10월 1일 (오후 6시 마감)",
       "host": "주최: 포항시 / 주관: (사)동초제판소리보존회 경북지회, 포항국악꿈나무장학회",
-      "round": "제12회",
+      "round": "제13회",
       "contact": "심정 010-3432-8679, simjung3000@kakao.com",
       "registrationOrder": "신청역순(접수역순)",
       "verified": true,
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=38386",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40901",
       "seedName": "[국회의장상] 제12회 “독도사랑” 포항 천하명인 대한민국 국악대전(10/5~6)",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=38386",
       "source": "국악신문-4",
       "details": {
-        "competitionDate": "2024-10-05",
-        "dateEnd": "2024-10-06",
-        "dateText": "2024년 10월 5일(토) 예선 ~ 6일(일) 본선·시상 (2일간)",
-        "venue": "포항문화예술회관",
-        "applyStart": "2024-09-10",
-        "applyEnd": "2024-10-01",
-        "applyText": "참가신청서 접수 2024년 9월 10일 ~ 10월 1일 (오후 6시 마감, 당일 우편도착분 포함)",
+        "competitionDate": "2025-10-18",
+        "dateEnd": "2025-10-19",
+        "dateText": "2025년 10월 18일(토)~19일(일)",
+        "venue": "포항시 북구 흥해읍 새마을로 331-6, 산림조합 실내강당",
+        "applyStart": "2025-09-20",
+        "applyEnd": "2025-10-15",
+        "applyText": "2025년 9월20일~10월15일(오후 6시 마감, 당일 우편 도착분 포함), 이메일(obrager@nate.com) 접수",
         "applyMethod": [],
         "recipientEmail": [],
         "mailingAddress": "",
@@ -4122,7 +4122,7 @@
           "notes": "예선 10.5, 본선 10.6 모두 포항문화예술회관 소공연장"
         },
         "registrationOrder": "",
-        "contact": "010-3432-8679",
+        "contact": "010-9565-0311",
         "confidence": "partial",
         "sourceType": "official-image",
         "notes": "홍보 포스터 1장만 제공되어 접수기간·참가비·고수비·연주시간 등 세부 요강 정보 없음. 주최 포항시·(사)동초제판소리보존회 경북지회, 주관 동초제판소리보존회 경북지회·천하명인국악대제전 보존회 [언론사(국악신문/타임즈) 워터마크 이미지 미게시 — 저작권. 출처 링크로 대체]",
@@ -11264,7 +11264,7 @@
       "details": {
         "competitionDate": "2026-09-20",
         "dateEnd": "",
-        "dateText": "2025. 10. 25(토) 오전 09:30~오후 06:00",
+        "dateText": "2026년 9월 20일(일)",
         "venue": "농어민 문화체육센터 (전남 완도군)",
         "applyStart": "2026-09-02",
         "applyEnd": "2026-09-16",
@@ -11305,12 +11305,12 @@
       "noticeText": ""
     },
     {
-      "officialName": "제15회 구미 전국청소년국악경연대회",
+      "officialName": "제16회 구미 전국청소년국악경연대회",
       "region": "경북",
       "city": "구미시",
       "host": "경상북도, 구미시",
-      "round": "제15회",
-      "month": "2025-10",
+      "round": "제16회",
+      "month": "2026-10",
       "genres": [
         "관악",
         "현악",
@@ -11325,19 +11325,18 @@
       "levels": [
         "초등부",
         "중등부",
-        "고등부",
         "단체부"
       ],
-      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202509090038",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44246",
       "details": {
-        "competitionDate": "2025-10-25",
+        "competitionDate": "2026-10-17",
         "dateEnd": "",
-        "dateText": "2025년 10월 25일(토) AM 09:00 ~",
+        "dateText": "2026년 10월 17일(토) AM 09:00 ~",
         "venue": "구미 강동문화복지회관",
-        "applyStart": "2025-09-29",
-        "applyEnd": "2025-10-17",
-        "applyText": "9월 29일(월) ~ 10월 17일(금)",
-        "contact": "010-6541-3227"
+        "applyStart": "2026-09-21",
+        "applyEnd": "2026-10-10",
+        "applyText": "2026년 9월 21일(월) ~ 10월 10일(토), 이메일(krgugak2001@gmail.com) 접수, 제목에 부문·참가자명 기재",
+        "contact": "010-6541-3227, 010-4912-4262"
       },
       "noticeImages": [],
       "noticeText": ""
@@ -11578,12 +11577,12 @@
       "noticeText": ""
     },
     {
-      "officialName": "제25회 상주 전국 민요경창대회",
+      "officialName": "제26회 상주 전국 민요경창대회",
       "region": "경북",
       "city": "상주시",
       "host": "상주시, 상주문화원",
-      "round": "제25회",
-      "month": "2024-11",
+      "round": "제26회",
+      "month": "2025-11",
       "genres": [
         "민요",
         "잡가"
@@ -11592,15 +11591,15 @@
         "신인부",
         "일반부"
       ],
-      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202410010032",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=41281",
       "details": {
-        "competitionDate": "2024-11-13",
+        "competitionDate": "2025-11-19",
         "dateEnd": "",
-        "dateText": "2024년 11월 13일(수) 09시",
-        "venue": "상주문화회관(상주시 상산로 235)",
-        "applyStart": "2024-10-10",
-        "applyEnd": "2024-11-08",
-        "applyText": "2024. 10. 10(목) ~ 11.8(금) 18:00까지",
+        "dateText": "2025년 11월 19일(수)",
+        "venue": "상주문화회관",
+        "applyStart": "",
+        "applyEnd": "2025-11-11",
+        "applyText": "접수마감: 2025.11.11(화) 오후 6시",
         "contact": "054-535-2339"
       },
       "noticeImages": [],
