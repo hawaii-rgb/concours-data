@@ -4787,7 +4787,7 @@
       "noticeImages": []
     },
     {
-      "officialName": "제11회 '벼고을국악제' 전국전통국악경연대회",
+      "officialName": "제12회 '벼고을국악제' 전국전통국악경연대회",
       "region": "전북",
       "city": "김제",
       "genres": [
@@ -4804,25 +4804,25 @@
       "middle": false,
       "high": false,
       "general": false,
-      "month": "11",
+      "month": "2026-11",
       "applyPeriod": "2025년 10월 30일 마감",
       "host": "(사)전통문화예술진흥회 / 한국국악협회 김제시지부",
-      "round": "제11회",
+      "round": "제12회",
       "contact": "lyb9529@hanmail.net",
       "registrationOrder": "",
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40967",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44317",
       "verified": true,
       "seedName": "[국회의장상] [김제] 제11회 '벼고을국악제' 전국전통국악경연대회(11/08) (무용/가야금산조병창/농악)",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40967",
       "source": "국악신문-6",
       "details": {
-        "competitionDate": "2025-11-08",
+        "competitionDate": "2026-11-14",
         "dateEnd": "",
-        "dateText": "2025-11-08(토) 09:00",
-        "venue": "벽골제 농악 전수관",
+        "dateText": "2026-11-14(토) 09:00",
+        "venue": "지평선문화축제발전소",
         "applyStart": "",
-        "applyEnd": "2025-10-30",
-        "applyText": "신청서 및 접수: 2025년 10월 30일까지",
+        "applyEnd": "",
+        "applyText": "",
         "applyMethod": [
           "이메일"
         ],
@@ -4855,7 +4855,7 @@
           "notes": "요강 상 '영상 및 메일 접수'로 신청 - 별도 예선 단계는 명시되지 않음"
         },
         "registrationOrder": "",
-        "contact": "063-547-9529 / 010-3657-9529",
+        "contact": "063-547-9529, 010-3657-9529, 010-3483-1774, FAX 063-545-3477",
         "confidence": "partial",
         "sourceType": "official-image",
         "notes": "참가비·고수비·연주시간·참가자격 세부·경연순서 정보 없음. 주최 (사)전통문화예술진흥회·(사)한국국악협회 김제지부 [언론사(국악신문/타임즈) 워터마크 이미지 미게시 — 저작권. 출처 링크로 대체]"
