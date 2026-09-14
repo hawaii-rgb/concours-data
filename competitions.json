@@ -6053,7 +6053,7 @@
       "contact": "02-552-2789 / 010-4005-8388 / FAX 02-561-8388",
       "registrationOrder": "신청역순",
       "verified": true,
-      "sourceUrl": "https://www.kh.or.kr/",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=41233",
       "seedName": "제15회 안비취대상 전국민요 경창대회",
       "seedUrl": "https://www.gugaktimes.com/news/article.html?no=78828",
       "source": "공홈",
@@ -10375,7 +10375,7 @@
       "noticeImages": []
     },
     {
-      "officialName": "2025 제17회 전국 풍물&난타 경연대회 (KOREA 무대타악 FESTIVAL)",
+      "officialName": "2026 제18회 전국 풍물&난타 경연대회 (KOREA 무대타악 FESTIVAL)",
       "region": "경북",
       "city": "영천시",
       "genres": [
@@ -10397,25 +10397,25 @@
       "middle": false,
       "high": false,
       "general": true,
-      "month": "10월",
+      "month": "2026-10",
       "applyPeriod": "2025년 9월 16일(화) ~ 10월 10일(금)",
       "host": "(사)한국국악협회 영천지부",
-      "round": "제17회",
+      "round": "제18회",
       "contact": "010-6781-8814 / 010-6317-4584 / F: 054-332-2440 / lja710@hanmail.net",
       "registrationOrder": "신청순 (대회 신청서 접수 순)",
       "verified": true,
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=41087",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44373",
       "seedName": "제17회 전국 풍물&난타 경연대회(10/19)",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=41087",
       "source": "국악신문-A",
       "details": {
-        "competitionDate": "2025-10-17",
+        "competitionDate": "2026-10-03",
         "dateEnd": "",
-        "dateText": "본선 2025. 10. 17.(금) 오전 10:00 / 예선(온라인) 동영상 심사 2025.10.11",
-        "venue": "영천강변공원(본선) / 예선 온라인 심사",
-        "applyStart": "2025-09-16",
-        "applyEnd": "2025-10-10",
-        "applyText": "예선 접수 2025-09-16(화)~10-10(금) E-mail, 본선 2025-10-17(금) 10시",
+        "dateText": "본선 2026. 10. 3.(토) 오전 10:00 / 예선(온라인) 동영상 심사 접수 2026.9.7~9.18",
+        "venue": "영천강변공원(본선, 영천문화예술제 주무대) / 예선 온라인 동영상 심사",
+        "applyStart": "2026-09-07",
+        "applyEnd": "2026-09-18",
+        "applyText": "예선 접수 2026-09-07(월)~09-18(금) E-mail, 본선 2026-10-03(토) 10시",
         "applyMethod": [
           "이메일"
         ],
@@ -11546,12 +11546,12 @@
       "noticeText": ""
     },
     {
-      "officialName": "제26회 대한민국 남도민요 경창대회",
+      "officialName": "제27회 대한민국 남도민요 경창대회",
       "region": "전남",
       "city": "진도군",
       "host": "진도군, (사)한국국악협회 전라남도지회 진도군지부",
-      "round": "제26회",
-      "month": "2024-11",
+      "round": "제27회",
+      "month": "2025-10",
       "genres": [
         "민요"
       ],
@@ -11562,16 +11562,16 @@
         "신인부",
         "일반부"
       ],
-      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202410160034",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40774",
       "details": {
-        "competitionDate": "2024-11-23",
-        "dateEnd": "2024-11-24",
-        "dateText": "2024. 11. 23.(토) ~ 11. 24.(일)",
+        "competitionDate": "2025-10-18",
+        "dateEnd": "2025-10-19",
+        "dateText": "2025. 10. 18.(토) ~ 10. 19.(일)",
         "venue": "진도향토문화회관 공연장(전남 진도군 진도읍 진도대로 7197)",
-        "applyStart": "2024-10-21",
-        "applyEnd": "2024-11-20",
-        "applyText": "10월 21일(월) ~ 11월 20일(수)",
-        "contact": "061-544-0588"
+        "applyStart": "2025-09-15",
+        "applyEnd": "2025-10-15",
+        "applyText": "2025년 9월 15일(월) ~ 10월 15일(수)",
+        "contact": "061-544-0588 (팩스 061-544-0589)"
       },
       "noticeImages": [],
       "noticeText": ""
@@ -12648,23 +12648,26 @@
       "noticeText": ""
     },
     {
-      "officialName": "제2회 옥보 김옥진 명창 육자배기 전국대회",
+      "officialName": "제5회 옥보 김옥진 명창 육자배기 전국대회",
       "region": "서울",
       "city": "종로구",
       "host": "(사)한국여성국극예술협회, 홍성덕 국악사랑",
-      "round": "제2회",
-      "month": "2022-12",
+      "round": "제5회",
+      "month": "2025-08",
       "genres": [
         "육자배기"
       ],
-      "levels": [],
-      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=54630",
+      "levels": [
+        "일반부",
+        "신인부"
+      ],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40787",
       "details": {
-        "competitionDate": "2022-12-04",
-        "dateText": "2022-12-04(일) 오후 3시~",
-        "venue": "창신아트홀(구 종로구민회관, 서울시 종로구 지봉로5길 7-5)",
-        "applyStart": "2022-11-09",
-        "applyEnd": "2022-11-30",
+        "competitionDate": "2025-08-31",
+        "dateText": "2025-08-31(일)",
+        "venue": "전통문화예술공연장(서울 종로구 우정국로 55)",
+        "applyStart": "2025-07-28",
+        "applyEnd": "2025-08-27",
         "contact": "02-741-1535"
       },
       "noticeImages": [],
