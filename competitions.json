@@ -13715,6 +13715,65 @@
       },
       "noticeImages": [],
       "noticeText": ""
+    },
+    {
+      "officialName": "제13회 충주 전국난타＆모듬북 경연대회",
+      "region": "충북",
+      "city": "충주시",
+      "host": "(사)한국국악협회충주지부",
+      "round": "제13회",
+      "month": "2026-10",
+      "genres": [
+        "모듬북연주",
+        "난타",
+        "음악난타",
+        "고고장구"
+      ],
+      "levels": [
+        "일반부",
+        "학생부"
+      ],
+      "sourceUrl": "https://kukak21.com/bbs/board.php?bo_table=news&wr_id=44391",
+      "details": {
+        "competitionDate": "2026-10-10",
+        "dateText": "2026.10.10.(토) 09:00~18:00",
+        "venue": "충주탄금공원 (우천시 유네스코 국제무예센터 다목적홀)",
+        "applyStart": "2026-09-07",
+        "applyEnd": "2026-10-06",
+        "applyText": "2026.9.7.(월)~10.6.(화) 24시까지 도착분, E-메일: janggoosun@hanmail.net",
+        "contact": "김경태 대회장 010-5411-8119, 이미정 부지부장 010-2375-5168"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제1회 마포전국 국악경연대회",
+      "region": "서울",
+      "city": "마포구",
+      "host": "사단법인 우리예술보존회",
+      "round": "제1회",
+      "month": "2026-10",
+      "genres": [
+        "판소리",
+        "민요",
+        "가야금병창"
+      ],
+      "levels": [
+        "일반부",
+        "신인부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202609080036",
+      "details": {
+        "competitionDate": "2026-10-10",
+        "dateText": "2026.10.10.(토) 1일간",
+        "venue": "마포중앙도서관 6F(마중홀), 서울시 마포구 성산로 128",
+        "applyStart": "2026-09-10",
+        "applyEnd": "2026-10-09",
+        "applyText": "접수기간 2026.9.10~10.9, 을지로전수관(서울 중구 을지로 18길 16 3층) 방문 또는 E-mail(aaa4974@naver.com) 신청",
+        "contact": "010-5699-5191, 010-7235-4574 (을지로 전수관)"
+      },
+      "noticeImages": [],
+      "noticeText": ""
     }
   ],
   "version": 2,
