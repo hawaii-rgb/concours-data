@@ -30,15 +30,6 @@
     "reason": "2026-08-30 실행: 회차 점프(15→18) 의심이 해소됨 — kukak21 검색으로 중간회차 원문을 모두 확인: 제16회(2023, wr_id=34436), 제17회(2024, wr_id=38705), 제18회(2025, wr_id=40777, 2025-11-22(토)~23(일), 접수 2025-10-20~11-19, 진도향토문화회관 공연장, 대표전화 061-544-0588/팩스 061-544-0589/이메일 kukak_jindo@naver.com, 주최 진도군/(사)한국국악협회 진도군지부) — 동일 시리즈 순차 진행 확정(요일게이트 통과: 11/22=토, 11/23=일). 다만 이미 종료(9개월+ 경과)된 2025년 대회라 그대로 반영하면 지난 접수기간이 새 회차처럼 노출될 위험 — 자동반영 보류(남도민요·완산 사례와 동일 정책). 반영 시 값: match_base='진도김득수전국고수대회', fields={officialName:'제18회 진도 (고운)김득수 전국고수대회', round:'제18회', month:'2025-11'}, details={competitionDate:'2025-11-22', dateEnd:'2025-11-23', venue:'진도향토문화회관 공연장(전남 진도군 진도읍 진도대로 7197)', applyStart:'2025-10-20', applyEnd:'2025-11-19', contact:'대표전화 061-544-0588, 팩스 061-544-0589, 이메일 kukak_jindo@naver.com'}. 2026년(제19회) 공고가 뜨면 그것으로 바로 갱신 권장."
   },
   {
-    "officialName": "제14회 전국 동구리 전통민요경창대회",
-    "missing": [
-      "round(최신)",
-      "competitionDate(최신)"
-    ],
-    "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=41203 (기존 gukjenews.com 대신 국악신문 자체 확인으로 상향)",
-    "reason": "2026-08-14 실행: 국악신문(kukak21 wr_id=41203, 신뢰소스)에서 제15회(2025-11-11~12) 공고 원문 확인됨 — 기존 gukjenews.com/kado.net(지역언론) 대신 3소스 신뢰 확인으로 상향. 다만 이미 9개월 이상 지난 2025년 대회 — 2026년(제16회) 공고 확인 후 반영 필요."
-  },
-  {
     "officialName": "제26회 상주 전국 민요경창대회",
     "missing": [
       "applyStart",
@@ -294,14 +285,6 @@
     ],
     "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202407290049",
     "reason": "2026-08-20 실행: 데이터에 2024년판(제8회)만 있어 targets 재확인 대상이었으나, 3소스 키워드 검색('은정')에 2025/2026년판 공고 없음(콘테스트코리아엔 2024년판만) — 반영 보류."
-  },
-  {
-    "officialName": "제16회 '뫼솔' 전국국악경연대회",
-    "missing": [
-      "competitionDate/applyStart/applyEnd(최신)"
-    ],
-    "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202507220044",
-    "reason": "2026-08-20 실행: 데이터엔 2025년판(제16회, 콘테스트코리아 str_no=202507220044) 저장돼 있으나 3소스 키워드 검색('뫼솔')에 2026년판(제17회 추정) 공고 없음 — 2025년판이 최신인지 재확인 필요."
   },
   {
     "officialName": "제31회 달구벌 전국국악경연대회",
