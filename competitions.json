@@ -11076,17 +11076,15 @@
       "noticeText": ""
     },
     {
-      "officialName": "제16회 '뫼솔' 전국국악경연대회",
+      "officialName": "제17회 '뫼솔' 전국국악경연대회",
       "region": "전북",
       "city": "전주시",
       "host": "(사)한국공연문화예술진흥회 '뫼솔'",
-      "round": "제16회",
-      "month": "2025-08",
+      "round": "제17회",
+      "month": "2026-10",
       "genres": [
         "가야금병창",
-        "기악",
-        "타악",
-        "판소리"
+        "기악"
       ],
       "levels": [
         "초등부",
@@ -11096,15 +11094,15 @@
         "일반부",
         "단체부"
       ],
-      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202507220044",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44390",
       "details": {
-        "competitionDate": "2025-08-24",
+        "competitionDate": "2026-10-25",
         "dateEnd": "",
-        "dateText": "2025년 8월 24일(일)",
+        "dateText": "2026년 10월 25일(일)",
         "venue": "한국전통문화전당 (경원동)",
-        "applyStart": "2025-07-28",
-        "applyEnd": "2025-08-19",
-        "applyText": "2025년 7월 28일(월) ~ 8월 19일(화) 17:00시까지",
+        "applyStart": "2026-09-21",
+        "applyEnd": "2026-10-21",
+        "applyText": "2026년 9월 21일(월)~10월 21일(수) 17:00시까지 도착분에 한함. 참가신청서는 홈페이지(카페) 다운로드",
         "contact": "063-909-0819"
       },
       "noticeImages": [],
@@ -11635,12 +11633,12 @@
       "noticeText": ""
     },
     {
-      "officialName": "제14회 전국 동구리 전통민요경창대회",
+      "officialName": "제16회 전국 동구리 전통민요경창대회",
       "region": "강원",
       "city": "양양군",
       "host": "양양문화원",
-      "round": "제14회",
-      "month": "2024-11",
+      "round": "제16회",
+      "month": "2026-11",
       "genres": [
         "민요",
         "농요",
@@ -11649,19 +11647,20 @@
         "십이잡가"
       ],
       "levels": [
+        "단체부",
         "일반부",
-        "단체부"
+        "대학부"
       ],
-      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202409260024",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44394",
       "details": {
-        "competitionDate": "2024-11-12",
-        "dateEnd": "2024-11-13",
-        "dateText": "2024.11.12(화) 예선 ~ 13(수) 본선(09:30~)",
+        "competitionDate": "2026-11-10",
+        "dateEnd": "2026-11-11",
+        "dateText": "2026.11.10(화) 예선 ~ 11(수) 본선(09:30~)",
         "venue": "양양문화복지회관 2층 대공연장(양양군 양양읍 일출로 540)",
-        "applyStart": "2024-10-10",
-        "applyEnd": "2024-10-31",
-        "applyText": "2024. 10. 10(목) ~ 10. 31(목) 18:00 도착분까지",
-        "contact": ""
+        "applyStart": "2026-10-01",
+        "applyEnd": "2026-10-29",
+        "applyText": "2026.10.01(목)~10.29(목) 18:00 도착분까지. 방문/우편/온라인접수. 접수처: 강원특별자치도 양양군 양양읍 양양로 114-5 양양문화원. 이메일 yangyang033@kccf.or.kr",
+        "contact": "033-671-8762, 033-671-6269"
       },
       "noticeImages": [],
       "noticeText": ""
@@ -13771,6 +13770,36 @@
         "applyEnd": "2026-10-09",
         "applyText": "접수기간 2026.9.10~10.9, 을지로전수관(서울 중구 을지로 18길 16 3층) 방문 또는 E-mail(aaa4974@naver.com) 신청",
         "contact": "010-5699-5191, 010-7235-4574 (을지로 전수관)"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제34회 대구 전국사물놀이경연대회",
+      "region": "대구",
+      "city": "달서구",
+      "host": "대구광역시, (사)한국국악협회 대구광역시지회",
+      "round": "제34회",
+      "month": "2026-11",
+      "genres": [
+        "사물놀이",
+        "난타"
+      ],
+      "levels": [
+        "초등부",
+        "중고등부",
+        "신인부",
+        "일반부"
+      ],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44392",
+      "details": {
+        "competitionDate": "2026-11-07",
+        "dateText": "2026년 11월 07일(토) 10:00~18:00",
+        "venue": "대구문화예술회관 비슬홀",
+        "applyStart": "2026-10-01",
+        "applyEnd": "2026-11-02",
+        "applyText": "2026년 10월 01일(목)~11월 02일(월) 오후 4시까지 도착분. 방문/우편/이메일/팩스 접수. 접수처: 대구광역시 달서구 공원순환로 201 대구문화예술회관 내 제2예련관 (사)대구국악협회. 이메일 gukakdg@naver.com",
+        "contact": "053-256-7957, FAX 053-289-5808"
       },
       "noticeImages": [],
       "noticeText": ""
