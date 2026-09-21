@@ -6271,7 +6271,7 @@
       ]
     },
     {
-      "officialName": "가야금병창 최고봉 오태석 명인 기념 제17회 순천 낙안읍성 전국 가야금병창 경연대회",
+      "officialName": "가야금병창 최고봉 오태석 명인 기념 제18회 순천 낙안읍성 전국 가야금병창 경연대회",
       "genres": [
         "가야금병창"
       ],
@@ -6292,27 +6292,27 @@
       "middle": true,
       "high": true,
       "general": true,
-      "month": "10",
+      "month": "2026-10",
       "applyPeriod": "",
       "host": "순천시",
       "region": "전남",
       "city": "순천시",
-      "round": "제17회",
+      "round": "제18회",
       "contact": "",
       "registrationOrder": "",
       "verified": true,
-      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=76038",
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=83686",
       "seedName": "제17회 순천 낙안읍성 전국 가야금병창 경연대회",
       "seedUrl": "https://www.gugaktimes.com/news/article.html?no=76038",
       "source": "원본(콘테스트코리아)",
       "details": {
-        "competitionDate": "2025-10-26",
-        "dateEnd": "",
-        "dateText": "대회기간 2025.10.25(토)~10.26(일) 9시~18시. 예선 10.25(토), 본선 10.26(일)",
-        "venue": "예선/본선: 동헌(낙안읍성), 우천시 낙민관",
-        "applyStart": "2025-10-01",
-        "applyEnd": "2025-10-22",
-        "applyText": "신청기간: 2025. 10. 1(수) ~ 10. 22(수) 18:00 까지 도착분",
+        "competitionDate": "2026-10-31",
+        "dateEnd": "2026-11-01",
+        "dateText": "2026.10.31(토)~11.01(일) 09:00~18:00 (2일간)",
+        "venue": "순천 낙안읍성 동헌 (우천 시 낙안읍성 낙민관)",
+        "applyStart": "2026-10-01",
+        "applyEnd": "2026-10-29",
+        "applyText": "신청기간 2026.10.1~10.29(목) 18:00까지. 이메일 신청(nagan2008@naver.com)",
         "applyMethod": [
           "이메일"
         ],
@@ -6344,8 +6344,8 @@
           "videoSubmission": "",
           "notes": "초등부(개인/단체)는 본선일(26일)에 경연"
         },
-        "registrationOrder": "",
-        "contact": "접수담당(박영식) 010-3262-2710, 이사장(이영애) 010-3646-9689",
+        "registrationOrder": "참가접수 역순으로 경연(빠르게 접수할수록 경연순서 뒷번호)",
+        "contact": "(사)낙안읍성 가야금병창 보존회 이사장(이영애) 010-3646-9689 / 팀장(김화영) 010-8745-6881",
         "confidence": "high",
         "sourceType": "official-image",
         "notes": "전통 12현금 가야금 사용 필수(초·중등부·신인부는 개량가야금 허용). 자유곡은 예선·본선 곡이 달라야 함 [워터마크본→contestkorea 원본 포스터 교체(회차 검증)]"
@@ -11543,31 +11543,32 @@
       "noticeText": ""
     },
     {
-      "officialName": "제27회 대한민국 남도민요 경창대회",
+      "officialName": "제28회 대한민국 남도민요경창대회",
       "region": "전남",
       "city": "진도군",
       "host": "진도군, (사)한국국악협회 전라남도지회 진도군지부",
-      "round": "제27회",
-      "month": "2025-10",
+      "round": "제28회",
+      "month": "2026-10",
       "genres": [
         "민요"
       ],
       "levels": [
         "초등부",
-        "중등부",
-        "고등부",
+        "중고등부",
         "신인부",
-        "일반부"
+        "노인부",
+        "일반부",
+        "명창부"
       ],
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=40774",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44528",
       "details": {
-        "competitionDate": "2025-10-18",
-        "dateEnd": "2025-10-19",
-        "dateText": "2025. 10. 18.(토) ~ 10. 19.(일)",
+        "competitionDate": "2026-10-17",
+        "dateEnd": "2026-10-18",
+        "dateText": "2026. 10. 17.(토) ~ 10. 18.(일)",
         "venue": "진도향토문화회관 공연장(전남 진도군 진도읍 진도대로 7197)",
-        "applyStart": "2025-09-15",
-        "applyEnd": "2025-10-15",
-        "applyText": "2025년 9월 15일(월) ~ 10월 15일(수)",
+        "applyStart": "2026-09-14",
+        "applyEnd": "2026-10-14",
+        "applyText": "2026년 9월 14일(월) ~ 10월 14일(수)",
         "contact": "061-544-0588 (팩스 061-544-0589)"
       },
       "noticeImages": [],
