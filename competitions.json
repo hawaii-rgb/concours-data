@@ -989,13 +989,18 @@
       "noticeImages": []
     },
     {
-      "officialName": "2024 중고제 전국 판소리 경연대회",
+      "officialName": "2026 중고제 전국 판소리 경연대회",
       "region": "충북",
       "city": "음성군",
       "genres": [
         "판소리"
       ],
-      "levels": [],
+      "levels": [
+        "초등부",
+        "중·고등부",
+        "대학·일반부",
+        "신인부"
+      ],
       "instrumental": false,
       "vocal": true,
       "dance": false,
@@ -1004,25 +1009,25 @@
       "middle": false,
       "high": false,
       "general": false,
-      "month": "9월",
+      "month": "2026-10",
       "applyPeriod": "2024년 9월 9일~24일",
-      "host": "충청북도 음성군",
+      "host": "음성문화원",
       "round": "",
       "contact": "",
       "registrationOrder": "",
       "verified": true,
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=38088",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44561",
       "seedName": "충북 음성'중고제 판소리' 전국 판소리 경연대회",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=38088",
       "source": "국악신문-1",
       "details": {
-        "competitionDate": "2024-09-28",
+        "competitionDate": "2026-10-17",
         "dateEnd": "",
-        "dateText": "2024.9.28(토) 오전 10시",
+        "dateText": "2026.10.17.(토) 오전9시~오후5시",
         "venue": "한빛복지관 3층 (충북 음성군 음성읍 용광로 35-12)",
-        "applyStart": "2024-09-09",
-        "applyEnd": "2024-09-24",
-        "applyText": "접수기간 2024.9.9(월)~9.24(화)",
+        "applyStart": "2026-09-01",
+        "applyEnd": "2026-10-08",
+        "applyText": "접수기간 2026.9.1.(화)~10.8.(목), 우편/방문/전자우편(gpsk319@korea.kr)",
         "applyMethod": [
           "우편",
           "방문",
@@ -2307,12 +2312,12 @@
       "noticeImages": []
     },
     {
-      "officialName": "제30회 완산 전국 국악 대제전",
-      "round": "제30회",
+      "officialName": "제31회 완산전국국악대제전",
+      "round": "제31회",
       "host": "(사)완산국악제전진흥회",
       "region": "전북",
       "city": "전주시",
-      "month": "2025-11",
+      "month": "2026-11",
       "applyPeriod": "2023년 10월 16일(월)~2023년 10월 27일(금) 17시",
       "contact": "063-222-2112",
       "genres": [
@@ -2334,18 +2339,18 @@
       "general": true,
       "registrationOrder": "",
       "verified": true,
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=41291",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44536",
       "seedName": "[국회의장상] 제28회 완산 전국 국악 대제전(10/28-29)",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=34453",
       "source": "국악신문-2",
       "details": {
-        "competitionDate": "2025-11-08",
-        "dateEnd": "2025-11-09",
-        "dateText": "2025년 11월 8일(토) 9시30분(단심제 및 예선), 2025년 11월 9일(일) 10시(본선)",
+        "competitionDate": "2026-11-14",
+        "dateEnd": "2026-11-15",
+        "dateText": "단심제 및 예선 2026년 11월 14일(토) 9시30분, 본선 2026년 11월 15일(일) 10시",
         "venue": "전주 기접놀이 전수관(전북 전주시 완산구 세내로 39)",
-        "applyStart": "2025-10-27",
-        "applyEnd": "2025-11-07",
-        "applyText": "2025년 10월 27일(월)~2025년 11월 7일(금) 17시까지",
+        "applyStart": "2026-11-02",
+        "applyEnd": "2026-11-13",
+        "applyText": "2026년 11월 2일(월)~2026년 11월 13일(금) 17시까지",
         "applyMethod": [
           "온라인"
         ],
@@ -13800,6 +13805,71 @@
         "applyEnd": "2026-11-02",
         "applyText": "2026년 10월 01일(목)~11월 02일(월) 오후 4시까지 도착분. 방문/우편/이메일/팩스 접수. 접수처: 대구광역시 달서구 공원순환로 201 대구문화예술회관 내 제2예련관 (사)대구국악협회. 이메일 gukakdg@naver.com",
         "contact": "053-256-7957, FAX 053-289-5808"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제33회 정읍 전국농악명인대회",
+      "region": "전북",
+      "city": "정읍시",
+      "month": "2026-11",
+      "round": "제33회",
+      "genres": [
+        "농악",
+        "풍물",
+        "개인놀이"
+      ],
+      "levels": [
+        "청소년부",
+        "일반부",
+        "명인부"
+      ],
+      "host": "(사)한국민속예술진흥원",
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202609150027",
+      "details": {
+        "competitionDate": "2026-11-01",
+        "dateText": "예선(동영상 심사): 2026.10.17.(토) / 본선: 2026.11.1.(일) 09:00~17:00, 정읍실내체육관",
+        "venue": "정읍실내체육관",
+        "applyStart": "2026-09-10",
+        "applyEnd": "2026-10-16",
+        "applyText": "2026.9.10.~10.16. 20:00까지 접수. 참가신청서는 다음카페(한국민속예술진흥원/전국농악명인대회)에서 다운로드 후 작성, 참가신청서와 경연 동영상을 이메일(legoso@hanmail.net)로 함께 제출(반드시 한글파일). 메일 발송 후 접수 여부는 전화로 확인 요망.",
+        "contact": "063-531-0080",
+        "confidence": "high",
+        "sourceType": "official-image"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제34회 전국청소년민속예술경연대회",
+      "region": "전북",
+      "city": "군산시",
+      "host": "군산시·(사)한국청소년복지진흥회 군산지회",
+      "round": "제34회",
+      "month": "2026-10",
+      "genres": [
+        "판소리",
+        "기악",
+        "타악"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부"
+      ],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44560",
+      "details": {
+        "competitionDate": "2026-10-17",
+        "dateText": "2026년 10월 17일(토) 09시~",
+        "venue": "국립군산대학교 아카데미홀",
+        "applyStart": "2026-09-17",
+        "applyEnd": "2026-10-15",
+        "applyText": "E-MAIL 접수(gskawpy@naver.com), 접수기간 2026년 9월 17일~10월 15일, 참가비 없음",
+        "contact": "010-6864-7313",
+        "registrationOrder": "추첨 없이 참가신청서 접수 역순, 초등부→중등부→고등부 순 진행",
+        "confidence": "high",
+        "sourceType": "official-text+image"
       },
       "noticeImages": [],
       "noticeText": ""
