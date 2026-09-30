@@ -13876,6 +13876,97 @@
       },
       "noticeImages": [],
       "noticeText": ""
+    },
+    {
+      "officialName": "제32회 경기국악제 전국국악경연대회",
+      "region": "경기",
+      "city": "수원시",
+      "host": "(사)한국국악협회 경기도지회",
+      "round": "제32회",
+      "month": "2026-10",
+      "genres": [
+        "민요",
+        "무용",
+        "기악"
+      ],
+      "levels": [
+        "학생부",
+        "일반부",
+        "명인부"
+      ],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44643",
+      "details": {
+        "competitionDate": "2026-10-31",
+        "dateEnd": "2026-11-01",
+        "dateText": "2026.10.31(토)~11.01(일)",
+        "venue": "경기아트센터 (대극장, 소극장)",
+        "applyStart": "2026-10-06",
+        "applyEnd": "2026-10-23",
+        "applyText": "이메일 접수(민요 kggafolk@gmail.com / 무용 kggadan@gmail.com / 기악 kggains@gmail.com), 참가비 없음",
+        "contact": "031-236-1070, 031-548-1046 / Fax 031-236-1080"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제29회 전국팔마고수경연대회",
+      "region": "전남",
+      "city": "순천시",
+      "host": "(사)한국국악협회 순천시지부",
+      "round": "제29회",
+      "month": "2026-10",
+      "genres": [
+        "고수"
+      ],
+      "levels": [
+        "일반부",
+        "노인부",
+        "신인장년부",
+        "신인청년부",
+        "학생부"
+      ],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44620",
+      "details": {
+        "competitionDate": "2026-10-24",
+        "dateEnd": "2026-10-25",
+        "dateText": "2026.10.24(예선)~10.25(본선)",
+        "venue": "순천시 문화건강센터 2층 (순천시 중앙로 232)",
+        "applyStart": "2026-10-01",
+        "applyEnd": "2026-10-23",
+        "applyText": "이메일 접수(scka6001@hanmail.net), 접수 후 확인전화 요망, 참가비 없음",
+        "contact": "061-725-2393 / 010-9666-2393"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제7회 여주 세종대왕 여민락 전국국악경연대회",
+      "region": "경기",
+      "city": "여주시",
+      "host": "(사)한국예총 여주지회",
+      "round": "제7회",
+      "month": "2026-11",
+      "genres": [
+        "민요",
+        "기악"
+      ],
+      "levels": [
+        "학생부",
+        "일반부",
+        "명창부",
+        "단체부"
+      ],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44614",
+      "details": {
+        "competitionDate": "2026-11-07",
+        "dateText": "2026.11.07(토) 오전 10시",
+        "venue": "여주 여성회관",
+        "applyStart": "2026-09-28",
+        "applyEnd": "2026-11-05",
+        "applyText": "이메일 접수(gongsuny@nate.com), 참가비 없음"
+      },
+      "noticeImages": [],
+      "noticeText": ""
     }
   ],
   "version": 2,
