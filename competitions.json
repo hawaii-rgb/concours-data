@@ -11708,12 +11708,12 @@
       "noticeText": ""
     },
     {
-      "officialName": "제11회 세종대왕전통예술경연대회",
+      "officialName": "제12회 전국세종대왕전통예술경연대회",
       "region": "서울",
       "city": "동대문구",
       "host": "동대문구청, (사)세종대왕기념사업회 부설 한국전통예술위원회",
-      "round": "제11회",
-      "month": "2025-09",
+      "round": "제12회",
+      "month": "2026-11",
       "genres": [
         "무용",
         "기악",
@@ -11726,15 +11726,15 @@
         "명인부",
         "단체부"
       ],
-      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202507290048",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44848",
       "details": {
-        "competitionDate": "2025-09-12",
-        "dateEnd": "2025-09-14",
-        "dateText": "예선·본선 2025년 9월 12일(금) / 종합결선·경연축제 2025년 9월 14일(일)",
-        "venue": "세종대왕기념관 세종공원 및 동대문구청",
-        "applyStart": "2025-08-11",
-        "applyEnd": "2025-09-09",
-        "applyText": "2025년 8월 11일부터(월) ~ 9월 9일(화) 17:00까지",
+        "competitionDate": "2026-11-13",
+        "dateEnd": "2026-11-15",
+        "dateText": "예선·본선 2026년 11월 13일(금) / 종합결선·공연 2026년 11월 15일(일)",
+        "venue": "세종대왕기념관 세종공원(예선·본선), 동대문구청(종합결선)",
+        "applyStart": "2026-10-12",
+        "applyEnd": "2026-11-10",
+        "applyText": "2026년 10월 12일(월) ~ 11월 10일(화) 17:00까지",
         "contact": "02-924-5302"
       },
       "noticeImages": [],
