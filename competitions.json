@@ -11585,29 +11585,31 @@
       "noticeText": ""
     },
     {
-      "officialName": "제26회 상주 전국 민요경창대회",
+      "officialName": "제27회 상주 전국 민요경창대회",
       "region": "경북",
       "city": "상주시",
       "host": "상주시, 상주문화원",
-      "round": "제26회",
-      "month": "2025-11",
+      "round": "제27회",
+      "month": "2026-11",
       "genres": [
         "민요",
         "잡가"
       ],
       "levels": [
+        "명창부",
+        "일반부",
         "신인부",
-        "일반부"
+        "학생부"
       ],
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=41281",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44976",
       "details": {
-        "competitionDate": "2025-11-19",
+        "competitionDate": "2026-11-25",
         "dateEnd": "",
-        "dateText": "2025년 11월 19일(수)",
+        "dateText": "2026년 11월 25일(수)",
         "venue": "상주문화회관",
-        "applyStart": "",
-        "applyEnd": "2025-11-11",
-        "applyText": "접수마감: 2025.11.11(화) 오후 6시",
+        "applyStart": "2026-10-26",
+        "applyEnd": "2026-11-20",
+        "applyText": "접수기간: 2026.10.26(월)~11.20(금) 18:00까지",
         "contact": "054-535-2339"
       },
       "noticeImages": [],
@@ -14064,6 +14066,37 @@
         "applyText": "신청기간: 2026년 10월 14일~11월 13일 오후 6시, 이메일 접수(mco150@naver.com)",
         "contact": "010-9955-3219 / 010-3396-7848",
         "confidence": "high"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제2회 동초 김연수 명창 추모 전국국악경연대회",
+      "region": "전남",
+      "city": "고흥군",
+      "host": "전남광주통합특별시, 고흥군, (사)지향전통예술보존회",
+      "round": "제2회",
+      "month": "2026-11",
+      "genres": [
+        "판소리",
+        "가야금병창"
+      ],
+      "levels": [
+        "일반부",
+        "신인부",
+        "고등부",
+        "중등부",
+        "초등부"
+      ],
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44977",
+      "details": {
+        "competitionDate": "2026-11-29",
+        "dateText": "2026년 11월 29일(일)",
+        "venue": "고흥종합문화회관 김연수실",
+        "applyStart": "2026-10-12",
+        "applyEnd": "2026-11-26",
+        "applyText": "접수마감: 2026.11.26(목) 오후 7시",
+        "contact": "010-4583-1517"
       },
       "noticeImages": [],
       "noticeText": ""
