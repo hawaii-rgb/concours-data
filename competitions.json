@@ -5952,17 +5952,25 @@
       "noticeImages": []
     },
     {
-      "officialName": "제10회 벽파국악대제전 전국국악경연대회",
+      "officialName": "제11회 벽파국악대제전 전국국악경연대회",
       "region": "서울",
       "city": "성동구",
-      "round": "제10회",
-      "month": "11월",
+      "round": "제11회",
+      "month": "2026-11",
       "applyPeriod": "",
-      "host": "",
+      "host": "(사)국가무형유산 선소리산타령보존회",
       "contact": "",
       "registrationOrder": "",
-      "genres": [],
-      "levels": [],
+      "genres": [
+        "경·서도 민요",
+        "경·서도 좌창·입창"
+      ],
+      "levels": [
+        "명창부",
+        "일반부",
+        "학생부(초·중·고등)",
+        "단체부"
+      ],
       "instrumental": false,
       "vocal": false,
       "dance": false,
@@ -5972,18 +5980,18 @@
       "high": false,
       "general": false,
       "verified": true,
-      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=79085",
+      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=84118",
       "seedName": "제10회 벽파국악대제전 전국국악경연대회",
       "seedUrl": "https://www.gugaktimes.com/news/article.html?no=79085",
       "source": "국악타임즈",
       "details": {
-        "competitionDate": "2025-11-30",
+        "competitionDate": "2026-11-29",
         "dateEnd": "",
-        "dateText": "2025년 11월 30일(일) 오전 10시 ~ 오후 19시 (예선 및 본선 심사·시상) [포스터에는 오전 9시로 표기]",
+        "dateText": "2026년 11월 29일(일) 오전 10시 ~ 오후 19시 (예선 및 본선 심사·시상)",
         "venue": "소월아트홀 (성동구 행당동) / 대극장",
-        "applyStart": "2025-11-03",
-        "applyEnd": "2025-11-27",
-        "applyText": "신청서 배부 및 접수 2025년 11월 3일 ~ 2025년 11월 27일(목) 18시까지",
+        "applyStart": "2026-11-02",
+        "applyEnd": "2026-11-26",
+        "applyText": "신청서 배부 및 접수 2026년 11월 2일 ~ 11월 26일(목) 18시까지",
         "applyMethod": [
           "이메일",
           "우편"
@@ -12630,12 +12638,12 @@
       "noticeText": ""
     },
     {
-      "officialName": "제15회 진도 (고운)김득수 전국고수대회",
+      "officialName": "제19회 진도 (고운)김득수 전국고수대회",
       "region": "전남",
       "city": "진도군",
       "host": "진도군, (사)한국국악협회 전라남도지회 진도군지부",
-      "round": "제15회",
-      "month": "2022-10",
+      "round": "제19회",
+      "month": "2026-11",
       "genres": [
         "고법"
       ],
@@ -12646,14 +12654,16 @@
         "노인부",
         "학생부(초·중·고)"
       ],
-      "sourceUrl": "https://www.gugaktimes.com/news/article.html?no=53516",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=44993",
       "details": {
-        "competitionDate": "2022-10-08",
-        "dateText": "2022-10-08(토) 학생부·노인부·신인부 / 2022-10-09(일) 일반부·명고부",
+        "competitionDate": "2026-11-14",
+        "dateText": "2026. 11. 14.(토) ~ 11. 15.(일)",
         "venue": "진도향토문화회관 공연장(전남 진도군 진도읍 진도대로 7197)",
-        "applyStart": "2022-09-19",
-        "applyEnd": "2022-10-05",
-        "contact": "061-544-0588"
+        "applyStart": "2026-10-12",
+        "applyEnd": "2026-11-11",
+        "contact": "061-544-0588",
+        "dateEnd": "2026-11-15",
+        "applyText": "접수기간 10월 12일(월) ~ 11월 11일(수), 우편·전화(노인부)·팩스·이메일"
       },
       "noticeImages": [],
       "noticeText": ""
