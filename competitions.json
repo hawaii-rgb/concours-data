@@ -735,7 +735,7 @@
       "noticeImages": []
     },
     {
-      "officialName": "제29회 전국 판소리 경연대회",
+      "officialName": "제30회 전국 판소리 경연대회",
       "region": "서울",
       "city": "강남구",
       "genres": [
@@ -748,7 +748,6 @@
         "신인부",
         "일반부",
         "장년부",
-        "명창부",
         "단체부"
       ],
       "instrumental": false,
@@ -759,25 +758,25 @@
       "middle": true,
       "high": true,
       "general": true,
-      "month": "04",
+      "month": "2026-11",
       "applyPeriod": "~2025-04-23 18:00 마감",
       "host": "(사)한국판소리보존회",
-      "round": "제29회",
+      "round": "제30회",
       "contact": "02-566-9457 / pansori111@naver.com",
       "registrationOrder": "",
       "verified": true,
-      "sourceUrl": "http://www.koreapansori.com/contest/contest.php?ptype=view&idx=6698&code=contest",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=45139",
       "seedName": "[국회의장상] 제29회 전국 판소리 경연대회(04/26-28)",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=39889",
       "source": "공홈",
       "details": {
-        "competitionDate": "2025-04-27",
+        "competitionDate": "2026-11-29",
         "dateEnd": "",
-        "dateText": "예선 2025.4.26 / 본선 2025.4.27 국가무형유산 전수교육관 민속극장 풍류",
-        "venue": "국가무형유산 전수교육관 민속극장 풍류 (예선 일반부·신인부는 별관 4층, 명창부·학생부·장년부는 별관 3층)",
-        "applyStart": "2025-03-28",
-        "applyEnd": "2025-04-20",
-        "applyText": "2025년 3월 28일 ~ 2025년 4월 20일까지 오후 5시까지",
+        "dateText": "2026.11.29.(일) 09:00~18:00 국가무형유산 전수교육관 민속극장 풍류",
+        "venue": "국가무형유산 전수교육관 민속극장 풍류",
+        "applyStart": "2026-11-02",
+        "applyEnd": "2026-11-26",
+        "applyText": "2026년 11월 2일(월) ~ 11월 26일(목) 오후 5시까지 (우편·팩스·이메일 접수, 전화접수 불가)",
         "applyMethod": [
           "방문",
           "우편",
@@ -812,7 +811,7 @@
           "videoSubmission": "",
           "notes": "단체부는 본선날 단심제로 함"
         },
-        "registrationOrder": "신청역순 (당일 추첨없이 본부에서 접수역순으로 번호표 배부)",
+        "registrationOrder": "참가신청 접수순으로 당일 번호표 배부",
         "contact": "02-566-9457, FAX 02-557-0746",
         "confidence": "high",
         "sourceType": "official-image",
@@ -14147,6 +14146,80 @@
         "applyEnd": "2026-11-12",
         "applyText": "2026년 10월 26일 ~ 11월 12일 18:00까지(시간 초과 시 접수 불가)",
         "contact": "010-2324-2952, 010-4658-9928, 010-6462-2911, 팩스 061-324-2014"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "세계기록유산 무장포고문 전국판소리경연대회",
+      "region": "전북",
+      "city": "고창군",
+      "genres": [
+        "판소리"
+      ],
+      "levels": [
+        "초등부",
+        "중등부",
+        "고등부",
+        "신인부",
+        "창작판소리부",
+        "일반부"
+      ],
+      "instrumental": false,
+      "vocal": true,
+      "dance": false,
+      "percussion": false,
+      "elementary": true,
+      "middle": true,
+      "high": true,
+      "general": true,
+      "month": "2026-12",
+      "host": "(사)고창동학농민혁명기념사업회, (사)동리문화사업회",
+      "round": "",
+      "contact": "063-561-3517",
+      "registrationOrder": "",
+      "verified": true,
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=45140",
+      "source": "국악신문",
+      "details": {
+        "competitionDate": "2026-12-05",
+        "dateEnd": "",
+        "dateText": "2026.12.5.(토) 09:00~17:00",
+        "venue": "고창 동리국악당",
+        "applyStart": "2026-11-02",
+        "applyEnd": "2026-12-04",
+        "applyText": "2026년 11월 2일 ~ 12월 4일(19:00까지), 참가신청서(사진부착) 작성 후 E-mail 접수",
+        "applyMethod": [
+          "이메일"
+        ],
+        "recipientEmail": [
+          "dongri3517@naver.com"
+        ],
+        "submitDocs": "참가신청서(사진부착)",
+        "eligibility": {
+          "byLevel": "학생(초·중·고): 초·중·고등학교 재학생 또는 동등 학력 또는 만 19세 미만 청소년 / 신인·일반·창작판소리: 만 18세 이상 남녀 (국악 관련 대학 재학생은 신인부 제외)",
+          "restrictions": ""
+        },
+        "entryFee": {
+          "text": "참가비 없음",
+          "amount": 0
+        },
+        "playMinutes": {
+          "text": "일반부·창작판소리부 10분 내외, 고등부 8분 내외, 신인부·중등부 5분 내외, 초등부 4분 내외 (심사위원 재량으로 변경 가능)",
+          "min": 4,
+          "max": 10
+        },
+        "preliminary": {
+          "hasPreliminary": true,
+          "method": "초·중·고·신인·창작판소리부 단심, 일반부 예선/본선",
+          "videoSubmission": "",
+          "notes": "지정고수 있음(무료)"
+        },
+        "registrationOrder": "각 부문별 추첨하여 경연 진행",
+        "contact": "(사)동리문화사업회 063-561-3517",
+        "confidence": "high",
+        "sourceType": "kukak21-article+poster+hwpx",
+        "notes": "판소리 다섯바탕 및 창작 판소리, 창작판소리부는 역사적 사실·인물 바탕 창작 판소리. 후원 고창군. [언론사 워터마크 이미지 미게시 — 저작권. 출처 링크로 대체]"
       },
       "noticeImages": [],
       "noticeText": ""
