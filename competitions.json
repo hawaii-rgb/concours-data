@@ -3892,7 +3892,7 @@
       "noticeImages": []
     },
     {
-      "officialName": "제2회 도봉국악제 전국국악경연대회",
+      "officialName": "제3회 도봉국악제 전국국악경연대회",
       "region": "서울",
       "city": "도봉구",
       "genres": [
@@ -3901,7 +3901,13 @@
         "민요&병창",
         "기악"
       ],
-      "levels": [],
+      "levels": [
+        "초·중등부",
+        "고등부",
+        "신인부",
+        "일반부",
+        "단체부"
+      ],
       "instrumental": true,
       "vocal": true,
       "dance": true,
@@ -3910,25 +3916,25 @@
       "middle": false,
       "high": false,
       "general": false,
-      "month": "12월",
+      "month": "2026-12",
       "applyPeriod": "~2025.12.10(수)",
       "host": "도봉문화재단(주최), 선궁전통예술보존회/선궁전통예술원(주관)",
-      "round": "제2회",
+      "round": "제3회",
       "contact": "seongoong5232@naver.com",
       "registrationOrder": "",
       "verified": true,
-      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=41653",
+      "sourceUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=45173",
       "seedName": "제2회 도봉국악제 전국국악경연대회(12/14) (판소리/무용/민요&병창/기악)",
       "seedUrl": "https://www.kukak21.com/bbs/board.php?bo_table=news&wr_id=41653",
       "source": "원본(콘테스트코리아)",
       "details": {
-        "competitionDate": "2025-12-14",
+        "competitionDate": "2026-12-12",
         "dateEnd": "",
-        "dateText": "2025. 12. 14(일) 오전 9시. 개회식 09:00, 본선 10:00(고등부·일반부), 단심 13:00(초·중등부·신인부·단체부), 결선 15:00(일반부·고등부 종합), 축하공연 16:00, 시상식 17:00",
+        "dateText": "2026. 12. 12.(토) 오전 9시, 축하공연 오후 4시",
         "venue": "도봉구청 2층 선인봉홀",
-        "applyStart": "2025-11-18",
-        "applyEnd": "2025-12-10",
-        "applyText": "2025. 11. 18(화) ~ 2025. 12. 10(수) 24:00까지 (22일간)",
+        "applyStart": "2026-11-16",
+        "applyEnd": "2026-12-09",
+        "applyText": "2026. 11. 16.(월) ~ 12. 9.(수) 24시까지, E-mail 접수(seongoong5232@naver.com, 제목에 부문·참가자명 기재)",
         "applyMethod": [
           "이메일"
         ],
