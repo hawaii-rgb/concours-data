@@ -14232,6 +14232,66 @@
       },
       "noticeImages": [],
       "noticeText": ""
+    },
+    {
+      "officialName": "제11회 김해시 전국국악경연대회",
+      "region": "경남",
+      "city": "김해시",
+      "host": "주최·주관: (사)한국국악협회 김해시지부 / 후원: 김해시, 김해문화원",
+      "round": "제11회",
+      "month": "2026-12",
+      "genres": [
+        "기악",
+        "성악",
+        "타악",
+        "무용"
+      ],
+      "levels": [
+        "학생부",
+        "일반부",
+        "신인부"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611110012",
+      "details": {
+        "competitionDate": "2026-12-06",
+        "dateText": "2026년 12월 6일(일) 오전 9시 30분부터",
+        "venue": "김해문화원",
+        "applyStart": "2026-11-06",
+        "applyEnd": "2026-12-03",
+        "applyText": "2026. 11. 6. ~ 2026. 12. 3.(목) 17:00까지 (선착순 마감) / 접수처: (사)한국국악협회 김해지부 사무국(김해예총), 이메일 접수 / 참가비 무료",
+        "contact": "055-311-7621, 010-3848-1229"
+      },
+      "noticeImages": [],
+      "noticeText": ""
+    },
+    {
+      "officialName": "제27회 전국국악동요경연대회",
+      "region": "서울",
+      "city": "서대문구",
+      "host": "주최: (사)한국코다이협회 / 주관: 모드니예술교육연구소, CCAP / 후원: 국립국악원, 국악방송 등",
+      "round": "제27회",
+      "month": "2026-12",
+      "genres": [
+        "국악동요",
+        "민요"
+      ],
+      "levels": [
+        "유치부",
+        "초등부(저학년부)",
+        "초등부(고학년부)"
+      ],
+      "sourceUrl": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611130052",
+      "details": {
+        "competitionDate": "2026-12-26",
+        "dateText": "2026년 12월 26일(토) 13:00 (초등부·유치부) / 예선(영상심사) 동영상 접수 12.20까지(유치부 예선 없음)",
+        "venue": "서대문문화예술회관 소극장",
+        "applyStart": "2026-11-01",
+        "applyEnd": "2026-12-20",
+        "applyText": "2026. 11. 1. ~ 2026. 12. 20.(일) 예선 동영상 이메일 접수 / 참가비: 독창 8만원, 중창 11만원(5명 이상 14만원, 10명 이상 17만원)",
+        "contact": "02-335-0969, 010-8743-8796"
+      },
+      "noticeImages": [],
+      "noticeText": ""
     }
   ],
   "version": 2,
